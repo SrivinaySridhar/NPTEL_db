@@ -1,4 +1,4 @@
-from db import User, Enrolment, session
+from db import User, Course, Enrolment, session
 import datetime as dt
 
 #Valid user
@@ -9,17 +9,16 @@ user1 = User(
     country = "India",
     state = "Tamil Nadu",
     city = "Chennai",
+    pincode = 600017,
     qualification = "Higher Secondary",
     graduation_year = 2019,
-    profession = "Student",
+    profession = "student",
 
     college_name = "IIT Madras",
-    local_chapter = True,
-    college_id = 0,
     department = "Data Science",
 
     degree = "BS",
-    study_year = "3rd year",
+    study_year = 3,
     scholarship = False,
 
     employer = "NPTEL",
@@ -39,7 +38,28 @@ else:
     session.commit()
 
 #Valid course
-#...
+course1 = Course(
+    unique_course_id = 12345,
+    course_run_id = "noc23_cs01",
+    name = "Introduction to Python",
+    discipline = "Computer Science",
+    category = "Rerun",
+    exam_date = dt.date(2023, 7, 30),
+    duration = 12,
+    faculty = "Prof. Sudarshan Iyengar",
+    institute = "IIT Ropar",
+    coordinating_institute = "IIT Madras",
+    course_status = "op",
+    is_fdp = True
+)
+
+try:
+    session.add(course1)
+except:
+    session.rollback()
+    raise
+else:
+    session.commit()
 
 #Invalid course
 #...   
