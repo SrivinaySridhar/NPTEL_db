@@ -7,10 +7,17 @@ from numpy import genfromtxt
 # file_id = '17SRD8Srf2h7_P0mxwaNDHWP117mIAlETN7KGj1EJazs' - for downloading from gdrive
 
 # Tried to write a function to read the file into a dataframe and convert it to SQL
+# Failed to use the pd.to_sql properly
 
+# Load the data into a dataframe
+# def Load_Data(file_name):
+#     data = pd.read_csv(file_name)
+#     return data
+
+# Currently working on a function to read and clean the data before inserting into the database 
 # def prepare_course_data(file_name):
-
-#     df = pd.read_csv(file_name)
+      ## Load the data
+#     df = Load_Data(file_name)
 
 #     df.rename(columns = {'NPTELCourseId':'unique_course_id', 'NOCCourseId':'course_run_id', 'NOCCourseName':'name',
 #                         'discipline_name':'discipline', 'Category':'category', 'NOCExamDt1':'exam_date', 
@@ -18,7 +25,7 @@ from numpy import genfromtxt
 #                         'nocCoordinatingInstitute':'coordinating_institute', 'CourseStatus':'course_status', 'FdpStatus':'is_fdp'},
 #                         inplace = True)
 
-      #Need to add code to generate the 'discipline' and 'duration' columns
+      ## Need to add code to generate the 'discipline' and 'duration' columns
 
 #     df = df.loc[:, ['unique_course_id', 'course_run_id', 'name', 'discipline', 'category', 'exam_date', 'duration', 'faculty', 
 #                     'institute', 'coordinating_institute', 'course_status', 'is_fdp']]
