@@ -46,7 +46,7 @@ class User(Base):
     department = Column(String()) #Possible to make it Enum()? from NPTEL team
 
     #Following fields for profession = Students
-    degree = Column(Enum())
+    degree = Column(Enum(), nullable = False)
     study_year = Column(Integer())
     scholarship = Column(Boolean())
 
@@ -71,7 +71,8 @@ class User(Base):
                                                          'doctoral', 'pre_university', 'bachelor3yr', None])),
                       CheckConstraint(degree.in_(['diploma', 'btech', 'be', 'science', 'others', 'commerce_management', 
                                                   'medical', 'arts_humanities', 'mtech', 'phd', 'not_applicable', 'ms',
-                                                  'me', None])))
+                                                  'me', 'dental' ]))) #have added dental from dropdown menu observation
+
 
 #Courses table
 class Course(Base):
@@ -101,7 +102,9 @@ class Course(Base):
     #Need the enum values for all the columns
     __table_args__ = (CheckConstraint(category.in_(['New', 'Rerun'])), 
                       CheckConstraint(duration.in_([4, 8, 12])), 
-                      CheckConstraint(course_status.in_(["op", "uplc"]))) #Rename this if possible
+                      CheckConstraint(course_status.in_(["op", "uplc", "uptc", "upsc"])), #Rename this if possible
+                      CheckConstraint(coordinating_institute.in_(['IIT Kanpur', 'IIT Madras', 'IISc Bangalore', 'IIT Bombay', 
+                                                                  'IIT Kharagpur', 'IIT Guwahati', 'IIT Roorkee', 'IIT Delhi'])))
 
 #Enrolments table
 class Enrolment(Base):
