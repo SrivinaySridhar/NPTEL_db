@@ -46,7 +46,7 @@ class User(Base):
     department = Column(String()) #Possible to make it Enum()? from NPTEL team
 
     #Following fields for profession = Students
-    degree = Column(Enum()) #Need the enum values - NPTEL team
+    degree = Column(Enum())
     study_year = Column(Integer())
     scholarship = Column(Boolean())
 
@@ -68,7 +68,10 @@ class User(Base):
                       CheckConstraint(age_group.in_(["13-20", "20-30", "30-40", "40-50", "50-60", "60-70", "70-80", "80-90", 
                                                      "90-100"])),
                       CheckConstraint(qualification.in_(['bachelor5yr', 'masters', 'diploma', 'high_school', 'bachelor4yr', 
-                                                         'doctoral', 'pre_university', 'bachelor3yr', None])))
+                                                         'doctoral', 'pre_university', 'bachelor3yr', None])),
+                      CheckConstraint(degree.in_(['diploma', 'btech', 'be', 'science', 'others', 'commerce_management', 
+                                                  'medical', 'arts_humanities', 'mtech', 'phd', 'not_applicable', 'ms',
+                                                  'me', None])))
 
 #Courses table
 class Course(Base):
