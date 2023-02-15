@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import datetime as dt
 
 # Creating an engine connecting to sqlite database
-engine = create_engine("sqlite:///D:\\NPTEL Internship\\SQLAlchemy\\NPTEL_db\\Databases\\database.db", echo = True)
+engine = create_engine("sqlite:///D:\\NPTEL Internship\\SQLAlchemy\\NPTEL_db\\Databases\\database1.db", echo = True)
 
 # Declarative style schema definition
 Base = declarative_base()
@@ -125,7 +125,8 @@ class Assignment(Base):
 
     assignment_id = Column(Integer(), primary_key = True)
     course_run_id = Column(String(), ForeignKey("courses.course_run_id"), nullable = False) # Alnum dtype
-    assignment_run_id = Column(Integer())
+    assignment_run_id = Column(Integer(), nullable = False)
+    week = Column(Integer(), nullable = False)
     graded = Column(Boolean(), nullable = False)
 
     # May or may not add:
@@ -133,7 +134,7 @@ class Assignment(Base):
     # subjectivity = Column(Boolean(), nullable = False)
 
     # UniqueConstraint to enforce that each course_run and assignment_run pair is unique
-    __table_args__ = (UniqueConstraint('course_run_id', 'assignment_run_id', name='_course_assignment_uc'),)
+    __table_args__ = (UniqueConstraint('course_run_id', 'assignment_run_id', name='_course_assignment_uc'), )
 
 #Creating the tables by calling the below function
 Base.metadata.create_all(engine)
