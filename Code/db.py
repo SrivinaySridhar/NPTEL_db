@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import datetime as dt
 
 # Creating an engine connecting to sqlite database
-engine = create_engine("sqlite:///D:\\NPTEL Internship\\SQLAlchemy\\NPTEL_db\\Databases\\database1.db", echo = True)
+engine = create_engine("sqlite:///D:\\NPTEL Internship\\SQLAlchemy\\NPTEL_db\\Databases\\database2.db", echo = True)
 
 # Declarative style schema definition
 Base = declarative_base()
@@ -119,7 +119,7 @@ class Enrolment(Base):
     # UniqueConstraint to enforce that each user can enrol to a particular course offered in a term only once
     __table_args__ = (UniqueConstraint('user_id', 'course_run_id', name='_user_course_run_uc'),)
 
-#Assignments table
+# Assignments table
 class Assignment(Base):
     __tablename__ = "assignments"
 
@@ -136,8 +136,20 @@ class Assignment(Base):
     # UniqueConstraint to enforce that each course_run and assignment_run pair is unique
     __table_args__ = (UniqueConstraint('course_run_id', 'assignment_run_id', name='_course_assignment_uc'), )
 
-#Creating the tables by calling the below function
+# Assignment scores table
+class Score(Base):
+    __tablename__ = "assignment_scores"
+
+    enrolment_id = Column(String(), ForeignKey("enrolments.enrolment_id"), primary_key = True) # Alnum dtype
+    assignment_id = Column(Integer(), ForeignKey("assignments.assignment_id"), primary_key = True)
+    score = Column(Integer())
+
+    # Might not require the following constraint because they are primary key pair
+    # UniqueConstraint to enforce that each enrolment and assignment pair is unique
+    # __table_args__ = (UniqueConstraint('enrolment_id', 'assignment_id', name='_enrolment_assignment_uc'), )
+
+# Creating the tables by calling the below function
 Base.metadata.create_all(engine)
 
-#Creating a session to perform CRUD operations
+# Creating a session to perform CRUD operations
 session = sessionmaker()(bind = engine)
