@@ -94,8 +94,12 @@ def prepare_course_data(file_name):
     df = df.loc[:, ['unique_course_id', 'course_run_id', 'name', '_discipline', 'category', 'exam_date', '_duration', 'faculty', 
                     'institute', 'coordinating_institute', 'course_status', 'is_fdp']]
     
+    # Drop those courses that do not have a duration value associated with it
+    df = df.dropna(axis=0, subset=['_duration'])
+
+    # Converting the 'unique_course_id' and '_duration' to int() dtype
+    df['unique_course_id'] = df['unique_course_id'].astype(int)
+    df['_duration'] = df['_duration'].astype(int)
+
     # Returning the dataframe
     return df
-
-data = prepare_course_data(COURSES_URL)
-data.head()
