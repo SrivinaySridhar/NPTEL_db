@@ -78,7 +78,7 @@ class User(Base):
 class Course(Base):
     __tablename__ = "courses"
 
-    unique_course_id = Column(String(), nullable = False) # Alnum dtype
+    unique_course_id = Column(Integer(), nullable = False) # Alnum dtype
     course_run_id = Column(String(), primary_key = True, nullable = False) # Alnum dtype
     name = Column(String(), nullable = False)
     discipline = Column(Enum(), nullable = False)
@@ -150,6 +150,3 @@ class Score(Base):
 
 # Creating the tables by calling the below function
 Base.metadata.create_all(engine)
-
-# Creating a session to perform CRUD operations
-session = sessionmaker()(bind = engine)
