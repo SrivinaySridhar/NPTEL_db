@@ -1,0 +1,1362 @@
+unique_course_id,course_run_id,name,_discipline,category,exam_date,_duration,faculty,institute,coordinating_institute,course_status,is_fdp
+101104069,noc22-ae01,Aircraft Design,Aerospace Engineering,Rerun,2022-04-23,12,Prof. A.K.Ghosh,IIT Kanpur,IIT Kanpur,oc,True
+101104066,noc22-ae02,Introduction to Experiments in Flight,Aerospace Engineering,Rerun,2022-04-23,4,Prof. A.K.Ghosh,IIT Kanpur,IIT Kanpur,oc,False
+101106082,noc22-ae03,Rocket Propulsion,Aerospace Engineering,Rerun,2022-04-23,12,"Prof. K. Ramamurthi 
+Prof. V. Nagabhushana Rao",IIT Madras,IIT Madras,oc,True
+101104086,noc22-ae04,Computational Science in Engineering,Aerospace Engineering,Rerun,2022-04-23,8,Prof. Ashoke De,IIT Kanpur,IIT Kanpur,oc,True
+101108086,noc22-ae05,Gasdynamics: Fundamentals and Applications,Aerospace Engineering,Rerun,2022-04-23,12,Prof. Srisha Rao M V,IISc Bangalore,IISc Bangalore,oc,True
+101101086,noc22-ae06,Introduction to Launch Vehicle Analysis and Design,Aerospace Engineering,Rerun,2022-04-24,8,Prof. Ashok Joshi,IIT Bombay,IIT Bombay,oc,True
+101101087,noc22-ae07,Lighter than Air Systems,Aerospace Engineering,Rerun,2022-04-23,12,Prof. Rajkumar S. Pant,IIT Bombay,IIT Bombay,oc,True
+101105077,noc22-ae08,Satellite Attitude Dynamics and Control,Aerospace Engineering,Rerun,2022-04-23,12,Prof. Manoranjan Sinha,IIT Kharagpur,IIT Kharagpur,oc,True
+101105088,noc22-ae09,Fundamentals of Theoretical and Experimental Aerodynamics,Aerospace Engineering,New,2022-04-23,12,Prof. Arnab Roy,IIT Kharagpur,IIT Kharagpur,oc,True
+101104062,noc22-ae10,Aircraft Stability and Control,Aerospace Engineering,Rerun,2022-10-29,12,Prof. A. K. Ghosh,IIT Kanpur,IIT Kanpur,uplc,False
+101104061,noc22-ae11,Introduction to Airplane Performance,Aerospace Engineering,Rerun,2022-09-25,8,Prof. A. K. Ghosh,IIT Kanpur,IIT Kanpur,uptc,False
+101104084,noc22-ae12,Introduction to Airbreathing Propulsion,Aerospace Engineering,Rerun,2022-10-30,12,Prof. Ashoke De,IIT Kanpur,IIT Kanpur,uplc,True
+101101079,noc22-ae13,Introduction to Aerospace Engineering-Flight,Aerospace Engineering,Rerun,2022-10-30,12,Prof. Rajkumar Pant,IIT Bombay,IIT Bombay,uplc,False
+101101083,noc22-ae14,Introduction to Aircraft Design,Aerospace Engineering,Rerun,2022-10-29,12,Prof. Rajkumar Pant,IIT Bombay,IIT Bombay,uplc,True
+101104073,noc22-ae15,Design of Fixed Wing Unmanned Aerial Vehicles,Aerospace Engineering,Rerun,2022-09-25,8,Prof. Saderla Subrahmanyam,IIT Kanpur,IIT Kanpur,uptc,True
+101104083,noc22-ae16,UAV Design - Part II,Aerospace Engineering,Rerun,2022-09-25,8,Prof. Saderla Subrahmanyam,IIT Kanpur,IIT Kanpur,uptc,True
+101104063,noc22-ae17,Engineering Thermodynamics,Aerospace Engineering,Rerun,2022-10-29,12,Prof. D. P. Mishra,IIT Kanpur,IIT Kanpur,uplc,False
+101105089,noc22-ae18,Aerodynamic Design of Axial Flow Compressors & Fans,Aerospace Engineering,New,2022-10-29,12,Prof. Chetankumar Sureshbhai Mistry,IIT Kharagpur,IIT Kharagpur,uplc,True
+101105084,noc22-ae19,Aircraft Structures - I,Aerospace Engineering,Rerun,2022-09-25,8,Prof. Anup Ghosh,IIT Kharagpur,IIT Kharagpur,uptc,True
+101105085,noc22-ae20,Introduction to CFD,Aerospace Engineering,Rerun,2022-10-30,12,Prof. Arnab Roy,IIT Kharagpur,IIT Kharagpur,uplc,True
+101105083,noc22-ae21,Space Flight Mechanics,Aerospace Engineering,Rerun,2022-10-30,12,Prof. Manoranjan Sinha,IIT Kharagpur,IIT Kharagpur,uplc,True
+126105012,noc22-ag01,Soil And Water Conservation Engineering,Agriculture,Rerun,2022-04-24,12,Prof. Rajendra Singh,IIT Kharagpur,IIT Kharagpur,oc,False
+126105016,noc22-ag02,Soil Science and Technology,Agriculture,Rerun,2022-04-23,12,Prof. Somsubhra Chakraborty,IIT Kharagpur,IIT Kharagpur,oc,False
+126105015,noc22-ag03,Novel Technologies for Food Processing and Shelf-Life Extension,Agriculture,Rerun,2022-04-23,12,Prof. Hari Niwas Mishra,IIT Kharagpur,IIT Kharagpur,oc,True
+126105020,noc22-ag04,Instrumentation and Process Control in Food Industry,Agriculture,New,2022-03-27,8,Prof. Ashis Kumar Datta,IIT Kharagpur,IIT Kharagpur,oc,True
+126105021,noc22-ag05,Machine Learning For Soil And Crop Management,Agriculture,New,2022-04-23,12,Prof. Somsubhra Chakraborty,IIT Kharagpur,IIT Kharagpur,oc,True
+126105013,noc22-ag06,Dairy and Food process and products technology,Agriculture,Rerun,2022-10-29,12,Prof. Tridib Kumar Goswami,IIT Kharagpur,IIT Kharagpur,uplc,True
+126105009,noc22-ag07,Farm Machinery,Agriculture,Rerun,2022-10-29,12,Prof. V. K. Tewari,IIT Kharagpur,IIT Kharagpur,uplc,False
+126105011,noc22-ag08,Fundamentals of Food Process Engineering,Agriculture,Rerun,2022-10-29,12,Prof. Jayeeta Mitra,IIT Kharagpur,IIT Kharagpur,uplc,False
+126105014,noc22-ag09,Organic Farming for Sustainable Agricultural Production,Agriculture,Rerun,2022-09-25,8,Prof. Dilip Kumar Swain,IIT Kharagpur,IIT Kharagpur,uptc,True
+126103022,noc22-ag10,Natural Resources Management,Agriculture,New,2022-10-29,12,Prof. Sudip Mitra,IIT Guwahati,IIT Guwahati,uplc,True
+126105019,noc22-ag11,Micro Irrigation Engineering,Agriculture,Rerun,2022-10-30,12,Prof. Kamlesh Narayan Tiwari,IIT Kharagpur,IIT Kharagpur,uplc,True
+126105022,noc22-ag12,Advanced Aquaculture Technology,Agriculture,New,2022-10-29,12,Prof. Gourav Dhar Bhowmick,IIT Kharagpur,IIT Kharagpur,uplc,True
+126105023,noc22-ag13,"Post Harvest Operations and Processing of Fruits, Vegetables, Spices and Plantation Crop Products",Agriculture,New,2022-10-29,12,Prof. H N Mishra,IIT Kharagpur,IIT Kharagpur,uplc,True
+126105024,noc22-ag14,Soil Fertility And Fertilizers,Agriculture,New,2022-10-29,12,Prof. Somsubhra Chakraborty,IIT Kharagpur,IIT Kharagpur,uplc,True
+124107012,noc22-ar01,"Structure, Form, and Architecture: The Synergy",Architecture,Rerun,2022-03-27,8,Prof. Shubhajit Sadhukhan,IIT Roorkee,IIT Roorkee,oc,True
+124107008,noc22-ar02,User Interface Design,Architecture,Rerun,2022-04-23,4,Prof. Saptarshi Kolay,IIT Roorkee,IIT Roorkee,oc,True
+124106009,noc22-ar03,Introduction to History of Architecture in India,Architecture,Rerun,2022-03-27,4,Prof. Pushkar Sohoni,IISER Pune,IIT Madras,oc,False
+124107159,noc22-ar04,Engineering/Architectural Graphics - part II - Isometric and Axonometric Drawings,Architecture,New,2022-04-24,4,Prof. Avlokita Agrawal,IIT Roorkee,IIT Roorkee,oc,False
+124107010,noc22-ar05,Disaster Recovery and Build Back Better,Architecture,Rerun,2022-04-24,8,"Prof. Ram Sateesh Pasupuleti 
+Prof. Subhojyothi Samaddar",IIT Roorkee,IIT Roorkee,oc,True
+124107157,noc22-ar06,Engineering/Architectural Graphics - part I - Orthographic projection,Architecture,Rerun,2022-04-24,8,Prof. Avlokita Agrawal,IIT Roorkee,IIT Roorkee,oc,False
+124107160,noc22-ar07,Environmental Impact Assessment,Architecture,New,2022-04-24,12,Prof. Harshit Sosan Lakra,IIT Roorkee,IIT Roorkee,oc,True
+124105003,noc22-ar08,Architectural Conservation and Historic Preservation,Architecture,Rerun,2022-09-25,8,Prof. Sanghamitra Basu,IIT Kharagpur,IIT Kharagpur,uptc,True
+124107006,noc22-ar09,Role of Craft and Technology in Interior - Architecture,Architecture,Rerun,2022-09-25,8,Prof. Smriti Saraswat,IIT Roorkee,IIT Roorkee,uptc,True
+124107007,noc22-ar10,Urban governance and Development Management (UGDM),Architecture,Rerun,2022-10-29,12,Prof. Uttam Kumar Roy,IIT Roorkee,IIT Roorkee,uplc,True
+124107005,noc22-ar11,Contemporary Architecture and Design,Architecture,Rerun,2022-09-25,8,Prof. Saptarshi Kolay,IIT Roorkee,IIT Roorkee,uptc,True
+124107011,noc22-ar12,Sustainable Architecture,Architecture,Rerun,2022-10-29,12,Prof. Avlokita Agrawal,IIT Roorkee,IIT Roorkee,uplc,False
+124107161,noc22-ar13,Modern Indian Architecture,Architecture,New,2022-10-29,8,Prof. P.S. Chani,IIT Roorkee,IIT Roorkee,uptc,True
+124105013,noc22-ar14,Building Materials and Composites,Architecture,Rerun,2022-09-25,8,Prof. Sumana Gupta,IIT Kharagpur,IIT Kharagpur,uptc,False
+124105016,noc22-ar15,Urban Landuse and Transportation planning,Architecture,Rerun,2022-10-29,12,Prof. Debapratim Pandit,IIT Kharagpur,IIT Kharagpur,uplc,True
+124105158,noc22-ar16,"Urban Utilities Planning: Water Supply, Sanitation and Drainage",Architecture,Rerun,2022-10-29,12,Prof. Debapratim Pandit,IIT Kharagpur,IIT Kharagpur,uplc,True
+124107162,noc22-ar17,International Studies in Vernacular Architecture,Architecture,New,2022-09-25,4,Prof. Ram Sateesh Pasupuleti,IIT Roorkee,IIT Roorkee,upsc,True
+124107158,noc22-ar18,Introduction to Urban Planning,Architecture,Rerun,2022-09-25,8,Prof. Harshit Sosan Lakra,IIT Roorkee,IIT Roorkee,uptc,True
+102101091,noc22-bt01,Maternal Infant Young Child Nutrition,BioTechnology,New,2022-04-23,12,Prof. Rupal Dalal,IIT Bombay,IIT Bombay,oc,True
+102106068,noc22-bt03,Computational Systems Biology,BioTechnology,Rerun,2022-04-23,12,Prof. Karthik Raman,IIT Madras,IIT Madras,oc,True
+102106069,noc22-bt04,Material and Energy Balances,BioTechnology,Rerun,2022-04-23,12,Prof. Vignesh Muthuvijayan,IIT Madras,IIT Madras,oc,False
+102108082,noc22-bt05,Optical Spectroscopy and Microscopy : Fundamentals of optical measurements and instrumentation,BioTechnology,Rerun,2022-04-23,12,Prof. Balaji Jayaprakash,IISc Bangalore,IISc Bangalore,oc,True
+102104061,noc22-bt06,Introduction to Professional Scientific Communication,BioTechnology,Rerun,2022-03-27,4,Prof. S. Ganesh,IIT Kanpur,IIT Kanpur,oc,True
+102104052,noc22-bt07,Human Molecular Genetics,BioTechnology,Rerun,2022-03-27,4,Prof. S. Ganesh,IIT Kanpur,IIT Kanpur,oc,True
+102101067,noc22-bt08,Introductory Mathematical Methods for Biologists,BioTechnology,Rerun,2022-04-24,8,Prof. Ranjit Padinhateeri,IIT Bombay,IIT Bombay,oc,True
+102105064,noc22-bt09,Aspects Of Biochemical Engineering,BioTechnology,Rerun,2022-04-23,12,Prof. Debabrata Das,IIT Kharagpur,IIT Kharagpur,oc,True
+102101068,noc22-bt10,Bioengineering: An Interface with Biology and Medicine,BioTechnology,Rerun,2022-03-27,8,Prof. Sanjeeva Srivastava,IIT Bombay,IIT Bombay,oc,False
+102101082,noc22-bt11,Interactomics : Basics & Applications,BioTechnology,Rerun,2022-04-23,12,Prof. Sanjeeva Srivastava,IIT Bombay,IIT Bombay,oc,True
+102106065,noc22-bt12,BioInformatics: Algorithms and Applications,BioTechnology,Rerun,2022-04-24,12,Prof. Michael Gromiha,IIT Madras,IIT Madras,oc,True
+102106051,noc22-bt13,Biostatistics and Design of experiments,BioTechnology,Rerun,2022-03-27,8,Prof. Mukesh Doble,IIT Madras,IIT Madras,oc,True
+102106066,noc22-bt14,Demystifying The Brain,BioTechnology,Rerun,2022-03-27,4,Prof. Srinivas Chakravarthy,IIT Madras,IIT Madras,oc,True
+102106057,noc22-bt15,Medical Biomaterials,BioTechnology,Rerun,2022-04-23,8,Prof. Mukesh Doble,IIT Madras,IIT Madras,oc,True
+102106082,noc22-bt16,Thermodynamics for Biological Systems : Classical and Statistical Aspect,BioTechnology,Rerun,2022-04-24,12,"Prof. Suraishkumar G K
+Prof. Sanjib Senapati",IIT Madras,IIT Madras,oc,False
+102103091,noc22-bt17,Basics of Biology,BioTechnology,New,2022-04-23,12,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,oc,False
+102108086,noc22-bt18,"Cell Biology: Cellular organization, division and processes",BioTechnology,Rerun,2022-03-27,8,Prof. Shikha Laloraya,IISc Bangalore,IISc Bangalore,oc,True
+102106086,noc22-bt19,Bioreactor Design and Analysis,BioTechnology,Rerun,2022-03-27,8,Prof. Smita Srivastava,IIT Madras,IIT Madras,oc,True
+102103092,noc22-bt20,Data Analysis for Biologists,BioTechnology,New,2022-04-23,8,Prof. Biplab Bose,IIT Guwahati,IIT Guwahati,oc,True
+102103086,noc22-bt21,Biointerface Engineering,BioTechnology,Rerun,2022-03-27,8,Prof. Lalit M. Pandey,IIT Guwahati,IIT Guwahati,oc,True
+102106087,noc22-bt22,Biochemistry - IITM,BioTechnology,Rerun,2022-04-23,12,Prof. Subramaniam K,IIT Madras,IIT Madras,oc,False
+102104082,noc22-bt24,Forests And Their Management,BioTechnology,Rerun,2022-04-23,12,Prof. Ankur Awadhiya ,IIT Kanpur,IIT Kanpur,oc,True
+102104069,noc22-bt25,Nanotechnology In Agriculture,BioTechnology,Rerun,2022-04-24,8,Prof. Mainak Das ,IIT Kanpur,IIT Kanpur,oc,True
+102104062,noc22-bt26,Bioelectrochemistry,BioTechnology,Rerun,2022-04-23,4,Prof. Mainak Das ,IIT Kanpur,IIT Kanpur,oc,True
+102107075,noc22-bt27,Plant Developmental Biology,BioTechnology,Rerun,2022-04-24,4,Prof. Shri RamYadav ,IIT Roorkee,IIT Roorkee,oc,True
+102107086,noc22-bt28,Structural Biology,BioTechnology,Rerun,2022-04-23,12,Prof. Saugata Hazra,IIT Roorkee,IIT Roorkee,oc,True
+102105086,noc22-bt29,Metabolic Engineering,BioTechnology,Rerun,2022-04-24,8,"Prof. Pinaki Sar 
+Prof. Amit Ghosh",IIT Kharagpur,IIT Kharagpur,oc,True
+102104086,noc22-bt31,Conservation Economics,BioTechnology,Rerun,2022-04-23,12,Prof. Ankur Awadhiya,IIT Kanpur,IIT Kanpur,oc,True
+102106093,noc22-bt32,Cellular biophysics: a framework for quantitative biology,BioTechnology,New,2022-09-25,8,Prof. Chaitanya A.Athale,IISER pune,IIT Madras,uptc,True
+102106094,noc22-bt34,Medical Image Analysis,BioTechnology,New,2022-10-29,12,Prof. Ganapathy krishnamurthi,IIT Madras,IIT Madras,uplc,True
+102103093,noc22-bt35,Genome Editing and Engineering,BioTechnology,New,2022-10-29,12,Prof. Utpal Bora,IIT Guwahati,IIT Guwahati,uplc,True
+102105058,noc22-bt36,Industrial Biotechnology,BioTechnology,Rerun,2022-10-29,12,Prof. Debabrata Das,IIT Kharagpur,IIT Kharagpur,uplc,False
+102106070,noc22-bt37,Computer Aided Drug Design,BioTechnology,Rerun,2022-09-25,8,Prof. Mukesh Doble,IIT Madras,IIT Madras,uptc,True
+102106080,noc22-bt38,Plant Cell Bioprocessing,BioTechnology,Rerun,2022-09-25,8,Prof. Smita Srivastava,IIT Madras,IIT Madras,uptc,False
+102106084,noc22-bt39,Introduction to Developmental Biology,BioTechnology,Rerun,2022-10-30,12,Prof. Subramaniam K,IIT Madras,IIT Madras,uplc,True
+102105083,noc22-bt40,Immunology,BioTechnology,Rerun,2022-10-29,12,"Prof. Sudip Kumar Ghosh, Prof. Agneyo Ganguly",IIT Kharagpur,IIT Kharagpur,uplc,False
+102108077,noc22-bt41,Drug Delivery: Principles and Engineering,BioTechnology,Rerun,2022-10-30,12,Prof. Rachit Agarwal,IISc Bangalore,IISc Bangalore,uplc,True
+102104056,noc22-bt42,Functional Genomics,BioTechnology,Rerun,2022-10-29,4,Prof. S. Ganesh,IIT Kanpur,IIT Kanpur,upsc,True
+102101058,noc22-bt43,Introduction to mechanobiology,BioTechnology,Rerun,2022-09-25,8,Prof. Shamik Sen,IIT Bombay,IIT Bombay,uptc,False
+102101056,noc22-bt44,Introduction to Biostatistics,BioTechnology,Rerun,2022-09-25,8,Prof. Shamik Sen,IIT Bombay,IIT Bombay,uptc,True
+102108078,noc22-bt45,Fundamentals of micro and nanofabrication,BioTechnology,Rerun,2022-10-30,12,"Prof. Sushobhan avasthi, Prof. Shankar Selvaraja",IISc Bangalore,IISc Bangalore,uplc,True
+102107058,noc22-bt46,Biomedical nanotechnology,BioTechnology,Rerun,2022-10-29,4,Prof. P. Gopinath,IIT Roorkee,IIT Roorkee,upsc,True
+102101055,noc22-bt47,Introduction to proteomics,BioTechnology,Rerun,2022-09-25,8,Prof. Ã‚ Sanjeeva Srivastava,IIT Bombay,IIT Bombay,uptc,True
+102106022,noc22-bt48,Principles Of Downstream Techniques In Bioprocess,BioTechnology,Rerun,2022-10-29,12,Prof. Mukesh Doble,IIT Madras,IIT Madras,uplc,True
+102106053,noc22-bt49,Bioreactors,BioTechnology,Rerun,2022-09-25,4,Prof. G. K. Suraishkumar,IIT Madras,IIT Madras,upsc,False
+102106081,noc22-bt50,Tissue engineering,BioTechnology,Rerun,2022-09-25,8,Prof. Vignesh Muthuvijayan,IIT Madras,IIT Madras,uptc,True
+102106083,noc22-bt51,Transport Phenomena in Biological Systems,BioTechnology,Rerun,2022-10-29,12,Prof. G. K. Suraishkumar,IIT Madras,IIT Madras,uplc,True
+102101076,noc22-bt52,Introduction to Proteogenomics,BioTechnology,Rerun,2022-10-30,12,Prof. Sanjeeva Srivastava,IIT Bombay,IIT Bombay,uplc,True
+102104088,noc22-bt54,Conservation Geography,BioTechnology,Rerun,2022-10-29,12,Prof. Ankur Awadhiya,IIT Kanpur,IIT Kanpur,uplc,True
+102104073,noc22-bt55,Wildlife Ecology,BioTechnology,Rerun,2022-10-29,12,Prof. Ankur Awadhiya,IIT Kanpur,IIT Kanpur,uplc,True
+102105090,noc22-bt56,Introduction to Biomedical Imaging Systems,BioTechnology,Rerun,2022-10-29,12,Prof. Arun K. Thittai,IIT Madras,IIT Madras,uplc,True
+102105088,noc22-bt57,Environmental Biotechnology,BioTechnology,Rerun,2022-10-30,12,Prof. Pinaki Sar,IIT Kharagpur,IIT Kharagpur,uplc,True
+102103056,noc22-bt58,Introduction to Dynamical Models in Biology,BioTechnology,Rerun,2022-10-30,4,Prof. Biplab Bose,IIT Guwahati,IIT Guwahati,upsc,True
+102103074,noc22-bt59,Genetic Engineering: Theory And Application,BioTechnology,Rerun,2022-10-29,12,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,uplc,True
+102103083,noc22-bt60,Experimental Biotechnology,BioTechnology,Rerun,2022-10-30,12,Prof. Vishal Trivedi,IIT Guwahati,IIT Guwahati,uplc,True
+102106095,noc22-bt61,Organ Printing,BioTechnology,New,2022-09-25,8,Prof. Falguni Pati,IIT Hyderabad,IIT Madras,uptc,True
+102105089,noc22-bt62,Fundamentals of Protein Chemistry,BioTechnology,Rerun,2022-10-30,12,Prof. Swagata Dasgupta,IIT Kharagpur,IIT Kharagpur,uplc,True
+102104058,noc22-bt63,Animal Physiology,BioTechnology,Rerun,2022-10-30,12,Prof. Mainak Das,IIT Kanpur,IIT Kanpur,uplc,True
+102104059,noc22-bt64,Cell Culture Technologies,BioTechnology,Rerun,2022-10-29,8,Prof. Mainak Das,IIT Kanpur,IIT Kanpur,uptc,True
+105105185,noc22-ce01,Geotechnical Engineering II Foundation Engineering,Civil Engineering,Rerun,2022-04-24,12,Prof. Dilip Kumar Baidya,IIT Kharagpur,IIT Kharagpur,oc,False
+105104147,noc22-ce02,Geology and Soil Mechanics,Civil Engineering,Rerun,2022-04-24,12,Prof. Priyanka Ghosh,IIT Kanpur,IIT Kanpur,oc,True
+105101201,noc22-ce03,Geotechnical Engineering - 1,Civil Engineering,Rerun,2022-04-24,12,Prof. D. N. Singh,IIT Bombay,IIT Bombay,oc,False
+105107200,noc22-ce04,Geomorphology,Civil Engineering,Rerun,2022-04-24,12,Prof. Pitambar Pati,IIT Roorkee,IIT Roorkee,oc,True
+105107158,noc22-ce05,Digital Land Surveying And Mapping (DLS&M),Civil Engineering,Rerun,2022-04-23,8,Prof. Jayanta Kumar Ghosh,IIT Roorkee,IIT Roorkee,oc,True
+105105203,noc22-ce06,Hydraulic Engineering,Civil Engineering,Rerun,2022-04-23,12,Prof. Mohammad Saud Afzal,IIT Kharagpur,IIT Kharagpur,oc,False
+105105201,noc22-ce07,Water Supply Engineering,Civil Engineering,Rerun,2022-04-24,12,Prof. Manoj Kumar Tiwari,IIT Kharagpur,IIT Kharagpur,oc,True
+105104178,noc22-ce08,Introduction to Accounting and Finance for Civil Engineers,Civil Engineering,Rerun,2022-03-27,8,"Prof. K. N. Jha
+Prof. Sudhir Misra",IIT Kanpur,IIT Kanpur,oc,True
+105104206,noc22-ce09,Development and Applications of Special Concretes,Civil Engineering,Rerun,2022-03-27,8,Prof. Sudhir Misra,IIT Kanpur,IIT Kanpur,oc,True
+105107201,noc22-ce10,Remote Sensing Essentials,Civil Engineering,Rerun,2022-04-24,12,Prof. Arun K. Saraf,IIT Roorkee,IIT Roorkee,oc,True
+105104216,noc22-ce100,Introductory Field Structural Geology,Civil Engineering,New,2022-10-29,4,Prof. Santanu Misra,IIT Kanpur,IIT Kanpur,upsc,False
+105107156,noc22-ce101,Principles and applications of building science,Civil Engineering,Rerun,2022-09-25,4,Prof. E. Rajasekar,IIT Roorkee,IIT Roorkee,upsc,True
+105101200,noc22-ce102,Environmental Geomechanics,Civil Engineering,Rerun,2022-10-30,12,Prof. D. N. Singh,IIT Bombay,IIT Bombay,uplc,True
+105105177,noc22-ce103,Theory of Elasticity,Civil Engineering,Rerun,2022-10-29,12,"Prof. Amit Shaw, Prof. Biswanath Banerjee",IIT Kharagpur,IIT Kharagpur,uplc,True
+105107210,noc22-ce104,Sustainable Transportation systems,Civil Engineering,Rerun,2022-10-30,12,Prof. Bhola Ram Gurjar,IIT Roorkee,IIT Roorkee,uplc,True
+105106052,noc22-ce11,Geosynthetics And Reinforced Soil Structures,Civil Engineering,Rerun,2022-04-23,12,Prof. K.Rajagopal,IIT Madras,IIT Madras,oc,True
+105106202,noc22-ce12,Maintenance and Repair of Concrete Structures,Civil Engineering,Rerun,2022-04-23,12,Prof. Radhakrishna G. Pillai,IIT Madras,IIT Madras,oc,True
+105106053,noc22-ce13,Modern Construction Materials,Civil Engineering,Rerun,2022-04-23,12,Prof. Ravindra Gettu,IIT Madras,IIT Madras,oc,True
+105106151,noc22-ce14,Structural Dynamics,Civil Engineering,Rerun,2022-04-23,12,Prof. Ramancharala Pradeep Kumar,IIITH,IIT Madras,oc,False
+105107173,noc22-ce15,Applied Environmental Microbiology,Civil Engineering,Rerun,2022-04-23,12,Prof. Gargi Singh,IIT Roorkee,IIT Roorkee,oc,True
+105107181,noc22-ce16,Environmental Remediation of Contaminated Sites,Civil Engineering,Rerun,2022-04-24,12,Prof. Bhanu Prakash Vellanki,IIT Roorkee,IIT Roorkee,oc,True
+105105169,noc22-ce17,Electronic Waste Management - Issues And Challenges,Civil Engineering,Rerun,2022-03-27,4,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,oc,True
+105106187,noc22-ce18,Advanced Topics in the Science and Technology of Concrete,Civil Engineering,Rerun,2022-03-27,4,"Prof. Ravindra Gettu
+Prof. Manu Santhanam",IIT Madras,IIT Madras,oc,True
+105103213,noc22-ce19,Engineering Hydrology,Civil Engineering,New,2022-04-24,12,Prof. Sreeja Pekkat,IIT Guwahati,IIT Guwahati,oc,False
+105105213,noc22-ce20,Retrofitting and Rehabilitation of Civil Infrastructure,Civil Engineering,New,2022-04-24,12,"Prof. Swati Maitra
+Prof. Sriman Kumar Bhattacharyya",IIT Kharagpur,IIT Kharagpur,oc,True
+105103214,noc22-ce21,Expansive Soil,Civil Engineering,New,2022-03-27,8,Prof. Anil Kumar Mishra,IIT Guwahati,IIT Guwahati,oc,True
+105107213,noc22-ce22,Air pollution and Control,Civil Engineering,New,2022-04-24,12,Prof. Bhola Ram Gurjar,IIT Roorkee,IIT Roorkee,oc,True
+105101213,noc22-ce23,Microwave Remote Sensing in Hydrology,Civil Engineering,New,2022-04-23,12,Prof. J. Indu,IIT Bombay,IIT Bombay,oc,True
+105101206,noc22-ce24,Remote Sensing: Principles and Applications,Civil Engineering,Rerun,2022-04-24,12,Prof. Eswar Rajasekaran,IIT Bombay,IIT Bombay,oc,True
+105103207,noc22-ce25,Advanced Soil Mechanics,Civil Engineering,Rerun,2022-04-24,12,Prof. Sreedeep S,IIT Guwahati,IIT Guwahati,oc,True
+105107206,noc22-ce26,Geographic Information Systems,Civil Engineering,Rerun,2022-04-23,12,Prof. Arun K. Saraf,IIT Roorkee,IIT Roorkee,oc,True
+105107207,noc22-ce27,Water and waste water treatment,Civil Engineering,Rerun,2022-04-24,12,Prof. Bhanu Prakash Vellanki,IIT Roorkee,IIT Roorkee,oc,False
+105107208,noc22-ce28,Rock Engineering,Civil Engineering,Rerun,2022-04-24,12,Prof. Priti Maheshwari,IIT Roorkee,IIT Roorkee,oc,True
+105105166,noc22-ce29,Structural Analysis-I,Civil Engineering,Rerun,2022-04-24,12,Prof. Amit Shaw,IIT Kharagpur,IIT Kharagpur,oc,False
+105105171,noc22-ce30,Introduction To Mineral Processing,Civil Engineering,Rerun,2022-04-23,12,Prof. Arun Kumar Majumder,IIT Kharagpur,IIT Kharagpur,oc,True
+105105150,noc22-ce31,Probability Methods in Civil Engineering,Civil Engineering,Rerun,2022-04-24,12,Prof. Rajib Maity,IIT Kharagpur,IIT Kharagpur,oc,True
+105105207,noc22-ce32,Advanced Foundation Engineering,Civil Engineering,Rerun,2022-04-24,12,Prof. Koushik Deb,IIT Kharagpur,IIT Kharagpur,oc,True
+105105208,noc22-ce34,Urban Transportation Systems Planning,Civil Engineering,Rerun,2022-04-24,12,Prof. Bhargab Maitra,IIT Kharagpur,IIT Kharagpur,oc,True
+105105170,noc22-ce35,Mineral Resources: Geology Exploration Economics And Environment,Civil Engineering,Rerun,2022-04-23,12,Prof. M. K. Panigrahi,IIT Kharagpur,IIT Kharagpur,oc,False
+105105200,noc22-ce36,Soil Structure Interaction,Civil Engineering,Rerun,2022-04-23,12,Prof. Koushik Deb,IIT Kharagpur,IIT Kharagpur,oc,True
+105105214,noc22-ce37,Surface Water Hydrology,Civil Engineering,New,2022-04-23,12,Prof. Rajib Maity,IIT Kharagpur,IIT Kharagpur,oc,False
+105102199,noc22-ce38,Scheduling Techniques in Projects,Civil Engineering,Rerun,2022-03-27,4,Prof. J. Uma Maheswari,IIT Delhi,IIT Delhi,oc,True
+105102206,noc22-ce39,Safety in Construction,Civil Engineering,Rerun,2022-04-23,8,Prof. J. Uma Maheswari,IIT Delhi,IIT Delhi,oc,True
+105106206,noc22-ce40,Basic construction materials,Civil Engineering,Rerun,2022-04-24,12,"Prof. Manu Santhanam
+Prof. Radhakrishna G. Pillai",IIT Madras,IIT Madras,oc,False
+105105215,noc22-ce41,Traffic Engineering,Civil Engineering,New,2022-04-23,12,Prof. Bhargab Maitra,IIT Kharagpur,IIT Kharagpur,oc,True
+105106201,noc22-ce42,Introduction to Civil Engineering Profession,Civil Engineering,Rerun,2022-03-27,8,"Prof. Ravindra Gettu
+Prof. Subhadeep Banerjee",IIT Madras,IIT Madras,oc,False
+105104183,noc22-ce43,Natural Hazards,Civil Engineering,Rerun,2022-03-27,8,Prof. Javed N. Malik ,IIT Kanpur,IIT Kanpur,oc,True
+105101214,noc22-ce44,Groundwater hydrology and management,Civil Engineering,New,2022-04-24,12,Prof. Pennan Chinnasamy,IIT Bombay,IIT Bombay,oc,True
+105101215,noc22-ce45,Rural Water Resources Management,Civil Engineering,New,2022-04-23,12,Prof. Pennan Chinnasamy,IIT Bombay,IIT Bombay,oc,True
+105104160,noc22-ce46,Mechanics of Solids,Civil Engineering,Rerun,2022-04-23,12,Prof. Priyanka Ghosh,IIT Kanpur,IIT Kanpur,oc,False
+105106203,noc22-ce47,Mechanical Characterization of Bituminous Materials,Civil Engineering,Rerun,2022-04-23,12,"Prof. M. R. Nivitha (MRN)
+Prof. Neethu Roy(NR)
+Prof. A. Padmarekha(APR)
+Prof. J. Murali Krishnan(JMK)","PSG Tech., Coimbatore
+MBCET, Trivandrum 
+SRM IST, Kattankulathur
+IIT Madras",IIT Madras,oc,True
+105104190,noc22-ce48,Geomorphic Processes: Landforms And Landscapes,Civil Engineering,Rerun,2022-03-27,8,Prof. Javed N. Malik ,IIT Kanpur,IIT Kanpur,oc,False
+105106213,noc22-ce49,Introduction to Lean Construction,Civil Engineering,New,2022-03-27,4,"Prof. Koshy Varghese
+Prof. N Raghavan",IIT Madras,IIT Madras,oc,True
+105102012,noc22-ce50,Concrete Technology,Civil Engineering,Rerun,2022-04-23,12,Prof. B. Bhattacharjee,IIT Delhi,IIT Delhi,oc,True
+105107157,noc22-ce51,GPS Surveying,Civil Engineering,Rerun,2022-09-25,4,Prof. J. K. Ghosh,IIT Roorkee,IIT Roorkee,upsc,False
+124107001,noc22-ce52,Housing Policy & Planning,Civil Engineering,Rerun,2022-09-25,8,Prof. Uttam Kumar Roy,IIT Roorkee,IIT Roorkee,uptc,True
+124107002,noc22-ce53,Visual Communication Design for Digital Media,Civil Engineering,Rerun,2022-09-25,4,Prof. Saptarshi Kolay,IIT Roorkee,IIT Roorkee,upsc,True
+105106172,noc22-ce54,Mechanics Of Materials,Civil Engineering,Rerun,2022-10-29,12,Prof. Saravanan U,IIT Madras,IIT Madras,uplc,False
+105107176,noc22-ce55,Environmental Chemistry,Civil Engineering,Rerun,2022-10-30,12,Prof. Bhanu Prakash Vellanki,IIT Roorkee,IIT Roorkee,uplc,True
+105104161,noc22-ce56,Principles of Construction Management,Civil Engineering,Rerun,2022-09-25,8,Prof. Sudhir Misra,IIT Kanpur,IIT Kanpur,uptc,False
+105106216,noc22-ce57,Design of connections in steel structures,Civil Engineering,New,2022-10-29,4,Prof. Anil Agarwal,IIIT Hyderabad,IIT Madras,upsc,True
+105106176,noc22-ce58,Advanced Concrete Technology,Civil Engineering,Rerun,2022-10-30,12,Prof. Manu Santhanam,IIT Madras,IIT Madras,uplc,True
+105106149,noc22-ce59,Project Planning & Control,Civil Engineering,Rerun,2022-09-25,8,Prof. Koshy Varghese,IIT Madras,IIT Madras,uptc,True
+105101160,noc22-ce60,Geotechnical Engineering Laboratory,Civil Engineering,Rerun,2022-09-25,4,Prof. J. N. Mandal,IIT Bombay,IIT Bombay,upsc,True
+105101209,noc22-ce61,Dynamics of Structures,Civil Engineering,Rerun,2022-10-29,12,Prof. Manish Kumar,IIT Bombay,IIT Bombay,uplc,True
+105107216,noc22-ce62,Underground Space Technology,Civil Engineering,New,2022-10-29,12,Prof. Priti Maheshwari ,IIT Roorkee,IIT Roorkee,uplc,True
+105105216,noc22-ce63,Bridge Engineering,Civil Engineering,New,2022-10-29,12,Prof. Piyali Sengupta,IIT-ISM,IIT Kharagpur,uplc,True
+105108204,noc22-ce64,Introduction to Engineering Seismology,Civil Engineering,Rerun,2022-10-30,12,Prof. Anbazhagan P,IISc Bangalore,IISc Bangalore,uplc,True
+105105105,noc22-ce65,Design of Reinforced Concrete Structures,Civil Engineering,Rerun,2022-10-29,12,Prof. Nirjhar Dhang,IIT Kharagpur,IIT Kharagpur,uplc,True
+105105162,noc22-ce66,Design of Steel Structures,Civil Engineering,Rerun,2022-10-30,12,Prof. Damodar Maity,IIT Kharagpur,IIT Kharagpur,uplc,False
+105105176,noc22-ce67,Foundation Engineering,Civil Engineering,Rerun,2022-10-29,12,Prof. Kousik Deb,IIT Kharagpur,IIT Kharagpur,uplc,False
+105105210,noc22-ce68,Ground Improvement,Civil Engineering,Rerun,2022-10-30,12,Prof. Dilip Kumar Baidya,IIT Kharagpur,IIT Kharagpur,uplc,True
+105105160,noc22-ce69,Integrated Waste Management for a Smart City,Civil Engineering,Rerun,2022-10-30,12,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,uplc,True
+105105204,noc22-ce70,Introduction to Multimodal Urban Transportation Systems (MUTS),Civil Engineering,Rerun,2022-10-29,12,Prof. Arkopal Kishore Goswami,IIT Kharagpur,IIT Kharagpur,uplc,True
+105105180,noc22-ce71,Matrix Method of Structural Analysis,Civil Engineering,Rerun,2022-09-25,8,"Prof. Amit Shaw, Prof. Biswanath Banerjee",IIT Kharagpur,IIT Kharagpur,uptc,False
+105105184,noc22-ce72,Plastic Waste Management,Civil Engineering,Rerun,2022-10-29,8,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,uptc,True
+105105165,noc22-ce73,Reinforced Concrete Road Bridges,Civil Engineering,Rerun,2022-09-25,4,Prof. Nirjhar Dhang,IIT Kharagpur,IIT Kharagpur,upsc,True
+105105168,noc22-ce74,Soil Mechanics/Geotechnical Engineering I,Civil Engineering,Rerun,2022-10-30,12,Prof. Dilip Kumar Baidya,IIT Kharagpur,IIT Kharagpur,uplc,False
+105105108,noc22-ce75,Strength of Materials,Civil Engineering,Rerun,2022-10-30,12,Prof. Sriman Kumar Bhattacharyya,IIT Kharagpur,IIT Kharagpur,uplc,False
+105105178,noc22-ce76,Wastewater Treatment and Recycling,Civil Engineering,Rerun,2022-10-29,12,Prof. Manoj Kumar Tiwari,IIT Kharagpur,IIT Kharagpur,uplc,True
+105107217,noc22-ce77,Environmental Modeling and Simulation,Civil Engineering,New,2022-10-29,12,Prof. Gargi Singh,IIT Roorkee,IIT Roorkee,uplc,True
+105107218,noc22-ce78,Advanced Geomatics Engineering,Civil Engineering,New,2022-10-29,12,Prof. P. K. Garg,IIT Roorkee,IIT Roorkee,uplc,True
+105103204,noc22-ce79,River Engineering,Civil Engineering,Rerun,2022-09-25,8,Prof. Subashisa Dutta,IIT Guwahati,IIT Guwahati,uptc,True
+105103209,noc22-ce80,Plates and Shells,Civil Engineering,Rerun,2022-10-29,12,Prof. Sudip Talukdar,IIT Guwahati,IIT Guwahati,uplc,True
+105103182,noc22-ce81,Subsurface exploration :importance and techniques involved,Civil Engineering,Rerun,2022-09-25,8,Prof. Abhishek Kumar,IIT Guwahati,IIT Guwahati,uptc,True
+105103205,noc22-ce82,Municipal Solid Waste Management,Civil Engineering,Rerun,2022-10-30,12,Prof. Ajay Kalamdhad,IIT Guwahati,IIT Guwahati,uplc,True
+105103210,noc22-ce83,Optimization methods for Civil engineering,Civil Engineering,Rerun,2022-10-29,12,Prof. Rajib Kumar Bhattacharjya,IIT Guwahati,IIT Guwahati,uplc,True
+105103193,noc22-ce84,Remote Sensing and GIS,Civil Engineering,Rerun,2022-09-25,8,Prof. Rishikesh Bharti,IIT Guwahati,IIT Guwahati,uptc,True
+105103192,noc22-ce85,Fluid Mechanics,Civil Engineering,Rerun,2022-10-29,12,Prof. Subashisa Dutta,IIT Guwahati,IIT Guwahati,uplc,False
+-2147483648,noc22-ce86,Earth Sciences for Civil Engineering Part - I & II,Civil Engineering,Rerun,2022-09-25,8,Prof. Javed N. Malik,IIT Kanpur,IIT Kanpur,uptc,False
+105104200,noc22-ce87,Earthquake Geology:A Tool for Seismic Hazard Assessment,Civil Engineering,Rerun,2022-10-29,12,Prof. Javed N. Malik,IIT Kanpur,IIT Kanpur,uplc,True
+105105212,noc22-ce90,Rock Mechanics and Tunneling,Civil Engineering,Rerun,2022-10-29,12,Prof. Debarghya Chakraborty,IIT Kharagpur,IIT Kharagpur,uplc,True
+105105217,noc22-ce91,Elastic Stability of Structures,Civil Engineering,New,2022-10-29,12,Prof. Sarat Kumar Panda,IIT-ISM,IIT Kharagpur,uplc,True
+105105219,noc22-ce92,Availability and Management of Groundwater Resources,Civil Engineering,New,2022-10-29,12,Prof. Prasoon Kumar Singh,IIT-ISM,IIT Kharagpur,uplc,True
+105107219,noc22-ce93,Pavement Materials (Under Pavement Engineering),Civil Engineering,New,2022-10-29,12,Prof. Nikhil Saboo,IIT Roorkee,IIT Roorkee,uplc,True
+105107220,noc22-ce94,Geometric Design of Highways,Civil Engineering,New,2022-10-29,12,Prof. Rajat Rastogi,IIT Roorkee,IIT Roorkee,uplc,True
+105107209,noc22-ce95,Finite Element Method and Computational Structural Dynamics,Civil Engineering,Rerun,2022-10-30,12,Prof. Manish Shrikhande,IIT Roorkee,IIT Roorkee,uplc,True
+105101216,noc22-ce96,Geotechnical Engineering-II,Civil Engineering,New,2022-10-30,12,Prof. D. N. Singh,IIT Bombay,IIT Bombay,uplc,True
+105107194,noc22-ce97,Global Navigation Satellite Systems And Applications,Civil Engineering,Rerun,2022-09-25,4,Prof. Arun K. Saraf,IIT Roorkee,IIT Roorkee,upsc,True
+105104191,noc22-ce98,Structural Geology,Civil Engineering,Rerun,2022-10-30,12,Prof. Santanu Misra,IIT Kanpur,IIT Kanpur,uplc,False
+105105218,noc22-ce99,Radiogenic Isotope Geology,Civil Engineering,New,2022-10-29,12,Prof R. Anand,IIT-ISM,IIT Kharagpur,uplc,True
+101104067,noc22-ch01,Engineering Thermodynamics,Chemical Engineering,Rerun,2022-03-27,8,Prof. Jayant K. Singh,IIT Kanpur,IIT Kanpur,oc,False
+103103165,noc22-ch02,Basic Principles and Calculations in Chemical Engineering,Chemical Engineering,Rerun,2022-04-24,12,Prof. Subrata Kumar Majumdar,IIT Guwahati,IIT Guwahati,oc,False
+103103147,noc22-ch03,Fluid Flow Operations,Chemical Engineering,Rerun,2022-04-24,12,Prof. Subrata Kumar Majumdar,IIT Guwahati,IIT Guwahati,oc,False
+103103164,noc22-ch04,Computer Aided Applied Single Objective Optimization,Chemical Engineering,Rerun,2022-04-23,12,Prof. Prakash Kotecha,IIT Guwahati,IIT Guwahati,oc,True
+103107125,noc22-ch05,Waste to Energy Conversion,Chemical Engineering,Rerun,2022-03-27,8,Prof. P. Mondal,IIT Roorkee,IIT Roorkee,oc,True
+103105128,noc22-ch06,Transport phenomena,Chemical Engineering,Rerun,2022-04-24,12,Prof. Sunando DasGupta,IIT Kharagpur,IIT Kharagpur,oc,False
+103108123,noc22-ch07,Transport Processes I: Heat and Mass Transfer,Chemical Engineering,Rerun,2022-04-24,12,Prof. V. Kumaran,IISc Bangalore,IISc Bangalore,oc,True
+103105121,noc22-ch08,Introduction To Process Modeling In The Membrane Separation Process,Chemical Engineering,Rerun,2022-04-23,4,Prof. Sirshendu De,IIT Kharagpur,IIT Kharagpur,oc,True
+103101137,noc22-ch09,Heat Transfer,Chemical Engineering,Rerun,2022-04-24,12,Prof. Ganesh Viswanathan,IIT Bombay,IIT Bombay,oc,False
+103105122,noc22-ch11,Soft Nano Technology,Chemical Engineering,Rerun,2022-03-27,8,Prof. Rabibrata Mukherjee,IIT Kharagpur,IIT Kharagpur,oc,True
+103103162,noc22-ch13,Advanced Thermodynamics,Chemical Engineering,Rerun,2022-04-24,12,Prof. Nanda Kishore,IIT Guwahati,IIT Guwahati,oc,True
+103103163,noc22-ch14,Membrane Technology,Chemical Engineering,Rerun,2022-04-23,12,Prof. Kaustubha Mohanty,IIT Guwahati,IIT Guwahati,oc,True
+103105139,noc22-ch15,Optimization in Chemical Engineering,Chemical Engineering,Rerun,2022-04-23,12,Prof. Debasis Sarkar,IIT Kharagpur,IIT Kharagpur,oc,True
+103103144,noc22-ch16,Chemical Engineering Thermodynamics,Chemical Engineering,Rerun,2022-04-23,12,Prof. Sasidhar Gumma,IIT Tirupati,IIT Madras,oc,False
+103108162,noc22-ch17,Electrochemical Technology in Pollution Control,Chemical Engineering,Rerun,2022-03-27,8,Prof. J. R. Mudakavi,IISc Bangalore,IISc Bangalore,oc,True
+103103136,noc22-ch18,Multiphase Flows,Chemical Engineering,Rerun,2022-03-27,8,Prof. Rajesh Kumar Upadhyay,IIT(BHU) Varanasi,IIT Madras,oc,True
+103106123,noc22-ch19,Applied Time-Series Analysis,Chemical Engineering,Rerun,2022-04-24,12,Prof. Arun K Tangirala,IIT Madras,IIT Madras,oc,True
+103106119,noc22-ch20,Computational Fluid Dynamics,Chemical Engineering,Rerun,2022-04-24,12,Prof. Sreenivas Jayanti,IIT Madras,IIT Madras,oc,True
+103106148,noc22-ch21,"Process Control - Design, Analysis and Assessment",Chemical Engineering,Rerun,2022-04-24,12,Prof. Ragunathan Rengasamy,IIT Madras,IIT Madras,oc,False
+103105127,noc22-ch22,Chemical Engineering Thermodynamics - IITKGP,Chemical Engineering,Rerun,2022-04-23,12,Prof. Gargi Das,IIT Kharagpur,IIT Kharagpur,oc,False
+103103211,noc22-ch23,Physical and Electrochemical Characterizations in Chemical Engineering,Chemical Engineering,New,2022-03-27,8,Prof. Tamal Banerjee,IIT Guwahati,IIT Guwahati,oc,True
+103107211,noc22-ch24,Chemical Process Utilities,Chemical Engineering,New,2022-04-23,12,Prof. Shishir Sinha,IIT Roorkee,IIT Roorkee,oc,True
+103107212,noc22-ch25,Physico-chemical processes for wastewater treatment,Chemical Engineering,New,2022-04-23,12,Prof. Vimal Chandra Srivastava,IIT Roorkee,IIT Roorkee,oc,True
+103102211,noc22-ch26,Fluid Mechanics and Its Applications,Chemical Engineering,New,2022-04-23,12,Prof. Vijay Gupta,IIT Delhi,IIT Delhi,oc,False
+103103206,noc22-ch27,"Renewable Energy Engineering: Solar, Wind and Biomass Energy Systems",Chemical Engineering,Rerun,2022-04-23,12,"Prof. Vaibhav Vasant Goud
+Prof. R. Anandalakshmi",IIT Guwahati,IIT Guwahati,oc,True
+103103207,noc22-ch28,Biomass Conversion and Biorefinery,Chemical Engineering,Rerun,2022-04-23,12,Prof. Kaustubha Mohanty,IIT Guwahati,IIT Guwahati,oc,True
+103107207,noc22-ch29,Process Equipment Design,Chemical Engineering,Rerun,2022-04-23,12,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,oc,False
+103107208,noc22-ch30,Advanced Thermodynamics and Molecular Simulations,Chemical Engineering,Rerun,2022-04-24,12,Prof. Prateek Kumar Jha,IIT Roorkee,IIT Roorkee,oc,True
+103107127,noc22-ch31,Unit Operations of Particulate Matter,Chemical Engineering,Rerun,2022-04-23,4,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,oc,False
+105105186,noc22-ch32,Mass Momentum and Energy Balances in Engineering Analysis,Chemical Engineering,Rerun,2022-03-27,8,Prof. Pavitra Sandilya,IIT Kharagpur,IIT Kharagpur,oc,True
+103106162,noc22-ch33,Environmental Quality Monitoring & Analysis,Chemical Engineering,Rerun,2022-04-24,12,Prof. Ravi Krishna R,IIT Madras,IIT Madras,oc,True
+103107206,noc22-ch34,Polymer Reaction Engineering,Chemical Engineering,Rerun,2022-04-23,12,Prof. Shishir Sinha,IIT Roorkee,IIT Roorkee,oc,True
+103105130,noc22-ch35,Chemical Process Instrumentation,Chemical Engineering,Rerun,2022-04-24,12,Prof. Debasis Sarkar,IIT Kharagpur,IIT Kharagpur,oc,False
+103103209,noc22-ch37,Aspen Plus® simulation software - a basic course for beginners,Chemical Engineering,Rerun,2022-04-23,12,Prof. Prabirkumar Saha,IIT Guwahati,IIT Guwahati,oc,True
+103107157,noc22-ch38,Technologies For Clean And Renewable Energy Production,Chemical Engineering,Rerun,2022-09-25,8,Prof. P. Mondal,IIT Roorkee,IIT Roorkee,uptc,True
+103104151,noc22-ch39,Chemical Engineering Thermodynamics,Chemical Engineering,Rerun,2022-10-29,12,Prof. Jayant K. Singh,IIT Kanpur,IIT Kanpur,uplc,False
+103106158,noc22-ch40,Fluid and Particle Mechanics,Chemical Engineering,Rerun,2022-10-29,12,"Prof. Sumesh, Prof. Basavaraju",IIT Madras,IIT Madras,uplc,False
+103108127,noc22-ch41,Trace and ultra-trace analysis of metals using atomic absorption spectrometry,Chemical Engineering,Rerun,2022-09-25,8,Prof. J. R. Mudakavi,IISc Bangalore,IISc Bangalore,uptc,True
+105106204,noc22-ch42,Colloids and Surfaces,Chemical Engineering,Rerun,2022-09-25,8,Prof. Basavaraj Madivala Gurappa,IIT Madras,IIT Madras,uptc,True
+105106205,noc22-ch43,"Polymers: concepts, properties, uses and sustainability",Chemical Engineering,Rerun,2022-10-30,12,Prof. Abhijit P Deshpande,IIT Madras,IIT Madras,uplc,True
+103107156,noc22-ch44,Chemical Process Safety,Chemical Engineering,Rerun,2022-10-30,12,Prof. Shishir Sinha,IIT Roorkee,IIT Roorkee,uplc,False
+103107215,noc22-ch45,Basic Environmental Engineering and Pollution Abatement,Chemical Engineering,New,2022-10-29,12,Prof. P. Mondal,IIT Roorkee,IIT Roorkee,uplc,True
+103105215,noc22-ch47,Mathematical modelling and simulation of chemical engineering process,Chemical Engineering,New,2022-10-29,12,Prof. Sourav Mondal,IIT Kharagpur,IIT Kharagpur,uplc,True
+103105210,noc22-ch48,Principles and Practices of Process Equipment and Plant Design,Chemical Engineering,Rerun,2022-10-30,12,"Prof. Gargi Das
+Prof S. Ray",IIT Kharagpur,IIT Kharagpur,uplc,False
+103103139,noc22-ch49,Introduction to Polymer Physics,Chemical Engineering,Rerun,2022-09-25,8,Prof. Amit Kumar,IIT Guwahati,IIT Guwahati,uptc,True
+103103145,noc22-ch50,Mass Transfer Operations - I,Chemical Engineering,Rerun,2022-10-30,12,Prof. Bishnupada Mandal,IIT Guwahati,IIT Guwahati,uplc,False
+103103153,noc22-ch51,Chemical Reaction Engineering-I,Chemical Engineering,Rerun,2022-10-30,12,Prof. Bishnupada Mandal,IIT Guwahati,IIT Guwahati,uplc,False
+103103154,noc22-ch52,Mass Transfer Operations II,Chemical Engineering,Rerun,2022-10-29,12,Prof. Chandan Das,IIT Guwahati,IIT Guwahati,uplc,False
+103103146,noc22-ch53,Transport Phenomena of Non-Newtonian Fluids,Chemical Engineering,Rerun,2022-10-30,12,Prof. Nanda Kishore,IIT Guwahati,IIT Guwahati,uplc,True
+103103155,noc22-ch54,Mechanical Unit Operations,Chemical Engineering,Rerun,2022-10-30,12,Prof. Nanda Kishore,IIT Guwahati,IIT Guwahati,uplc,False
+103103152,noc22-ch55,Chemical Process Intensification,Chemical Engineering,Rerun,2022-10-29,12,Prof. Subrata Kumar Majumder,IIT Guwahati,IIT Guwahati,uplc,True
+103103132,noc22-ch56,Fluidization Engineering,Chemical Engineering,Rerun,2022-10-29,12,Prof. Subrata Kumar Majumder,IIT Guwahati,IIT Guwahati,uplc,True
+103103140,noc22-ch57,Natural Gas Engineering,Chemical Engineering,Rerun,2022-09-25,8,Prof. Pankaj Tiwari,IIT Guwahati,IIT Guwahati,uptc,True
+103103209,noc22-ch58,Aspen PlusÂ® simulation software - a basic course for beginners,Chemical Engineering,Rerun,2022-10-29,12,Prof. Prabirkumar Saha,IIT Guwahati,IIT Guwahati,uplc,True
+126103017,noc22-ch59,Thermal Processing of Foods,Chemical Engineering,Rerun,2022-10-29,12,Prof. R. Anandalakshmi,IIT Guwahati,IIT Guwahati,uplc,True
+103105216,noc22-ch60,Advanced process dynamics,Chemical Engineering,New,2022-10-29,12,Prof. Parag A. Deshpande,IIT Kharagpur,IIT Kharagpur,uplc,True
+103101209,noc22-ch61,Introduction to interfacial waves,Chemical Engineering,Rerun,2022-10-29,12,Prof. Ratul Dasgupta,IIT Bombay,IIT Bombay,uplc,True
+103107139,noc22-ch62,Introduction to Polymer Physics,Chemical Engineering,Rerun,2022-10-30,12,Prof. Prateek Kumar Jha,IIT Roorkee,IIT Roorkee,uplc,True
+103107143,noc22-ch63,Equipment Design: Mechanical Aspects,Chemical Engineering,Rerun,2022-09-25,4,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,upsc,True
+103107123,noc22-ch64,Mechanical Operations,Chemical Engineering,Rerun,2022-09-25,4,Prof. Shabina Khanam,IIT Roorkee,IIT Roorkee,upsc,False
+103105140,noc22-ch65,Heat Transfer,Chemical Engineering,Rerun,2022-10-30,12,Prof. Sunando Dasgupta,IIT Kharagpur,IIT Kharagpur,uplc,False
+103101215,noc22-ch66,"Hydrogen Energy: Production, Storage, Transportation and Safety",Chemical Engineering,New,2022-10-30,12,Prof. Pratibha Sharma,IIT Bombay,IIT Bombay,uplc,True
+106105157,noc22-cs01,Fundamental Algorithms: Design and Analysis,Computer Science,Rerun,2022-04-24,4,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+106106140,noc22-cs02,Artificial Intelligence: Knowledge Representation And Reasoning,Computer Science,Rerun,2022-04-23,12,Prof. Deepak Khemani,IIT Madras,IIT Madras,oc,True
+106106221,noc22-cs03,Foundations of Cryptography,Computer Science,Rerun,2022-04-23,12,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,oc,True
+106108227,noc22-cs04,Discrete Mathematics - IIITB,Computer Science,Rerun,2022-04-24,12,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,oc,True
+106106158,noc22-cs06,AI:Constraint Satisfaction,Computer Science,Rerun,2022-03-27,8,Prof. Deepak Khemani,IIT Madras,IIT Madras,oc,True
+106107220,noc22-cs08,Data Analytics with Python,Computer Science,Rerun,2022-04-23,12,Prof. A. Ramesh,IIT Roorkee,IIT Roorkee,oc,True
+106105220,noc22-cs09,GPU Architectures and Programming,Computer Science,Rerun,2022-04-24,12,Prof. Soumyajit Dey,IIT Kharagpur,IIT Kharagpur,oc,True
+106103206,noc22-cs10,Advanced Computer Architecture,Computer Science,Rerun,2022-04-24,8,Prof. John Jose,IIT Guwahati,IIT Guwahati,oc,True
+106105214,noc22-cs100,Operating System Fundamentals,Computer Science,Rerun,2022-10-30,12,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,uplc,False
+106105171,noc22-cs101,Problem Solving Through Programming In C,Computer Science,Rerun,2022-10-29,12,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105191,noc22-cs102,Programming In Java,Computer Science,Rerun,2022-10-30,12,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105234,noc22-cs103,Programming in Modern C++,Computer Science,Rerun,2022-10-29,12,Prof. Partha Pratim Das,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105229,noc22-cs104,Real-Time Systems,Computer Science,Rerun,2022-10-30,12,"Prof. Rajib Mall
+Prof. Durga Prasad Mohapatra",IIT Kharagpur,IIT Kharagpur,uplc,True
+106105186,noc22-cs105,Scalable Data Science,Computer Science,Rerun,2022-09-25,8,"Prof. Anirban Dasgupta, Prof. Sourangshu Bhattacharya",IIT Kharagpur,IIT Kharagpur,uptc,True
+106105182,noc22-cs106,Software Engineering,Computer Science,Rerun,2022-10-30,12,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105218,noc22-cs107,Software Project Management,Computer Science,Rerun,2022-10-30,12,"Prof. RAJIB MALL, Prof. DURGA PRASAD MOHAPATRA",IIT Kharagpur,IIT Kharagpur,uplc,True
+106105219,noc22-cs108,Spatial Informatics,Computer Science,Rerun,2022-09-25,8,Prof. SOUMYA K GHOSH,IIT Kharagpur,IIT Kharagpur,uptc,True
+106103229,noc22-cs109,C-Based VLSI Design,Computer Science,Rerun,2022-10-29,12,Prof. Chandan Karfa,IIT Guwahati,IIT Guwahati,uplc,True
+106105174,noc22-cs11,Data Mining,Computer Science,Rerun,2022-04-23,8,Prof. Pabitra Mitra,IIT Kharagpur,IIT Kharagpur,oc,True
+106103183,noc22-cs110,Multi-Core Computer Architecture - Storage and Interconnects,Computer Science,Rerun,2022-09-25,8,Prof. John Jose,IIT Guwahati,IIT Guwahati,uptc,True
+106103224,noc22-cs111,Computer Graphics,Computer Science,Rerun,2022-09-25,8,Prof. Samit Bhattacharya,IIT Guwahati,IIT Guwahati,uptc,False
+106101209,noc22-cs112,Demystifying Networking,Computer Science,Rerun,2022-09-25,4,Prof. Sridhar Iyer,IIT Bombay,IIT Bombay,upsc,True
+106108237,noc22-cs113,Secure Computation: Part II,Computer Science,New,2022-10-29,12,Prof. Ashish Choudhury,IIITB,IISc Bangalore,uplc,True
+106101238,noc22-cs114,Introduction to Computer and Network Performance Analysis using Queuing Systems,Computer Science,New,2022-10-29,4,Prof. Varsha Apte,IIT Bombay,IIT Bombay,upsc,True
+106105237,noc22-cs116,Algorithmic Game Theory,Computer Science,New,2022-10-29,12,Prof. Palash Dey,IIT Kharagpur,IIT Kharagpur,uplc,True
+106106239,noc22-cs117,Social Network Analysis,Computer Science,New,2022-10-29,12,Prof. Tanmoy Chakraborty,IIIT Delhi,IIT Madras,uplc,True
+106105238,noc22-cs119,Machine Learning for Earth System Sciences,Computer Science,New,2022-09-25,8,Prof. Adway Mitra,IIT Kharagpur,IIT Kharagpur,uptc,True
+106105150,noc22-cs12,Software Testing,Computer Science,Rerun,2022-03-27,4,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,oc,True
+106105239,noc22-cs120,Statistical learning for Reliability Analysis,Computer Science,New,2022-10-29,12,Prof. Monalisa Sarma,IIT Kharagpur,IIT Kharagpur,uplc,True
+106106169,noc22-cs121,Social Networks,Computer Science,Rerun,2022-10-30,12,"Prof. Sudarshan Iyengar
+Prof. Yayati Gupta",IIT Ropar,IIT Madras,uplc,True
+106106182,noc22-cs122,The Joy of Computing using Python,Computer Science,Rerun,2022-10-30,12,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,uplc,True
+106106183,noc22-cs123,Discrete Mathematics,Computer Science,Rerun,2022-10-30,12,"Prof. Sudarshan Iyengar
+Prof. Prabuchandran K.J",IIT Ropar,IIT Madras,uplc,False
+106106184,noc22-cs124,Deep Learning,Computer Science,Rerun,2022-10-30,12,"Prof. Sudarshan Iyengar
+Prof. Sanatan Sukhija",IIT Ropar,IIT Madras,uplc,True
+106103237,noc22-cs125,Design & Implementation of Human-Computer Interfaces,Computer Science,New,2022-10-29,12,Prof. Samit Bhattacharya,IIT Guwahati,IIT Guwahati,uplc,True
+106106229,noc22-cs126,Computational Complexity,Computer Science,Rerun,2022-10-30,12,Prof. Subrahmanyam Kalyanasundaram,IIT Hyderabad,IIT Madras,uplc,True
+106105217,noc22-cs13,Ethical Hacking,Computer Science,Rerun,2022-04-23,12,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,oc,True
+106105190,noc22-cs14,Compiler Design,Computer Science,Rerun,2022-04-23,12,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,oc,False
+106102157,noc22-cs15,Computer Architecture,Computer Science,Rerun,2022-04-24,12,Prof. Smruti R.Sarangi,IIT Delhi,IIT Delhi,oc,False
+106103220,noc22-cs16,User-centric Computing for Human-Computer Interaction,Computer Science,Rerun,2022-03-27,8,Prof. Samit Bhattacharya,IIT Guwahati,IIT Guwahati,oc,True
+106104170,noc22-cs17,Advanced Graph Theory,Computer Science,Rerun,2022-04-23,8,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,oc,True
+106104182,noc22-cs18,Cloud Computing and Distributed Systems,Computer Science,Rerun,2022-03-27,8,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,oc,True
+106105183,noc22-cs19,Computer Networks and Internet Protocol,Computer Science,Rerun,2022-04-23,12,"Prof. Soumya Kanti Ghosh 
+Prof. Sandip Chakraborty",IIT Kharagpur,IIT Kharagpur,oc,True
+106105167,noc22-cs20,Cloud computing,Computer Science,Rerun,2022-04-24,12,Prof. Soumya Kanti Ghosh,IIT Kharagpur,IIT Kharagpur,oc,True
+106102163,noc22-cs21,Introduction to parallel programming with OpenMP and MPI,Computer Science,Rerun,2022-03-27,8,Prof. Yogish Sabharwal,IIT Delhi,IIT Delhi,oc,True
+106105215,noc22-cs22,Deep Learning,Computer Science,Rerun,2022-04-23,12,Prof. Prabir Kumar Biswas,IIT Kharagpur,IIT Kharagpur,oc,True
+106106199,noc22-cs23,Information Security - 5 - Secure Systems Engineering,Computer Science,Rerun,2022-03-27,8,Prof. Chester Robeiro,IIT Madras,IIT Madras,oc,True
+106106202,noc22-cs24,"Machine Learning, ML",Computer Science,Rerun,2022-04-24,8,"Prof. Carl Gustaf Jansson
+Prof. Henrik BostrÃ¶m
+Prof. Fredrik Kilander","KTH Royal Institute of Technology, Sweden",IIT Madras,oc,True
+106106136,noc22-cs25,Model Checking,Computer Science,Rerun,2022-04-23,12,Prof. Srivathsan.B,CMI,IIT Madras,oc,True
+106106145,noc22-cs26,"Programming, Data Structures And Algorithms Using Python",Computer Science,Rerun,2022-03-27,8,Prof. Madhavan Mukund,CMI,IIT Madras,oc,True
+106106131,noc22-cs27,Design and analysis of algorithms,Computer Science,Rerun,2022-03-27,8,Prof. Madhavan Mukund,CMI,IIT Madras,oc,True
+106106179,noc22-cs28,Data Science for Engineers,Computer Science,Rerun,2022-03-27,8,"Prof. Ragunathan Rengasamy
+Prof. Shankar Narasimhan",IIT Madras,IIT Madras,oc,True
+106106139,noc22-cs29,Introduction to Machine Learning,Computer Science,Rerun,2022-04-24,12,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,oc,True
+106106169,noc22-cs30,Social Networks,Computer Science,Rerun,2022-04-24,12,"Prof. Sudarshan Iyengar
+Prof. Yayati Gupta",IIT Ropar,IIT Madras,oc,True
+106106182,noc22-cs31,The Joy of Computing using Python,Computer Science,Rerun,2022-04-23,12,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,oc,True
+106106212,noc22-cs32,Python for Data Science,Computer Science,Rerun,2022-03-27,4,Prof. Ragunathan Rengasamy,IIT Madras,IIT Madras,oc,True
+106106183,noc22-cs33,Discrete Mathematics,Computer Science,Rerun,2022-04-24,12,"Prof. Sudarshan Iyengar
+Prof. Prabuchandran K.J",IIT Ropar,IIT Madras,oc,False
+106106143,noc22-cs34,Reinforcement Learning,Computer Science,Rerun,2022-04-23,12,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,oc,True
+106106184,noc22-cs35,Deep Learning,Computer Science,Rerun,2022-04-24,12,"Prof. Sudarshan Iyengar
+Prof. Sanatan Sukhija",IIT Ropar,IIT Madras,oc,True
+106106234,noc22-cs36,Systems and Usable Security,Computer Science,New,2022-04-23,4,Prof. Neminath Hubballi,IIT Indore,IIT Madras,oc,True
+106106235,noc22-cs37,Online Privacy,Computer Science,New,2022-04-23,12,Prof. Ponnurangam Kumaraguru ,IIITH,IIT Madras,oc,True
+106101234,noc22-cs38,Design and Engineering of Computer Systems,Computer Science,New,2022-03-27,8,Prof. Mythili Vutukuru,IIT Bombay,IIT Bombay,oc,True
+106101235,noc22-cs39,Software Conceptual Design,Computer Science,New,2022-04-24,4,"Prof. Sridhar Iyer
+Prof. Prajish Prasad
+Prof. T. G. Lakshmi",IIT Bombay,IIT Bombay,oc,True
+106104128,noc22-cs40,Introduction To Programming In C,Computer Science,Rerun,2022-04-23,8,Prof. Satyadev Nandakumar,IIT Kanpur,IIT Kanpur,oc,True
+106102011,noc22-cs41,Computational Geometry,Computer Science,Rerun,2022-04-23,12,Prof. Amit Kumar,IIT Delhi,IIT Delhi,oc,True
+106101208,noc22-cs42,An Introduction to Programming Through C++,Computer Science,Rerun,2022-04-24,12,Prof. Abhiram Ranade,IIT Bombay,IIT Bombay,oc,False
+106105234,noc22-cs43,Programming in Modern C++,Computer Science,New,2022-04-23,12,Prof. Partha Pratim Das,IIT Kharagpur,IIT Kharagpur,oc,True
+106105235,noc22-cs44,Blockchain and its Applications,Computer Science,New,2022-04-23,12,"Prof. Sandip Chakraborty
+Prof. Shamik Sural",IIT Kharagpur,IIT Kharagpur,oc,True
+106105171,noc22-cs45,Problem Solving Through Programming In C,Computer Science,Rerun,2022-04-23,12,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,oc,True
+106105159,noc22-cs46,Embedded Systems Design,Computer Science,Rerun,2022-04-24,12,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,oc,False
+106105191,noc22-cs47,Programming In Java,Computer Science,Rerun,2022-04-24,12,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,oc,True
+106105194,noc22-cs48,Hardware Security,Computer Science,Rerun,2022-04-24,12,Prof. Debdeep Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+106105192,noc22-cs49,Discrete Structures,Computer Science,Rerun,2022-04-23,12,Prof. Dipanwita Roychowdhury,IIT Kharagpur,IIT Kharagpur,oc,False
+106105161,noc22-cs50,VLSI Physical Design,Computer Science,Rerun,2022-04-24,12,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,oc,True
+106105175,noc22-cs51,Data Base Management System,Computer Science,Rerun,2022-03-27,8,"Prof. Partha Pratim Das
+Prof. Samiran Chattopadhyay",IIT Kharagpur,IIT Kharagpur,oc,True
+106105195,noc22-cs52,Introduction To Industry 4.0 And Industrial Internet Of Things,Computer Science,Rerun,2022-04-24,12,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,oc,True
+106105166,noc22-cs53,Introduction To Internet Of Things,Computer Science,Rerun,2022-04-23,12,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,oc,True
+106105173,noc22-cs54,Introduction To Soft Computing,Computer Science,Rerun,2022-03-27,8,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,oc,True
+106105224,noc22-cs55,"Object Oriented System Development Using UML, Java And Patterns",Computer Science,Rerun,2022-04-23,12,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,oc,True
+106102220,noc22-cs56,An Introduction to Artificial Intelligence,Computer Science,Rerun,2022-04-24,12,Prof. Mausam,IIT Delhi,IIT Delhi,oc,True
+106106220,noc22-cs57,Introduction to Database Systems,Computer Science,Rerun,2022-04-23,12,Prof. Sreenivasa Kumar,IIT Madras,IIT Madras,oc,False
+106106236,noc22-cs58,Introduction to Machine Learning (Tamil),Computer Science,New,2022-03-27,4,Prof. Arun Rajkumar,IIT Madras,IIT Madras,oc,True
+106106231,noc22-cs59,Getting Started with Competitive Programming,Computer Science,Rerun,2022-04-23,12,"Prof. Neeldhara Misra & 
+Arjun",IIT Gandhinagar,IIT Madras,oc,True
+106104221,noc22-cs60,Arithmetic Circuit Complexity,Computer Science,Rerun,2022-04-23,12,Prof.  Nitin Saxena,IIT Kanpur,IIT Kanpur,oc,True
+106101163,noc22-cs61,Software Testing,Computer Science,Rerun,2022-10-30,12,Prof. Meenakshi D'souza,IIIT Bangalore,IIT Madras,uplc,True
+111104138,noc22-cs62,Computational Number Theory and Algebra,Computer Science,Rerun,2022-10-30,12,Prof. Nitin Saxena,IIT Kanpur,IIT Kanpur,uplc,True
+106104148,noc22-cs63,Theory of Computation,Computer Science,Rerun,2022-09-25,8,Prof. Raghunath Tewari,IIT Kanpur,IIT Kanpur,uptc,True
+106104149,noc22-cs64,Modern Algebra,Computer Science,Rerun,2022-10-29,8,Prof. Manindra Agrawal,IIT Kanpur,IIT Kanpur,uptc,True
+106104189,noc22-cs65,Big Data Computing,Computer Science,Rerun,2022-10-29,8,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,uptc,True
+106106168,noc22-cs66,Distributed Systems,Computer Science,Rerun,2022-09-25,8,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,uptc,True
+106106226,noc22-cs67,Artificial Intelligence : Search Methods for Problem Solving,Computer Science,Rerun,2022-10-29,12,Prof. Deepak Khemani,IIT Madras,IIT Madras,uplc,True
+106106210,noc22-cs68,C Programming and Assembly Language,Computer Science,Rerun,2022-09-25,4,Prof. Janakiraman Viraraghavan,IIT Madras,IIT Madras,upsc,True
+106106137,noc22-cs69,Introduction To Haskell Programming,Computer Science,Rerun,2022-09-25,8,Prof. S. P Suresh,Chennai Mathematical Institute,IIT Madras,uptc,True
+106106145,noc22-cs70,"Programming, Data Structures And Algorithms Using Python",Computer Science,Rerun,2022-09-25,8,Prof. Madhavan Mukund,CMI,IIT Madras,uptc,True
+106106131,noc22-cs71,Design and analysis of algorithms,Computer Science,Rerun,2022-09-25,8,Prof. Madhavan Mukund,CMI,IIT Madras,uptc,True
+106106179,noc22-cs72,Data Science for Engineers,Computer Science,Rerun,2022-09-25,8,"Prof. Ragunathan Rengasamy
+Prof. Shankar Narasimhan",IIT Madras,IIT Madras,uptc,True
+106106139,noc22-cs73,Introduction to Machine Learning,Computer Science,Rerun,2022-10-29,12,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,uplc,True
+106106212,noc22-cs74,Python for Data Science,Computer Science,Rerun,2022-09-25,4,Prof. Ragunathan Rengasamy,IIT Madras,IIT Madras,upsc,True
+106106143,noc22-cs75,Reinforcement Learning,Computer Science,Rerun,2022-10-29,12,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,uplc,True
+106106224,noc22-cs76,Deep Learning for Computer Vision,Computer Science,Rerun,2022-10-30,12,Prof. Vineeth N Balasubramanian,IIT Hyderabad,IIT Madras,uplc,True
+106101237,noc22-cs77,Introduction to Game Theory and Mechanism Design,Computer Science,New,2022-10-29,12,Prof. Swaprava Nath,IIT Bombay,IIT Bombay,uplc,True
+106106144,noc22-cs78,Introduction to Operating Systems,Computer Science,Rerun,2022-09-25,8,Prof. Chester Rebeiro,IIT Madras,IIT Madras,uptc,False
+106106232,noc22-cs79,Introduction to Quantum Computing: Quantum Algorithms and Qiskit,Computer Science,Rerun,2022-09-25,4,"Prof. Prabha Mandayam
+Prof. Anupama Ray
+Prof. Sheshashayee Raghunathan",IBM and IITM,IIT Madras,upsc,True
+106102237,noc22-cs80,Advanced Distributed systems,Computer Science,New,2022-10-29,12,Prof. Smruti R. Sarangi,IIT Delhi,IIT Delhi,uplc,True
+106106230,noc22-cs81,Parameterized Algorithms,Computer Science,Rerun,2022-10-29,12,"Prof. Neeldhara Misra
+Prof. Saket Saurabh","IIT Gandhinagar
+IMSC",IIT Madras,uplc,True
+106106231,noc22-cs82,Getting Started with Competitive Programming,Computer Science,Rerun,2022-10-29,12,"Prof. Neeldhara Misra & 
+Arjun",IIT Gandhinagar,IIT Madras,uplc,True
+106106238,noc22-cs83,Applied Accelerated Artificial Intelligence,Computer Science,New,2022-10-29,12,"Prof. Satyajit Das
+Prof. Satyadhyan Chickerur
+Prof. Bharatkumar Sharma
+Prof. Adesuyi Tosin","IIT Palakkad
+KLE Technological University
+NVIDIA",IIT Madras,uplc,True
+106106236,noc22-cs84,Introduction to Machine Learning (Tamil),Computer Science,Rerun,2022-09-25,8,Prof. Arun Rajkumar,IIT Madras,IIT Madras,uptc,True
+106108227,noc22-cs85,Discrete Mathematics - IIITB,Computer Science,Rerun,2022-10-30,12,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,uplc,True
+106105167,noc22-cs87,Cloud computing,Computer Science,Rerun,2022-10-30,12,Prof. Soumya Kanti Ghosh,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105163,noc22-cs88,Computer architecture and organization,Computer Science,Rerun,2022-10-29,12,"Prof. Indranil Sengupta, Prof. Kamalika Datta",IIT Kharagpur,IIT Kharagpur,uplc,False
+106105216,noc22-cs89,Computer Vision,Computer Science,Rerun,2022-10-29,12,Prof. Jayanta Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105162,noc22-cs90,Cryptography and Network Security,Computer Science,Rerun,2022-10-29,12,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105175,noc22-cs91,Data Base Management System,Computer Science,Rerun,2022-10-29,8,"Prof. Partha Pratim Das
+Prof. Samiran Chattopadhyay",IIT Kharagpur,IIT Kharagpur,uptc,True
+106105225,noc22-cs92,Data Structure and Algorithms using Java,Computer Science,Rerun,2022-10-30,12,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105193,noc22-cs93,Embedded System Design with ARM,Computer Science,Rerun,2022-09-25,8,"Prof. Indranil Sengupta
+Prof. Kamalika Datta",IIT Kharagpur,IIT Kharagpur,uptc,True
+106105165,noc22-cs94,Hardware modeling using verilog,Computer Science,Rerun,2022-09-25,8,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,uptc,True
+106105195,noc22-cs95,Introduction To Industry 4.0 And Industrial Internet Of Things,Computer Science,Rerun,2022-10-30,12,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105166,noc22-cs96,Introduction To Internet Of Things,Computer Science,Rerun,2022-10-29,12,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105152,noc22-cs97,Introduction to Machine Learning,Computer Science,Rerun,2022-10-29,8,Prof. Sudeshna Sarkar,IIT Kharagpur,IIT Kharagpur,uptc,True
+106105158,noc22-cs98,Natural Language Processing,Computer Science,Rerun,2022-10-29,12,Prof. Pawan Goyal,IIT Kharagpur,IIT Kharagpur,uplc,True
+106105153,noc22-cs99,Object Oriented Analysis and Design,Computer Science,Rerun,2022-09-25,8,"Prof. Partha Pratim Das
+Prof. Samiran Chattopadhyay
+Prof. Kausik Datta",IIT Kharagpur,IIT Kharagpur,uptc,True
+104101079,noc22-cy01,Organometallic Chemistry,Chemistry,Rerun,2022-03-27,4,Prof. Debabrata Maiti,IIT Bombay,IIT Bombay,oc,False
+104101121,noc22-cy02,Basics in Inorganic Chemistry,Chemistry,Rerun,2022-03-27,4,Prof. Debabrata Maiti,IIT Bombay,IIT Bombay,oc,False
+104103121,noc22-cy03,Essentials of Biomolecules : Nucleic Acids and Peptides,Chemistry,Rerun,2022-04-24,12,Prof. Lal Mohan Kundu,IIT Guwahati,IIT Guwahati,oc,True
+104101123,noc22-cy04,Transition Metal Organometallics in Catalysis and Biology,Chemistry,Rerun,2022-04-23,12,Prof. P. Ghosh,IIT Bombay,IIT Bombay,oc,True
+104101100,noc22-cy05,Advanced Transition Metal Organometallic Chemistry,Chemistry,Rerun,2022-04-24,12,Prof. P. Ghosh,IIT Bombay,IIT Bombay,oc,True
+104105076,noc22-cy06,Biochemistry,Chemistry,Rerun,2022-04-24,12,Prof. Swagata Dasgupta,IIT Kharagpur,IIT Kharagpur,oc,True
+104105128,noc22-cy07,Approximate Methods in Quantum Chemistry,Chemistry,Rerun,2022-03-27,8,Prof. Sabyashachi Mishra,IIT Kharagpur,IIT Kharagpur,oc,True
+104105127,noc22-cy08,"Structure, Stereochemistry and Reactivity of Organic Compounds and Intermediates: A Problem-solving Approach",Chemistry,Rerun,2022-03-27,8,Prof. Amit Basak,IIT Kharagpur,IIT Kharagpur,oc,False
+104101122,noc22-cy09,Ultrafast laser spectroscopy,Chemistry,Rerun,2022-04-23,12,Prof. Anindya Datta,IIT Bombay,IIT Bombay,oc,True
+104101099,noc22-cy10,Molecular Spectroscopy: A Physical Chemist’s perspective,Chemistry,Rerun,2022-04-24,12,Prof. Anindya Datta,IIT Bombay,IIT Bombay,oc,True
+104101090,noc22-cy11,Chemistry Of Main Group Elements,Chemistry,Rerun,2022-04-23,12,Prof. M.S. Balakrishna,IIT Bombay,IIT Bombay,oc,True
+104104109,noc22-cy12,Bioinorganic Chemistry,Chemistry,Rerun,2022-03-27,4,Prof. S. P. Rath,IIT Kanpur,IIT Kanpur,oc,True
+104105103,noc22-cy13,Industrial Inorganic Chemistry,Chemistry,Rerun,2022-04-23,12,Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,oc,True
+104106094,noc22-cy14,Advanced Chemical Thermodynamics and Kinetics,Chemistry,Rerun,2022-04-23,12,Prof. Arijit Kumar De,IISER Mohali,IIT Madras,oc,True
+104106105,noc22-cy16,Electrochemical impedance Spectroscopy,Chemistry,Rerun,2022-04-23,12,Prof. S. Ramanathan,IIT Madras,IIT Madras,oc,True
+104106127,noc22-cy18,"Symmetry, Stereochemistry and Applications",Chemistry,Rerun,2022-04-24,12,Prof. Angshuman Roy Choudhury,IISER Mohali,IIT Madras,oc,False
+104106128,noc22-cy19,Symmetry and Group Theory,Chemistry,Rerun,2022-04-23,12,Prof. Jeetender Chugh,IISER PUNE,IIT Madras,oc,True
+104105085,noc22-cy20,Co-Ordination Chemistry (Chemistry Of Transition Elements),Chemistry,Rerun,2022-04-24,12,Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,oc,True
+104106107,noc22-cy21,Basic thermodynamics: Classical and Statistical Approaches,Chemistry,Rerun,2022-04-24,12,Prof. Arnab Mukherjee,IISER Pune,IIT Madras,oc,False
+104106122,noc22-cy23,Fundamentals of Spectroscopy,Chemistry,Rerun,2022-04-24,12,"Prof. Sayan Bagchi
+Prof. Anirban Hazra","NCL Pune, 
+IISER Pune",IIT Madras,oc,False
+104106106,noc22-cy24,Medicinal Chemistry,Chemistry,Rerun,2022-04-23,12,Prof. Harinath Chakrapani,IISER Pune,IIT Madras,oc,True
+104106077,noc22-cy25,Pericyclic Reactions and Organic Photochemistry,Chemistry,Rerun,2022-04-23,8,Prof. Sankararaman,IIT Madras,IIT Madras,oc,True
+104101127,noc22-cy27,"Essentials of Oxidation, Reduction and C-C Bond Formation. Application in Organic Synthesis",Chemistry,Rerun,2022-04-24,12,Prof. Yashwant D Vankar,IIT Bombay,IIT Bombay,oc,True
+104104080,noc22-cy28,Chemical Applications Of Symmetry And Group Theory,Chemistry,Rerun,2022-03-27,8,Prof. Manabendra Chandra ,IIT Kanpur,IIT Kanpur,oc,True
+104104084,noc22-cy29,Basics Of Fluorescence Spectroscopy,Chemistry,Rerun,2022-03-27,8,Prof. Pratik Sen,IIT Kanpur,IIT Kanpur,oc,True
+104105087,noc22-cy30,A Study Guide in Organic Retrosynthesis: Problem Solving Approach,Chemistry,Rerun,2022-04-23,12,Prof. Samik Nanda,IIT Kharagpur,IIT Kharagpur,oc,True
+104105088,noc22-cy31,Introduction To Molecular Thermodynamics,Chemistry,Rerun,2022-04-23,8,Prof. Srabani Taraphder,IIT Kharagpur,IIT Kharagpur,oc,False
+104105102,noc22-cy32,Experimental Biochemistry,Chemistry,Rerun,2022-04-24,12,"Prof. Swagata Dasgupta
+Prof. Soumya De",IIT Kharagpur,IIT Kharagpur,oc,False
+104108132,noc22-cy33,Time dependent Quantum chemistry,Chemistry,New,2022-04-24,12,Prof. Atanu Bhattacharya,IISc Bangalore,IISc Bangalore,oc,True
+104105104,noc22-cy34,Reactive Intermediates Carbene and Nitrene,Chemistry,Rerun,2022-03-27,4,Prof. Rajarshi Samanta,IIT Kharagpur,IIT Kharagpur,oc,False
+104106096,noc22-cy36,Chemistry: Atomic Structure and Chemical Bonding,Chemistry,Rerun,2022-04-23,12,Prof. K. Mangala Sundar,IIT Madras,IIT Madras,oc,True
+104101092,noc22-cy37,Metal Mediated Synthesis-I,Chemistry,Rerun,2022-09-25,4,Prof. D. Maiti,IIT Bombay,IIT Bombay,upsc,True
+104101116,noc22-cy38,Metals in Biology,Chemistry,Rerun,2022-09-25,8,Prof. D. Maiti,IIT Bombay,IIT Bombay,uptc,True
+104101091,noc22-cy39,Transition Metal Organometallic Chemistry: Principles to Applications,Chemistry,Rerun,2022-10-30,12,Prof. P. Ghosh,IIT Bombay,IIT Bombay,uplc,True
+104101094,noc22-cy40,Symmetry and Group Theory,Chemistry,Rerun,2022-10-29,12,Prof. Anindya Datta,IIT Bombay,IIT Bombay,uplc,True
+104101124,noc22-cy41,Quantum Chemistry of Atoms and Molecules,Chemistry,Rerun,2022-10-29,12,Porf. Anindya Datta,IIT Bombay,IIT Bombay,uplc,True
+104101115,noc22-cy42,Mechanisms in Organic Chemistry,Chemistry,Rerun,2022-09-25,8,Prof. Nandita Madhavan,IIT Bombay,IIT Bombay,uptc,True
+104102009,noc22-cy43,Biophysical chemistry,Chemistry,Rerun,2022-10-30,12,Prof. Pramit Kumar Chowdhury,IIT Delhi,IIT Delhi,uplc,True
+104108124,noc22-cy44,One and two dimensional NMR Spectroscopy for chemists,Chemistry,Rerun,2022-10-30,12,Prof. N. Suryaprakash,IISc Bangalore,IISc Bangalore,uplc,True
+104106075,noc22-cy45,Application of Spectroscopic Methods in Molecular Structure Determination,Chemistry,Rerun,2022-09-25,8,Prof. S. Sankararaman,IIT Madras,IIT Madras,uptc,True
+104106131,noc22-cy46,Introductory Organic Chemistry II,Chemistry,Rerun,2022-10-30,8,"Prof. Harinath Chakrapani
+Prof. Neeraja Dashaputre",IISER Pune,IIT Madras,uptc,True
+104106093,noc22-cy48,Chemical Crystallography,Chemistry,Rerun,2022-10-29,12,Prof. Angshuman Roy Choudhury,IISER Mohali,IIT Madras,uplc,True
+104101133,noc22-cy49,Classics in Total Synthesis-I,Chemistry,New,2022-10-29,12,Prof. Krishna P Kaliappan,IIT Bombay,IIT Bombay,uplc,True
+104101130,noc22-cy50,Concepts of chemistry for engineering,Chemistry,Rerun,2022-10-29,12,"Prof. Anindya Datta
+Prof. Debabrata Maiti
+Prof. Chidambar Kulkarni
+Prof. Arnab Dutta",IIT Bombay,IIT Bombay,uplc,False
+104101134,noc22-cy51,Circular dichroism (CD) and Mossbauer spectroscopy for chemists,Chemistry,New,2022-10-29,12,Prof. Arnab Dutta,IIT Bombay,IIT Bombay,uplc,True
+104105130,noc22-cy52,Biological Inorganic Chemistry,Chemistry,Rerun,2022-10-29,12,Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,uplc,True
+104105124,noc22-cy53,Introduction to Polymer Science,Chemistry,Rerun,2022-09-25,8,Prof. Dibakar Dhara,IIT Kharagpur,IIT Kharagpur,uptc,True
+104102113,noc22-cy54,Spectroscopic Techniques for Pharmaceutical and Biopharmaceutical Industries,Chemistry,Rerun,2022-10-29,12,Prof. Shashank Deep,IIT Delhi,IIT Delhi,uplc,True
+104103111,noc22-cy55,Reagents In Organic Synthesis,Chemistry,Rerun,2022-10-29,12,Prof. Subhas Chandra Pan,IIT Guwahati,IIT Guwahati,uplc,True
+104103110,noc22-cy56,Principles Of Organic Synthesis,Chemistry,Rerun,2022-10-30,12,Prof. T Punniyamurthy,IIT Guwahati,IIT Guwahati,uplc,True
+104104130,noc22-cy57,Chemistry and Physics of Surfaces and Interfaces,Chemistry,Rerun,2022-09-25,8,Prof. Thiruvancheril G. Gopakumar,IIT Kanpur,IIT Kanpur,uptc,True
+104106089,noc22-cy58,Introduction to Chemical Thermodynamics and Kinetics,Chemistry,Rerun,2022-10-29,12,Prof. Arijit Kumar De,IISER Mohali,IIT Madras,uplc,True
+104101135,noc22-cy59,NMR spectroscopy for Structural Biology,Chemistry,New,2022-10-29,12,"Prof. R. V Hosur
+Prof. Ashutosh Kumar",IIT Bombay,IIT Bombay,uplc,True
+104101136,noc22-cy60,Transition Metal Chemistry,Chemistry,New,2022-10-29,12,Prof. M S Balakrishna,IIT Bombay,IIT Bombay,uplc,True
+104105084,noc22-cy61,Analytical chemistry,Chemistry,Rerun,2022-10-30,12,Prof. Debashis Ray,IIT Kharagpur,IIT Kharagpur,uplc,True
+104105120,noc22-cy62,Organic Chemistry in Biology and Drug Development,Chemistry,Rerun,2022-10-29,12,Prof. Amit Basak,IIT Kharagpur,IIT Kharagpur,uplc,True
+104105086,noc22-cy63,Stereochemistry,Chemistry,Rerun,2022-09-25,8,Prof. Amit Basak,IIT Kharagpur,IIT Kharagpur,uptc,False
+104105133,noc22-cy64,Principles and applications of enolate alkylation: A unique strategy for construction of C-C (sp3 -sp3) bonds in asymmetric fashion,Chemistry,New,2022-09-25,8,Prof. Samik Nanda,IIT Kharagpur,IIT Kharagpur,uptc,True
+107101087,noc22-de01,Understanding Design,Engineering Design,Rerun,2022-04-23,4,Prof. Nina Sabnani,IIT Bombay,IIT Bombay,oc,True
+107106088,noc22-de02,Fundamentals of Automotive Systems,Engineering Design,Rerun,2022-04-23,12,Prof. C. S. Shankar Ram,IIT Madras,IIT Madras,oc,True
+108103183,noc22-de03,Usability Engineering,Engineering Design,New,2022-04-24,12,Prof. Debayan Dhar,IIT Guwahati,IIT Guwahati,oc,True
+107101086,noc22-de04,Innovation by Design,Engineering Design,Rerun,2022-04-24,4,Prof. B. K. Chakravarthy,IIT Bombay,IIT Bombay,oc,True
+107101088,noc22-de05,"Design, Technology and Innovation",Engineering Design,Rerun,2022-04-23,8,Prof. B. K. Chakravarthy,IIT Bombay,IIT Bombay,oc,True
+124106157,noc22-de06,Strategies for Sustainable Design,Engineering Design,Rerun,2022-04-24,12,Prof. Shiva Ji,IIT Hyderabad,IIT Madras,oc,True
+107101091,noc22-de07,Understanding Ethnography,Engineering Design,Rerun,2022-03-27,8,Prof. Nina Sabnani,IIT Bombay,IIT Bombay,oc,True
+107101092,noc22-de08,Understanding Incubation and Entrepreneurship,Engineering Design,New,2022-04-23,12,Prof. B.K. Chakravarthy,IIT Bombay,IIT Bombay,oc,True
+107106081,noc22-de09,Control systems,Engineering Design,Rerun,2022-10-29,12,Prof. C. S. Shankar Ram,IIT Madras,IIT Madras,uplc,False
+107106089,noc22-de10,Functional and Conceptual Design,Engineering Design,Rerun,2022-10-29,12,Prof. Asokan T,IIT Madras,IIT Madras,uplc,True
+107106090,noc22-de11,Introduction to robotics,Engineering Design,Rerun,2022-10-30,12,"Prof. Asokan T, Prof. Balaraman Ravindran, Prof. Krishna Vasudevan",IIT Madras,IIT Madras,uplc,True
+107103081,noc22-de12,System design for sustainability,Engineering Design,Rerun,2022-10-29,12,Prof. Sharmistha Banerjee,IIT Guwahati,IIT Guwahati,uplc,True
+107103085,noc22-de13,Ergonomics Workplace Analysis,Engineering Design,Rerun,2022-09-25,4,Prof. Urmi R. Salve,IIT Guwahati,IIT Guwahati,upsc,True
+107101086,noc22-de14,Innovation by Design,Engineering Design,Rerun,2022-09-25,4,Prof. B. K. Chakravarthy,IIT Bombay,IIT Bombay,upsc,True
+107101087,noc22-de15,Understanding Design,Engineering Design,Rerun,2022-09-25,4,Prof. Nina Sabnani,IIT Bombay,IIT Bombay,upsc,True
+107101088,noc22-de16,"Design, Technology and Innovation",Engineering Design,Rerun,2022-09-25,8,Prof. B. K. Chakravarthy,IIT Bombay,IIT Bombay,uptc,True
+108106162,noc22-ee01,Nonlinear System Analysis,Electrical Engineering,Rerun,2022-04-24,12,"Prof. Ramkrishna Pasumarthy
+Prof. Arunkumar D Mahindrakar",IIT Madras,IIT Madras,oc,True
+108106171,noc22-ee02,Applied Linear Algebra,Electrical Engineering,Rerun,2022-04-23,12,Prof. Andrew Thangaraj,IIT Madras,IIT Madras,oc,True
+108101126,noc22-ee03,Fundamental of Power Electronics,Electrical Engineering,Rerun,2022-04-24,12,Prof. L.Umanand,IISc Bangalore,IISc Bangalore,oc,True
+108104100,noc22-ee04,Principles of Signals and Systems,Electrical Engineering,Rerun,2022-04-24,12,Prof. Aditya K. Jagannatham,IIT Kanpur,IIT Kanpur,oc,False
+108104091,noc22-ee05,Principles of Communication Systems - I,Electrical Engineering,Rerun,2022-04-24,12,Prof. Aditya K. Jagannatham,IIT Kanpur,IIT Kanpur,oc,False
+108105131,noc22-ee06,Electrical Machines - II,Electrical Engineering,Rerun,2022-04-23,12,Prof. Tapas Kumar Bhattacharya,IIT Kharagpur,IIT Kharagpur,oc,False
+108105159,noc22-ee07,Network Analysis,Electrical Engineering,Rerun,2022-04-24,12,Prof. Tapas Kumar Bhattacharya,IIT Kharagpur,IIT Kharagpur,oc,False
+108107129,noc22-ee08,CMOS Digital VLSI Design,Electrical Engineering,Rerun,2022-03-27,8,Prof. Sudeb Dasgupta,IIT Roorkee,IIT Roorkee,oc,True
+108103157,noc22-ee09,Microprocessors and Interfacing,Electrical Engineering,Rerun,2022-04-23,12,Prof. Shaik Rafi Ahamed,IIT Guwahati,IIT Guwahati,oc,False
+108102120,noc22-ee10,Principles of Digital Communications,Electrical Engineering,Rerun,2022-04-23,12,Prof. Abhishek Dixit,IIT Delhi,IIT Delhi,oc,True
+108105180,noc22-ee100,Control and Tuning Methods in Switched Mode Power Converters,Electrical Engineering,Rerun,2022-10-30,12,Prof. Santanu Kapat,IIT Kharagpur,IIT Kharagpur,uplc,True
+108105167,noc22-ee101,Power System Protection,Electrical Engineering,Rerun,2022-10-30,12,Prof. Ashok Kumar Pradhan,IIT Kharagpur,IIT Kharagpur,uplc,True
+108105179,noc22-ee102,Signal Processing for mm Wave communication for 5G and beyond,Electrical Engineering,Rerun,2022-10-30,12,Prof. Amit Kumar Dutta,IIT Kharagpur,IIT Kharagpur,uplc,True
+108103141,noc22-ee103,Microwave Engineering,Electrical Engineering,Rerun,2022-10-30,12,Prof. Ratnajit Bhattacharjee,IIT Guwahati,IIT Guwahati,uplc,False
+108103179,noc22-ee104,System Design Through VERILOG,Electrical Engineering,Rerun,2022-09-25,8,Prof. Shaik Rafi Ahamed,IIT Guwahati,IIT Guwahati,uptc,True
+108106152,noc22-ee105,Computational Electromagnetics,Electrical Engineering,Rerun,2022-10-30,12,Prof. Uday Khankhoje,IIT Madras,IIT Madras,uplc,True
+108106135,noc22-ee106,Introduction to Photonics,Electrical Engineering,Rerun,2022-10-29,12,Prof. Balaji Srinivasan,IIT Madras,IIT Madras,uplc,True
+108106083,noc22-ee107,Probability Foundations for Electrical Engineers,Electrical Engineering,Rerun,2022-10-30,12,Prof. Krishna Jagannatham,IIT Madras,IIT Madras,uplc,True
+108104092,noc22-ee108,An Introduction to Coding Theory,Electrical Engineering,Rerun,2022-09-25,8,Prof. Adrish Banerjee,IIT Kanpur,IIT Kanpur,uptc,True
+108102185,noc22-ee109,Introduction to Electrical Engineering,Electrical Engineering,New,2022-10-29,12,Prof. Bhim Singh,IIT Delhi,IIT Delhi,uplc,False
+108105158,noc22-ee11,Analog Electronic Circuits,Electrical Engineering,Rerun,2022-04-24,12,Prof. Pradip Mandal,IIT Kharagpur,IIT Kharagpur,oc,False
+108105113,noc22-ee110,Digital Circuits,Electrical Engineering,Rerun,2022-10-29,12,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,uplc,False
+108105155,noc22-ee111,Electrical Machines - I,Electrical Engineering,Rerun,2022-10-29,12,Prof. Tapas Kumar Bhattacharya,IIT Kharagpur,IIT Kharagpur,uplc,False
+108105153,noc22-ee112,Electrical Measurement and Electronic Instruments,Electrical Engineering,Rerun,2022-10-29,12,Prof. Avishek Chatterjee,IIT Kharagpur,IIT Kharagpur,uplc,False
+108105112,noc22-ee113,Fundamentals of Electrical Engineering,Electrical Engineering,Rerun,2022-10-29,12,Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,uplc,False
+108105154,noc22-ee114,Principles and Techniques of Modern Radar Systems,Electrical Engineering,Rerun,2022-10-29,12,Prof. Amitabha Bhattacharya,IIT Kharagpur,IIT Kharagpur,uplc,True
+117105143,noc22-ee115,Analog communication,Electrical Engineering,Rerun,2022-10-29,12,Prof. Goutam Das,IIT Kharagpur,IIT Kharagpur,uplc,False
+117105135,noc22-ee116,Digital Image Processing,Electrical Engineering,Rerun,2022-10-29,12,Prof. Prabir Kumar Biswas,IIT Kharagpur,IIT Kharagpur,uplc,True
+117105145,noc22-ee117,Digital speech processing,Electrical Engineering,Rerun,2022-09-25,8,Prof. Shyamal Kumar Das Mandal,IIT Kharagpur,IIT Kharagpur,uptc,True
+117105144,noc22-ee118,Modern digital communication techniques,Electrical Engineering,Rerun,2022-10-29,12,Prof. Suvra Sekhar Das,IIT Kharagpur,IIT Kharagpur,uplc,True
+117105101,noc22-ee119,Pattern Recognition and Application,Electrical Engineering,Rerun,2022-10-29,12,Prof. Prabir Kumar Biswas,IIT Kharagpur,IIT Kharagpur,uplc,True
+108105102,noc22-ee12,Microprocessors And Microcontrollers,Electrical Engineering,Rerun,2022-04-23,12,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,oc,False
+117105140,noc22-ee120,Power System Analysis,Electrical Engineering,Rerun,2022-10-30,12,Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,uplc,True
+108106186,noc22-ee121,Fundamentals of Nano and Quantum Photonics,Electrical Engineering,New,2022-10-29,12,Prof. Naresh Kumar Emani,IIIT Hyderabad,IIT Madras,uplc,True
+108105185,noc22-ee122,Cognition and its computation,Electrical Engineering,New,2022-10-30,12,"Prof. Sharba Bandyopadhyay
+Prof.Rajlakshmi Guha",IIT Kharagpur,IIT Kharagpur,uplc,True
+108103185,noc22-ee123,Probability and Random Processes (à¤ªà¥à¤°à¤¾à¤¯à¤¿à¤•à¤¤à¤¾ à¤à¤µà¤‚ à¤¯à¤¾à¤¦à¥ƒà¤šà¥à¤›à¤¿à¤• à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾à¤à¤),Electrical Engineering,New,2022-10-30,12,"Prof Rohit Sinha
+Prof. Ribhu",IIT Guwahati,IIT Guwahati,uplc,False
+108105186,noc22-ee124,Digital Control in Switched Mode Power Converters and FPGA-based Prototyping,Electrical Engineering,New,2022-10-30,12,Prof. Santanu Kapat,IIT Kharagpur,IIT Kharagpur,uplc,True
+108105187,noc22-ee125,VLSI Interconnects,Electrical Engineering,New,2022-09-25,8,Prof. Sarang Pendharker,IIT Kharagpur,IIT Kharagpur,uptc,True
+108107112,noc22-ee126,Electrical Distribution System Analysis,Electrical Engineering,Rerun,2022-09-25,8,Prof. G. B. Kumbhar,IIT Roorkee,IIT Roorkee,uptc,True
+108107128,noc22-ee127,Advance power Electronics and Control,Electrical Engineering,Rerun,2022-09-25,8,Prof. Avik Bhattacharya,IIT Roorkee,IIT Roorkee,uptc,True
+108108122,noc22-ee13,Fundamentals of semiconductor devices,Electrical Engineering,Rerun,2022-04-24,12,Prof. Digbijoy N. Nath,IISc Bangalore,IISc Bangalore,oc,False
+117101119,noc22-ee14,Microwave Integrated Circuits,Electrical Engineering,Rerun,2022-03-27,8,Prof. Jayanta Mukherjee,IIT Bombay,IIT Bombay,oc,True
+108101094,noc22-ee15,Analog Circuits,Electrical Engineering,Rerun,2022-03-27,8,Prof. Jayanta Mukherjee,IIT Bombay,IIT Bombay,oc,False
+108102157,noc22-ee16,"High Power Multilevel Converters - Analysis, design and operational issues",Electrical Engineering,Rerun,2022-04-23,12,Prof. Anandarup Das,IIT Delhi,IIT Delhi,oc,True
+108105104,noc22-ee17,Power System Engineering,Electrical Engineering,Rerun,2022-04-24,12,Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,oc,False
+108105133,noc22-ee18,"Power System Dynamics, Control and Monitoring",Electrical Engineering,Rerun,2022-04-24,12,Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,oc,True
+108105101,noc22-ee19,Biomedical Signal Processing,Electrical Engineering,Rerun,2022-04-23,12,Prof. Sudipta Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+117105136,noc22-ee20,Spread Spectrum Communications and Jamming,Electrical Engineering,Rerun,2022-04-24,12,Prof. Debarati Sen,IIT Kharagpur,IIT Kharagpur,oc,True
+108104157,noc22-ee21,"Fuzzy Sets, Logic and Systems & Applications",Electrical Engineering,Rerun,2022-04-23,12,Prof. Nishchal Kumar Verma,IIT Kanpur,IIT Kanpur,oc,True
+108101092,noc22-ee22,Antennas,Electrical Engineering,Rerun,2022-04-23,12,Prof. Girish Kumar,IIT Bombay,IIT Bombay,oc,True
+108102113,noc22-ee23,Nonlinear and Adaptive Control,Electrical Engineering,Rerun,2022-03-27,4,Prof. Shubhendu Bhasin,IIT Delhi,IIT Delhi,oc,True
+108107098,noc22-ee24,Optimal control,Electrical Engineering,Rerun,2022-03-27,8,Prof. Barjeev Tyagi,IIT Roorkee,IIT Roorkee,oc,True
+108108157,noc22-ee25,Electronics equipment integration and Prototype building,Electrical Engineering,Rerun,2022-03-27,8,Prof. N.V Chalapathi Rao,IISc Bangalore,IISc Bangalore,oc,True
+108108110,noc22-ee26,Electronics Enclosures Thermal issues,Electrical Engineering,Rerun,2022-04-23,8,Prof. N.V Chalapathi Rao,IISc Bangalore,IISc Bangalore,oc,True
+108108111,noc22-ee27,"Integrated Circuits, Mosfets, OP-Amps and their Applications",Electrical Engineering,Rerun,2022-04-23,12,Prof. Hardik Jeetendra Pandya,IISc Bangalore,IISc Bangalore,oc,True
+117105134,noc22-ee28,Discrete Time Signal Processing,Electrical Engineering,Rerun,2022-03-27,8,Prof. Mrityunjoy Chakraborty,IIT Kharagpur,IIT Kharagpur,oc,False
+108108116,noc22-ee29,Recent Advances in Transmission Insulators,Electrical Engineering,Rerun,2022-03-27,4,Prof. Subba Reddy B,IISc Bangalore,IISc Bangalore,oc,True
+108107157,noc22-ee30,Power Quality Improvement Technique,Electrical Engineering,Rerun,2022-03-27,8,Prof. Avik Bhattacharya,IIT Roorkee,IIT Roorkee,oc,True
+108106098,noc22-ee31,Control engineering,Electrical Engineering,Rerun,2022-04-23,12,Prof. Ramkrishna Pasumarthy,IIT Madras,IIT Madras,oc,True
+108106136,noc22-ee32,Multirate DSP,Electrical Engineering,Rerun,2022-04-23,12,Prof. R. David Koilpillai,IIT Madras,IIT Madras,oc,True
+117103148,noc22-ee33,Design of Power Electronic Converters,Electrical Engineering,New,2022-04-23,8,Prof. Shabari Nath,IIT Guwahati,IIT Guwahati,oc,True
+117106148,noc22-ee34,Circuit Analysis for Analog Designers,Electrical Engineering,New,2022-04-24,12,Prof. Shanthi Pavan,IIT Madras,IIT Madras,oc,True
+117103149,noc22-ee35,Operation and Planning of Power Distribution Systems,Electrical Engineering,New,2022-04-24,12,Prof. Sanjib Ganguly,IIT Guwahati,IIT Guwahati,oc,True
+108106165,noc22-ee36,A brief introduction of Micro - Sensors,Electrical Engineering,Rerun,2022-03-27,4,Prof. Santanu Talukder,IISER Bhopal,IIT Madras,oc,True
+108106105,noc22-ee37,Analog Ic Design,Electrical Engineering,Rerun,2022-04-24,12,Prof. Aniruddhan.S,IIT Madras,IIT Madras,oc,True
+108106158,noc22-ee38,Digital IC Design,Electrical Engineering,Rerun,2022-04-24,12,Prof. Janakiraman,IIT Madras,IIT Madras,oc,True
+108106164,noc22-ee39,Linear Dynamical Systems,Electrical Engineering,Rerun,2022-03-27,8,Prof. Tushar Jain,IIT Mandi,IIT Madras,oc,True
+108104130,noc22-ee40,Electromagnetic Waves in Guided and Wireless Media,Electrical Engineering,Rerun,2022-04-24,8,Prof. Pradeep Kumar K,IIT Kanpur,IIT Kanpur,oc,True
+108106159,noc22-ee41,Power Management Integrated Circuits,Electrical Engineering,Rerun,2022-04-24,12,Prof. Qadeer Ahmad Khan,IIT Madras,IIT Madras,oc,True
+108106163,noc22-ee42,Signals and Systems,Electrical Engineering,Rerun,2022-04-24,12,"Prof. Hitesh Shrimali
+Prof. Kushal K. Shah",IIT Mandi,IIT Madras,oc,False
+108106157,noc22-ee43,Transmission lines and electromagnetic waves,Electrical Engineering,Rerun,2022-04-24,12,Prof. Ananth Krishnan,IIT Madras,IIT Madras,oc,True
+117106149,noc22-ee44,Design and Analysis of VLSI Subsystems,Electrical Engineering,New,2022-04-24,12,Prof. Madhav Rao,IIIT Bangalore,IIT Madras,oc,True
+108106177,noc22-ee45,Digital System Design,Electrical Engineering,Rerun,2022-04-23,12,Prof. Neeraj Goel,IIT Ropar,IIT Madras,oc,False
+117107148,noc22-ee46,Digital Protection of Power System,Electrical Engineering,New,2022-03-27,8,Prof. Bhaveshkumar R. Bhalja,IIT Roorkee,IIT Roorkee,oc,True
+117107149,noc22-ee47,Physics of Nanoscale Devices,Electrical Engineering,New,2022-04-23,12,Prof. Vishvendra Singh Poonia,IIT Roorkee,IIT Roorkee,oc,True
+108103174,noc22-ee48,Computer Vision and Image Processing – Fundamentals and Applications,Electrical Engineering,Rerun,2022-04-23,12,Prof. M. K. Bhuyan,IIT Guwahati,IIT Guwahati,oc,True
+117104129,noc22-ee49,An Introduction to Information Theory,Electrical Engineering,Rerun,2022-03-27,8,Prof. Adrish Banerjee,IIT Kanpur,IIT Kanpur,oc,True
+108108147,noc22-ee50,Sensors and Actuators,Electrical Engineering,Rerun,2022-04-24,12,Prof. Hardik Jeetendra Pandya,IISc Bangalore,IISc Bangalore,oc,True
+108108174,noc22-ee51,Photonic integrated circuit,Electrical Engineering,Rerun,2022-04-23,12,Prof. Shankar Kumar Selvaraja,IISc Bangalore,IISc Bangalore,oc,True
+-2147483648,noc22-ee52,Basic Building Blocks of Microwave Engineering & Design Principles of RF And Microwave Filters And Amplifiers,Electrical Engineering,Rerun,2022-03-27,8,Prof. Amitabha Bhattacharya,IIT Kharagpur,IIT Kharagpur,oc,False
+108102121,noc22-ee53,Electric Vehicles - Part 1,Electrical Engineering,Rerun,2022-04-24,4,Prof. Amit Jain,IIT Delhi,IIT Delhi,oc,True
+108105103,noc22-ee54,Deep Learning for Visual Computing,Electrical Engineering,Rerun,2022-04-24,12,Prof. Debdoot Sheet,IIT Kharagpur,IIT Kharagpur,oc,True
+108105132,noc22-ee55,Digital Electronic Circuits,Electrical Engineering,Rerun,2022-04-23,12,Prof. Goutam Saha,IIT Kharagpur,IIT Kharagpur,oc,False
+108105134,noc22-ee56,Evolution Of Air Interface Towards 5G,Electrical Engineering,Rerun,2022-04-23,8,Prof. Suvra Sekhar Das,IIT Kharagpur,IIT Kharagpur,oc,True
+108105157,noc22-ee57,VLSI Signal Processing,Electrical Engineering,Rerun,2022-04-24,8,Prof. Mrityunjoy Chakraborty,IIT Kharagpur,IIT Kharagpur,oc,True
+108105118,noc22-ee58,Architectural Design of Digital Integrated Circuits,Electrical Engineering,Rerun,2022-04-23,12,Prof. Indranil Hatai,IIT Kharagpur,IIT Kharagpur,oc,True
+127105225,noc22-ee59,Biophotonics,Electrical Engineering,Rerun,2022-04-24,12,Prof. Basudev Lahiri,IIT Kharagpur,IIT Kharagpur,oc,True
+108103158,noc22-ee60,Statistical Signal Processing,Electrical Engineering,Rerun,2022-04-23,12,Prof. Prabin Kumar Bora,IIT Guwahati,IIT Guwahati,oc,True
+117105148,noc22-ee61,Communication Networks,Electrical Engineering,New,2022-04-24,12,Prof. Goutam Das,IIT Kharagpur,IIT Kharagpur,oc,True
+117105149,noc22-ee62,Signal Processing Techniques And Its Applications,Electrical Engineering,New,2022-04-24,12,Prof. Shyamal Kumar Das Mandal,IIT Kharagpur,IIT Kharagpur,oc,True
+108105114,noc22-ee63,Analysis and Design Principles of Microwave Antennas,Electrical Engineering,Rerun,2022-04-23,8,Prof. Amitabha Bhattacharya,IIT Kharagpur,IIT Kharagpur,oc,False
+108105091,noc22-ee64,Medical Image Analysis,Electrical Engineering,Rerun,2022-04-24,4,Prof. Debdoot Sheet,IIT Kharagpur,IIT Kharagpur,oc,True
+117105132,noc22-ee65,Fundamentals of MIMO Wireless Communication,Electrical Engineering,Rerun,2022-03-27,8,Prof. Suvra Sekhar Das,IIT Kharagpur,IIT Kharagpur,oc,True
+117108148,noc22-ee66,Neural Science for Engineers,Electrical Engineering,New,2022-04-24,12,Prof. Vikas V ,IISc & Nimhans,IISc Bangalore,oc,True
+108106173,noc22-ee67,Optical Fiber Sensors,Electrical Engineering,Rerun,2022-04-24,12,Prof Balaji Srinivasan ,IIT Madras,IIT Madras,oc,True
+108104099,noc22-ee68,Applied Electromagnetics For Engineers,Electrical Engineering,Rerun,2022-10-30,12,Prof. Pradeep Kumar,IIT Kanpur,IIT Kanpur,uplc,False
+108104087,noc22-ee69,Electromagnetic Theory,Electrical Engineering,Rerun,2022-10-29,12,Prof. Pradeep Kumar K,IIT Kanpur,IIT Kanpur,uplc,True
+117108141,noc22-ee71,Design of photovoltaic systems,Electrical Engineering,Rerun,2022-10-30,12,Prof. L Umanand,IISc Bangalore,IISc Bangalore,uplc,True
+117104115,noc22-ee72,Principles of Signal Estimation for MIMO/ OFDM Wireless Communication,Electrical Engineering,Rerun,2022-10-30,12,Prof. Aditya K. Jagannatham,IIT Kanpur,IIT Kanpur,uplc,True
+108104098,noc22-ee73,Principles of Communication Systems - II,Electrical Engineering,Rerun,2022-09-25,8,Prof. Aditya K. Jagannatham,IIT Kanpur,IIT Kanpur,uptc,False
+108102112,noc22-ee74,Analog Electronic Circuits,Electrical Engineering,Rerun,2022-10-30,12,Prof. Shouribrata chatterjee,IIT Delhi,IIT Delhi,uplc,False
+117108140,noc22-ee75,Enclosure design of electronics equipment,Electrical Engineering,Rerun,2022-10-30,12,Prof. N. V Chalapathi Rao,IISc Bangalore,IISc Bangalore,uplc,True
+108108113,noc22-ee76,Fabrication Techniques for MEMs-based sensors : clinical perspective,Electrical Engineering,Rerun,2022-10-30,12,Prof. Hardik Pandya,IISc Bangalore,IISc Bangalore,uplc,True
+108108124,noc22-ee77,Electronic Systems for Cancer Diagnosis,Electrical Engineering,Rerun,2022-10-30,12,Prof. Hardik Jeetendra Pandya,IISc Bangalore,IISc Bangalore,uplc,True
+108107107,noc22-ee78,Basics of software defined Radios,Electrical Engineering,Rerun,2022-09-25,4,Prof. Meenakshi Rawat,IIT Roorkee,IIT Roorkee,upsc,True
+117104128,noc22-ee79,Digital Switching - I,Electrical Engineering,Rerun,2022-09-25,8,Prof. Y. N. Singh,IIT Kanpur,IIT Kanpur,uptc,True
+108107143,noc22-ee81,Dc Microgrid and control systems,Electrical Engineering,Rerun,2022-09-25,8,Prof. Avik Bhattacharya,IIT Roorkee,IIT Roorkee,uptc,True
+108107113,noc22-ee82,Introduction to Smart Grid,Electrical Engineering,Rerun,2022-09-25,8,"Prof. N. P. Padhy, Prof. Premalata Jena",IIT Roorkee,IIT Roorkee,uptc,True
+108106098,noc22-ee83,Control engineering,Electrical Engineering,Rerun,2022-10-29,12,Prof. Ramkrishna Pasumarthy,IIT Madras,IIT Madras,uplc,True
+108106150,noc22-ee84,Linear Systems Theory,Electrical Engineering,Rerun,2022-10-29,12,Prof. Ramkrishna Pasumarthy,IIT Madras,IIT Madras,uplc,True
+106106167,noc22-ee85,Introduction to Wireless and Cellular Communications,Electrical Engineering,Rerun,2022-10-30,12,Prof. David Koilpillai,IIT Madras,IIT Madras,uplc,True
+108106168,noc22-ee86,Image Signal Processing,Electrical Engineering,Rerun,2022-10-30,12,Prof. A. N. Rajagopalan,IIT Madras,IIT Madras,uplc,True
+108108167,noc22-ee87,Introductory Neuroscience & Neuro-Instrumentation,Electrical Engineering,Rerun,2022-10-30,12,Prof. Mahesh Jayachandra,IISc Bangalore,IISc Bangalore,uplc,True
+108106167,noc22-ee88,Fiber Optic Communication Technology,Electrical Engineering,Rerun,2022-10-29,12,Prof. Deepa Venkitesh,IIT Madras,IIT Madras,uplc,True
+108101185,noc22-ee89,Stochastic control and communication,Electrical Engineering,New,2022-10-29,12,Prof. Ankur A. Kulkarni,IIT Bombay,IIT Bombay,uplc,True
+117106108,noc22-ee90,Basic Electrical Circuits,Electrical Engineering,Rerun,2022-10-29,12,Prof. Gajendranath Chowdary( Prof. Nagendra Krishnapura ),IIT Madras,IIT Madras,uplc,False
+108106181,noc22-ee91,Introduction to Semiconductor Devices,Electrical Engineering,Rerun,2022-10-30,12,Prof. Naresh Kumar Emani,IIT Hyderabad,IIT Madras,uplc,False
+108106184,noc22-ee92,Phase-locked loops,Electrical Engineering,New,2022-10-29,12,Prof. Saurabh Saxena,IIT Madras,IIT Madras,uplc,True
+108104139,noc22-ee93,Basic Electric Circuits,Electrical Engineering,Rerun,2022-10-30,12,Prof. Ankush Sharma,IIT Kanpur,IIT Kanpur,uplc,False
+108104140,noc22-ee94,Fundamentals of Electric Drives,Electrical Engineering,Rerun,2022-09-25,8,Prof. Shyama Prasad Das,IIT Kanpur,IIT Kanpur,uptc,True
+108108181,noc22-ee95,Concentration inequalities,Electrical Engineering,Rerun,2022-09-25,8,"Prof. Aditya Gopalan
+Prof. Himanshu tyagi",IISc Bangalore,IISc Bangalore,uptc,True
+108108180,noc22-ee96,Mathematical Aspects of Biomedical Electronic System Design,Electrical Engineering,Rerun,2022-10-29,12,Prof. Chandramani Singh,IISc Bangalore,IISc Bangalore,uplc,True
+108108112,noc22-ee97,Semiconductor Devices and Circuits,Electrical Engineering,Rerun,2022-10-29,12,Prof. Sanjiv Sambandan,IISc Bangalore,IISc Bangalore,uplc,True
+108108099,noc22-ee98,Advances in UHV Transmission and Distribution,Electrical Engineering,Rerun,2022-09-25,8,Prof. Subbba Reddy B,IISc Bangalore,IISc Bangalore,uptc,True
+108108185,noc22-ee99,Real-Time Digital Signal Processing,Electrical Engineering,New,2022-10-29,12,Prof. Rathna G N,IISc Bangalore,IISc Bangalore,uplc,True
+127108135,noc22-ge01,NBA Accreditation and Teaching and learning in Engineering (NATE),General/Multidisciplinary,Rerun,2022-04-24,12,"Prof. N J Rao
+Prof. K Rajanikanth",IISc & MSRIT,IISc Bangalore,oc,True
+127101010,noc22-ge02,Designing Learner-Centric MOOCs,General/Multidisciplinary,Rerun,2022-03-27,4,"Prof. Gargi Banerjee 
+Prof. Sahana Murthy
+Prof. Jayakrishnan M.
+Prof. Sameer Sahasrabudhe",IIT Bombay,IIT Bombay,oc,True
+127105007,noc22-ge03,Entrepreneurship Essentials,General/Multidisciplinary,Rerun,2022-04-23,12,Prof. Manoj Kumar Mondal,IIT Kharagpur,IIT Kharagpur,oc,True
+127105006,noc22-ge04,Fuzzy Logic and Neural Networks,General/Multidisciplinary,Rerun,2022-04-24,8,Prof. Dilip Kumar Pratihar,IIT Kharagpur,IIT Kharagpur,oc,True
+121106012,noc22-ge05,Effective Engineering Teaching In Practice,General/Multidisciplinary,Rerun,2022-03-27,4,"Prof. G. K. Suraishkumar
+Prof. Edamana Prasad 
+Prof. Richa Verma",IIT Madras,IIT Madras,oc,True
+127105018,noc22-ge06,Introduction to Environmental Engineering and Science - Fundamental and Sustainability Concepts,General/Multidisciplinary,Rerun,2022-04-24,12,Prof. Brajesh Kumar Dubey,IIT Kharagpur,IIT Kharagpur,oc,False
+127108005,noc22-ge07,Teaching And Learning in Engineering (TALE),General/Multidisciplinary,Rerun,2022-03-27,4,Prof. N J Rao ,IISc Bangalore,IISc Bangalore,oc,True
+127106227,noc22-ge08,Research Methodology,General/Multidisciplinary,New,2022-04-23,12,Prof. Soumitro Banerjee,IISER Kolkata,IIT Madras,oc,True
+127106228,noc22-ge09,Management of Medical Emergencies in Dental Practice,General/Multidisciplinary,New,2022-04-23,8,Multifaculty,Tagore Dental College & Hospital & IITM,IIT Madras,oc,False
+127106229,noc22-ge10,Basic Course in Ornithology,General/Multidisciplinary,New,2022-04-23,12,"Prof. Mousumi Ghosh
+Prof. Manjari Jain
+Prof. R Jayapal
+Prof. Anand Krishnan
+Prof. Suhel Quader
+Prof. V.V. Robin
+Prof. Umesh Srinivasan","NCF
+IISER Mohali
+SACON
+IISER Pune
+NCF
+IISER Tirupati
+IISc",IIT Madras,oc,True
+127103225,noc22-ge11,Fundamental of Fluid Mechanics for Chemical and Biomedical Engineers,General/Multidisciplinary,Rerun,2022-04-23,12,Prof. Raghvendra Gupta,IIT Guwahati,IIT Guwahati,oc,False
+102105087,noc22-ge12,Environmental Chemistry and Microbiology,General/Multidisciplinary,Rerun,2022-04-24,12,"Prof. Anjali Pal
+Prof. Sudha Goel",IIT Kharagpur,IIT Kharagpur,oc,True
+121105010,noc22-ge13,Outcome Based Pedagogic Principles for Effective Teaching,General/Multidisciplinary,Rerun,2022-04-24,4,Prof. Shyamal Kumar Das Mandal,IIT Kharagpur,IIT Kharagpur,oc,True
+121106014,noc22-ge14,Non-conventional energy Resources,General/Multidisciplinary,Rerun,2022-04-24,12,Prof. Prathap Haridoss,IIT Madras,IIT Madras,oc,True
+121106007,noc22-ge15,Introduction to Research,General/Multidisciplinary,Rerun,2022-04-23,8,Prof. Edamana Prasad,IIT Madras,IIT Madras,oc,True
+127106230,noc22-ge16,Oral Biology,General/Multidisciplinary,New,2022-03-27,8,Multifaculty,Saveetha Dental College & IITM,IIT Madras,oc,True
+127106232,noc22-ge17,Electrocardiogram - Interpretation and application in clinical practice,General/Multidisciplinary,New,2022-09-25,4,Multifaculty,"
+Chettinad Hospital and Research Institute",IIT Madras,upsc,True
+127105232,noc22-ge18,Basics of Health Promotion and Education Intervention,General/Multidisciplinary,New,2022-09-25,8,"Prof. Arista Lahiri
+Prof. Sweety Suman Jha
+Prof. Chandrasekhar taklikar
+Prof. Madhumita Dobe",IIT Kharagpur,IIT Kharagpur,uptc,True
+127108015,noc22-ge19,Teaching And Learning in General Programs: TALG,General/Multidisciplinary,Rerun,2022-09-25,4,Prof. N J Rao,IISc Bangalore,IISc Bangalore,upsc,True
+127106004,noc22-ge20,Ecology and Environment,General/Multidisciplinary,Rerun,2022-10-29,8,"Prof. Abhijit Deshpande, Prof. R. Ravi Krishna",IIT Madras,IIT Madras,uptc,False
+127106001,noc22-ge21,Neuroscience of Human Movements,General/Multidisciplinary,Rerun,2022-10-29,12,Prof. Varadhan,IIT Madras,IIT Madras,uplc,True
+127106019,noc22-ge22,Numerical Methods for Engineers,General/Multidisciplinary,Rerun,2022-10-29,12,Prof. Niket S Kaisare,IIT Madras,IIT Madras,uplc,False
+121106007,noc22-ge23,Introduction to Research,General/Multidisciplinary,Rerun,2022-10-29,8,Prof. Edamana Prasad,IIT Madras,IIT Madras,uptc,True
+127106231,noc22-ge24,Introduction to Biomimicry,General/Multidisciplinary,New,2022-09-25,8,"Prof. Shiva Subramaniam
+Prof. Sivakumar Srinivasan
+Prof. Satya Seshadri
+Prof. Mrinalini",IIT Madras,IIT Madras,uptc,True
+127106137,noc22-ge25,Current regulatory requirements for conducting clinical trials in India for investigational new drugs/new drug (Version 3.0),General/Multidisciplinary,Rerun,2022-09-25,8,"Prof. Arun B. Ramteke , 
+Prof. Sucheta Banerjee Kurundkar , 
+Prof. Nandini K Kumar , 
+Prof. Y. K. Gupta , 
+Prof. D. K. Sable , 
+Prof. Rubina Bose , 
+Prof. Vishnu Rao",CDSA THSTI DBT,IIT Madras,uptc,True
+106101224,noc22-ge26,Learning Analytics Tools,General/Multidisciplinary,Rerun,2022-10-29,12,Prof. Ramkumar Rajendran,IIT Bombay,IIT Bombay,uplc,True
+127105017,noc22-ge27,Accreditation and Outcome Based Learning,General/Multidisciplinary,Rerun,2022-10-30,8,Prof. AK Ray (Retd. ) and Prof. SK Das Mandal,IIT Kharagpur,IIT Kharagpur,uptc,True
+115103123,noc22-ge28,Solar Energy Engineering and Technology,General/Multidisciplinary,Rerun,2022-10-29,12,Prof. Pankaj Kalita,IIT Guwahati,IIT Guwahati,uplc,True
+112103280,noc22-ge29,Fundamentals Of Artificial Intelligence,General/Multidisciplinary,Rerun,2022-10-29,12,Prof. Shyamanta M. Hazarika,IIT Guwahati,IIT Guwahati,uplc,True
+127105231,noc22-ge30,Vacuum Technology & Process Application,General/Multidisciplinary,New,2022-10-30,12,Prof. V. Vasudeva Rao,IIT Kharagpur,IIT Kharagpur,uplc,True
+127106003,noc22-ge31,Manage TB,General/Multidisciplinary,Rerun,2022-10-29,8,"Prof. Mohan Natrajan, 
+Prof. V V Banu Rekha",ICMR-NIRT,IIT Madras,uptc,True
+109106189,noc22-hs01,Literature and Life,Humanities and Social Sciences,New,2022-04-23,12,Prof. S P Dhanavel,IIT Madras,IIT Madras,oc,True
+109104122,noc22-hs02,Visual Perception And Art: A Survey Across The Cultures,Humanities and Social Sciences,Rerun,2022-04-23,4,Prof. Soumik Nandy Majumdar ,Visva-Bharati University,IIT Kanpur,oc,True
+109106095,noc22-hs03,Health Research Fundamentals,Humanities and Social Sciences,Rerun,2022-03-27,8,Multifaculty,NIE,IIT Madras,oc,True
+109106128,noc22-hs04,Patent Drafting for Beginners,Humanities and Social Sciences,Rerun,2022-03-27,4,Prof. Feroz Ali,IIT Madras,IIT Madras,oc,True
+109107172,noc22-hs05,Effective Writing,Humanities and Social Sciences,Rerun,2022-03-27,4,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,oc,True
+109106145,noc22-hs06,The Nineteenth - Century English Novel,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Divya A,IIT Madras,IIT Madras,oc,True
+109105110,noc22-hs07,Soft Skill Development,Humanities and Social Sciences,Rerun,2022-03-27,8,"Prof. Priyadarshi Patnaik
+Prof. V.N. Giri 
+Prof. D. Suar",IIT Kharagpur,IIT Kharagpur,oc,True
+109104115,noc22-hs08,Enhancing Soft Skills and Personality,Humanities and Social Sciences,Rerun,2022-04-24,8,Prof. T. Ravichandran,IIT Kanpur,IIT Kanpur,oc,True
+109107139,noc22-hs09,"Literature, Culture and Media",Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Rashmi Gaur,IIT Roorkee,IIT Roorkee,oc,True
+109104136,noc22-hs10,Development of Sociology in India,Humanities and Social Sciences,Rerun,2022-03-27,4,Prof. Ashish Saxena,IIT Kanpur,IIT Kanpur,oc,True
+109106146,noc22-hs100,Feminist Writings,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Avishek Parui,IIT Madras,IIT Madras,uplc,True
+109103122,noc22-hs101,Gender and literature,Humanities and Social Sciences,Rerun,2022-10-30,8,Prof. Avishek Parui,IIT Madras,IIT Madras,uptc,True
+109106124,noc22-hs102,History of English Language and Literature,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Merin Simi Raj,IIT Madras,IIT Madras,uplc,True
+109106130,noc22-hs103,Postmodernism in Literature,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Merin Simi Raj,IIT Madras,IIT Madras,uptc,True
+109106148,noc22-hs104,Managing Intellectual Property in Universities,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Feroz Ali,IIT Madras,IIT Madras,upsc,True
+109106161,noc22-hs105,Energy Economics And Policy,Humanities and Social Sciences,Rerun,2022-10-30,8,Prof. Shyamasree Dasgupta,IIT Mandi,IIT Madras,uptc,True
+109101195,noc22-hs106,à¤¸à¤¨à¥à¤§à¤¿ sandhi in Paninian grammar,Humanities and Social Sciences,New,2022-10-30,12,Prof. Malhar Kulkarni,IIT Bombay,IIT Bombay,uplc,True
+109105195,noc22-hs107,Sociology and Resource Management,Humanities and Social Sciences,New,2022-10-30,4,"Prof. Archana Patnaik
+Prof. Amrita Sen",IIT Kharagpur,IIT Kharagpur,upsc,True
+109105196,noc22-hs108,Urban Sociology,Humanities and Social Sciences,New,2022-10-30,4,Prof. Amrita Sen,IIT Kharagpur,IIT Kharagpur,upsc,True
+109105122,noc22-hs109,Educational leadership,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Atasi Mohanty,IIT Kharagpur,IIT Kharagpur,uptc,True
+109105116,noc22-hs11,Emotional Intelligence,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Rabindra Kumar Pradhan,IIT Kharagpur,IIT Kharagpur,oc,True
+109105176,noc22-hs110,Entrepreneurship and IP strategy,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Gouri Gargate,IIT Kharagpur,IIT Kharagpur,uptc,True
+109105113,noc22-hs111,Globalization and Culture,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Anjali Gera Roy,IIT Kharagpur,IIT Kharagpur,uptc,True
+109105118,noc22-hs112,Great Experiments in Psychology,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Rajlakshmi Guha,IIT Kharagpur,IIT Kharagpur,upsc,True
+109105121,noc22-hs113,Human resource development,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. KBL Srivastava,IIT Kharagpur,IIT Kharagpur,uplc,True
+-2147483648,noc22-hs114,Spoken Sanskrit: Basic and Intermediate Levels,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Anuradha Choudry,IIT Kharagpur,IIT Kharagpur,uplc,True
+109105111,noc22-hs115,Symbolic Logic,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Chhanda Chakraborti,IIT Kharagpur,IIT Kharagpur,uptc,True
+109105185,noc22-hs116,Urbanization and Environment,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Jenia Mukherjee,IIT Kharagpur,IIT Kharagpur,uptc,True
+109105136,noc22-hs117,Water Society And Sustainability,Humanities and Social Sciences,Rerun,2022-10-30,4,Prof. Jenia Mukherjee,IIT Kharagpur,IIT Kharagpur,upsc,True
+109104195,noc22-hs118,Introduction to Japanese Language and Culture - II,Humanities and Social Sciences,New,2022-10-30,12,Prof. Vatsala Misra ,IIT Kanpur,IIT Kanpur,uplc,True
+109105197,noc22-hs119,Management of Fixed Income Securities,Humanities and Social Sciences,New,2022-10-30,12,Prof.Jitendra Mahakud,IIT Kharagpur,IIT Kharagpur,uplc,True
+109103140,noc22-hs12,Introduction to Modern Indian Drama,Humanities and Social Sciences,Rerun,2022-04-24,8,Prof. Kiran Keshavamurthy,IIT Guwahati,IIT Guwahati,oc,True
+109103185,noc22-hs120,Sociology of Development,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,uplc,True
+109103187,noc22-hs121,Introduction to Market Structures,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Amarjyoti Mahanta,IIT Guwahati,IIT Guwahati,uplc,True
+109103176,noc22-hs122,Introduction to Western Political Thought,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Mithilesh Kumar Jha,IIT Guwahati,IIT Guwahati,uplc,True
+109103152,noc22-hs123,The Psychology Of Language,Humanities and Social Sciences,Rerun,2022-10-29,8,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,uptc,True
+109103136,noc22-hs124,Consumer Psychology,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,uptc,True
+109103123,noc22-hs125,Ecology and Society,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Ngamjahao Kipgen,IIT Guwahati,IIT Guwahati,uplc,True
+109103186,noc22-hs126,Environment and Development,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Ngamjahao Kipgen,IIT Guwahati,IIT Guwahati,uplc,True
+109103153,noc22-hs127,Development Research Methods,Humanities and Social Sciences,Rerun,2022-10-30,8,Prof. Rajshree Bedamatta,IIT Guwahati,IIT Guwahati,uptc,True
+109103121,noc22-hs128,"Science, Technology and Society",Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,uplc,True
+109104117,noc22-hs129,Introducing Modern Western Art: Movements and Artists,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Soumik Nandi Majumdar,IIT Kanpur,IIT Kanpur,upsc,False
+109105117,noc22-hs13,Speaking Effectively,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Anjali Gera Roy,IIT Kharagpur,IIT Kharagpur,oc,False
+109104102,noc22-hs130,Introduction to Indian Art - An Appreciation,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Soumik Nandi Majumdar,IIT Kanpur,IIT Kanpur,upsc,True
+109104088,noc22-hs131,Elements of Visual Representation,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Shatarupa Thakurta Roy,IIT Kanpur,IIT Kanpur,uptc,True
+109103188,noc22-hs132,Mathematics for Economics - I,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Debarshi Das,IIT Guwahati,IIT Guwahati,uplc,True
+109104196,noc22-hs133,"Indian Art: Materials, Techniques and Artistic Practices",Humanities and Social Sciences,New,2022-10-30,12,Prof. Rajarshi Sengupta,IIT Kanpur,IIT Kanpur,uplc,False
+109107195,noc22-hs134,Public Speaking,Humanities and Social Sciences,New,2022-10-30,12,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,uplc,True
+109106195,noc22-hs135,An Introduction to Indian Literary Theory,Humanities and Social Sciences,New,2022-10-30,8,Prof. Sreenath V.S,IISER Bhopal,IIT Madras,uptc,True
+109107196,noc22-hs136,Partition of India in Print Media and Cinema,Humanities and Social Sciences,New,2022-10-30,12,Prof. Sarbani Banerjee,IIT Roorkee,IIT Roorkee,uplc,True
+109104197,noc22-hs137,à¤ªà¥à¤°à¤®à¥à¤– à¤¹à¤¿à¤‚à¤¦à¥€ à¤•à¤¹à¤¾à¤¨à¤¿à¤¯à¤¾à¤‚ à¤”à¤° à¤­à¤¾à¤°à¤¤à¥€à¤¯ à¤¸à¤®à¤¾à¤œ ,Humanities and Social Sciences,New,2022-09-25,4,Prof. Shri Prakash Shukla ,Banaras Hindu University,IIT Kanpur,upsc,False
+109106185,noc22-hs138,Literary and Cultural Disability Studies: An Exploration,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Hemachandran Karah,IIT Madras,IIT Madras,uplc,True
+109106188,noc22-hs139,Fundamental Concepts in Sociolinguistics,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Om Prakash,Gautam Buddha University,IIT Madras,uplc,True
+109103141,noc22-hs14,Introduction to Political Theory,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Mithilesh Kumar Jha,IIT Guwahati,IIT Guwahati,oc,False
+130106115,noc22-hs140,Spatial Statistics and Spatial Econometrics,Humanities and Social Sciences,New,2022-10-29,12,Prof. Gaurav Arora,IIIT Delhi,IIT Madras,uplc,True
+109106190,noc22-hs141,German - III,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Milind Brahme,IIT Madras,IIT Madras,uplc,True
+109103135,noc22-hs15,Introduction to Modern Indian Political Thought,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Mithilesh Kumar Jha,IIT Guwahati,IIT Guwahati,oc,True
+110103093,noc22-hs16,Economic Growth and Development,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Rajshree Bedamatta,IIT Guwahati,IIT Guwahati,oc,True
+109104116,noc22-hs17,Postcolonial Literature,Humanities and Social Sciences,Rerun,2022-03-27,4,Prof. Sayan Chattopadhyay,IIT Kanpur,IIT Kanpur,oc,True
+109103142,noc22-hs18,Human Behaviour,Humanities and Social Sciences,Rerun,2022-04-23,8,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,oc,True
+109103134,noc22-hs19,Introduction to Cognitive Psychology,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Naveen Kashyap,IIT Guwahati,IIT Guwahati,oc,True
+109104105,noc22-hs20,Introduction to Psychology,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Braj Bhushan,IIT Kanpur,IIT Kanpur,oc,True
+109107171,noc22-hs21,Introduction to Environmental Economics,Humanities and Social Sciences,Rerun,2022-04-24,12,"Prof. Diptimayee Nayak
+Prof. S. P. Singh",IIT Roorkee,IIT Roorkee,oc,True
+-2147483648,noc22-hs22,Psychiatry - An Overview and How the Brain Creates Mind,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Alok Bajpai,IIT Kanpur,IIT Kanpur,oc,True
+109103133,noc22-hs23,Sociological Perspectives on Modernity,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,oc,True
+109106182,noc22-hs24,Basics of language Science,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Rajesh Kumar,IIT Madras,IIT Madras,oc,True
+109106149,noc22-hs25,"English Literature of the Romantic Period, 1798-1832",Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Pramod K Nayar,University of Hyderabad,IIT Madras,oc,True
+109106175,noc22-hs26,Feminism : Concepts and Theories,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Mathangi Krishnamurthy,IIT Madras,IIT Madras,oc,False
+109106174,noc22-hs27,"Introduction to Political Ideologies : Contexts, Ideas, and Practices",Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Arvind Sivaramakrishnan,IIT Madras,IIT Madras,oc,True
+109106085,noc22-hs28,Language and Mind,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Rajesh Kumar,IIT Madras,IIT Madras,oc,False
+110106081,noc22-hs29,Patent Law for Engineers and Scientists,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Feroz Ali,IIT Madras,IIT Madras,oc,True
+109106166,noc22-hs30,German - I,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Milind Brahme,IIT Madras,IIT Madras,oc,True
+109106165,noc22-hs31,German - II,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Milind Brahme,IIT Madras,IIT Madras,oc,True
+109106190,noc22-hs32,German - III,Humanities and Social Sciences,New,2022-04-23,12,Prof. Milind Brahme,IIT Madras,IIT Madras,oc,True
+109106122,noc22-hs33,English Literature for competitive exams,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Aysha Iqbal,IIT Madras,IIT Madras,oc,True
+109106094,noc22-hs34,Technical English for Engineers,Humanities and Social Sciences,Rerun,2022-04-23,8,Prof. Aysha Iqbal,IIT Madras,IIT Madras,oc,True
+109101189,noc22-hs35,Introduction to Paninian grammar,Humanities and Social Sciences,New,2022-04-23,12,Prof. Malhar Kulkarni,IIT Bombay,IIT Bombay,oc,True
+109104176,noc22-hs36,Modern Indian Art From The Colonial Period To The Present,Humanities and Social Sciences,Rerun,2022-04-24,4,Prof. Soumik Nandy Majumdar ,Visva-Bharati University,IIT Kanpur,oc,False
+109104183,noc22-hs37,Literature and Coping Skills,Humanities and Social Sciences,Rerun,2022-04-23,8,Prof. Ajit K Mishra,IIT(BHU) Varanasi,IIT Madras,oc,True
+109106183,noc22-hs38,Globalization: Theoretical Perspectives,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. R. Santhosh,IIT Madras,IIT Madras,oc,True
+109107189,noc22-hs39,Indian Poetry in English,Humanities and Social Sciences,New,2022-04-24,8,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,oc,True
+109107190,noc22-hs40,Exploring Survey Data on Health Care,Humanities and Social Sciences,New,2022-04-24,8,Prof. Pratap C. Mohanty,IIT Roorkee,IIT Roorkee,oc,True
+109103189,noc22-hs41,"Language, Culture and Cognition: An Introduction",Humanities and Social Sciences,New,2022-04-24,8,Prof. Bidisha Som,IIT Guwahati,IIT Guwahati,oc,True
+109104125,noc22-hs42,An Introduction to Microeconomics,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Vimal Kumar,IIT Kanpur,IIT Kanpur,oc,True
+109101171,noc22-hs43,"Energy Resources, Economics and Environment",Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Rangan Banerjee,IIT Bombay,IIT Bombay,oc,True
+109103183,noc22-hs44,Phonetics and Phonology: A broad overview,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Shakuntala Mahanta,IIT Guwahati,IIT Guwahati,oc,True
+109103184,noc22-hs45,Philosophical Foundations of Social Research,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Sambit Mallick,IIT Guwahati,IIT Guwahati,oc,True
+109103182,noc22-hs46,"Psychology of Stress, Health and Well-being",Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Dilwar Hussain,IIT Guwahati,IIT Guwahati,oc,True
+109104171,noc22-hs47,Introduction To Brain & Behaviour,Humanities and Social Sciences,Rerun,2022-04-24,8,Prof. Ark Verma ,IIT Kanpur,IIT Kanpur,oc,True
+109104143,noc22-hs48,Introduction To The Psychology Of Language,Humanities and Social Sciences,Rerun,2022-04-23,8,Prof. Ark Verma ,IIT Kanpur,IIT Kanpur,oc,True
+109105112,noc22-hs49,Introduction On Intellectual Property To Engineers And Technologists,Humanities and Social Sciences,Rerun,2022-04-24,8,Prof. Tapas Kumar Bandyopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+109106184,noc22-hs50,Towards an Ethical Digital Society: From Theory to Practice,Humanities and Social Sciences,Rerun,2022-03-27,4,Prof. Bidisha Chaudhuri,IIIT Bangalore,IIT Madras,oc,True
+109107191,noc22-hs51,Contextualizing Gender,Humanities and Social Sciences,New,2022-04-23,12,Prof. Rashmi Gaur,IIT Roorkee,IIT Roorkee,oc,True
+109106173,noc22-hs52,Modern Indian Writing in Translation,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Divya A,IIT Madras,IIT Madras,oc,True
+109106172,noc22-hs53,Twentieth Century Fiction,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Avishek Parui,IIT Madras,IIT Madras,oc,True
+109106136,noc22-hs54,Introduction to Cultural Studies,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Avishek Parui,IIT Madras,IIT Madras,oc,True
+109106147,noc22-hs55,Introduction to World Literature,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Merin Simi Raj,IIT Madras,IIT Madras,oc,True
+109106171,noc22-hs56,Literary Criticism (From Plato to Leavis),Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Merin Simi Raj,IIT Madras,IIT Madras,oc,True
+109106191,noc22-hs57,Appreciating Hindustani Music,Humanities and Social Sciences,New,2022-04-24,8,"Prof. Lakshmi Sreeram
+Prof. Srijan Deshpande",IIT Madras,IIT Madras,oc,True
+109107182,noc22-hs58,Handling Large-Scale Unit Level Data Using STATA,Humanities and Social Sciences,Rerun,2022-04-24,8,Prof. Pratap C. Mohanty,IIT Roorkee,IIT Roorkee,oc,True
+109106137,noc22-hs59,Intellectual Property,Humanities and Social Sciences,Rerun,2022-04-24,12,Prof. Feroz Ali,IIT Madras,IIT Madras,oc,True
+109105189,noc22-hs60,Advanced Level of Spoken Sanskrit,Humanities and Social Sciences,New,2022-03-27,8,Prof. Anuradha Choudry,IIT Kharagpur,IIT Kharagpur,oc,True
+109105190,noc22-hs61,Education for Sustainable Development,Humanities and Social Sciences,New,2022-04-23,12,Prof. Atasi Mohanty,IIT Kharagpur,IIT Kharagpur,oc,True
+109105191,noc22-hs62,Elements of Literature and Creative Communication,Humanities and Social Sciences,New,2022-04-23,12,Prof. H.S. Komalesha,IIT Kharagpur,IIT Kharagpur,oc,True
+109105192,noc22-hs63,Training and Development,Humanities and Social Sciences,New,2022-04-24,12,Prof. Susmita Mukhopadyay Prof. S.Srinivasan,IIT Kharagpur,IIT Kharagpur,oc,True
+109106089,noc22-hs64,Infrastructure Economics,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Nalin Bharti,IIT Patna,IIT Madras,oc,True
+130106001,noc22-hs66,Introduction to Econometrics,Humanities and Social Sciences,Rerun,2022-04-23,12,Prof. Sabuj Kumar Mandal,IIT Madras,IIT Madras,oc,True
+130104114,noc22-hs67,Microfoundations of Macroeconomics,Humanities and Social Sciences,New,2022-03-27,8,Prof. Wasim Ahmad,IIT Kanpur,IIT Kanpur,oc,True
+109104194,noc22-hs68,Japani Bhasha - Saral swaroop,Humanities and Social Sciences,New,2022-04-24,12,Prof. Vatsala Misra,IIT Kanpur,IIT Kanpur,oc,True
+109104184,noc22-hs69,Indian Economy: Some Contemporary Perspectives,Humanities and Social Sciences,Rerun,2022-03-27,8,Prof. Wasim Ahmad,IIT Kanpur,IIT Kanpur,oc,False
+130104115,noc22-hs70,Introduction to Microeconomics in Hindi and without Calculus,Humanities and Social Sciences,New,2022-10-29,12,Prof. Vimal Kumar ,IIT Kanpur,IIT Kanpur,uplc,True
+130106113,noc22-hs71,Environmental & Resource Economics,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Sabuj Kumar Mandal,IIT Madras,IIT Madras,uplc,True
+130104116,noc22-hs72,Economics of Banking and Finance Markets,Humanities and Social Sciences,New,2022-10-30,12,Prof. Sukumar Vellakkal,IIT Kanpur,IIT Kanpur,uplc,True
+109106095,noc22-hs73,Health Research Fundamentals,Humanities and Social Sciences,Rerun,2022-09-25,8,Multifaculty,NIE,IIT Madras,uptc,True
+109106128,noc22-hs74,Patent Drafting for Beginners,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Feroz Ali,IIT Madras,IIT Madras,upsc,True
+109102156,noc22-hs75,"Text, Textuality and Digital Media",Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Arjun Gosh,IIT Delhi,IIT Delhi,uplc,True
+109107121,noc22-hs76,Soft skills,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Binod Mishra,IIT Roorkee,IIT Roorkee,uplc,True
+109104107,noc22-hs77,Developing Soft Skills and Personality,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. T. Ravichandran,IIT Kanpur,IIT Kanpur,uptc,True
+109107154,noc22-hs78,Body language: Key to professional Success,Humanities and Social Sciences,Rerun,2022-10-29,4,Prof. Rashmi Gaur,IIT Roorkee,IIT Roorkee,upsc,True
+109104135,noc22-hs79,Introduction To Literary Theory,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Sayan Chattopadhyay,IIT Kanpur,IIT Kanpur,uptc,True
+109104093,noc22-hs80,Brief Introduction to Psychology,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Braj Bhushan,IIT Kanpur,IIT Kanpur,upsc,True
+109104151,noc22-hs81,Psychology of Everyday,Humanities and Social Sciences,Rerun,2022-10-30,4,Prof. Braj Bhushan and Prof. Alok Bajpai,IIT Kanpur,IIT Kanpur,upsc,True
+109104121,noc22-hs82,"Cognition, Transformation and Lives",Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Alok Bajpai,IIT Kanpur,IIT Kanpur,upsc,True
+109107131,noc22-hs83,Sociology of Science,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. A. J. Mishra,IIT Roorkee,IIT Roorkee,upsc,True
+121104005,noc22-hs84,Introduction To Japanese Language And Culture,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Vatsala Misra,IIT Kanpur,IIT Kanpur,uplc,True
+109106114,noc22-hs85,Applied Linguistics,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Rajesh Kumar,IIT Madras,IIT Madras,uplc,True
+109106087,noc22-hs86,Appreciating Carnatic Music,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Lakshmi Sreeram,IIT Madras,IIT Madras,uptc,True
+110106081,noc22-hs87,Patent Law for Engineers and Scientists,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Feroz Ali,IIT Madras,IIT Madras,uplc,True
+109106166,noc22-hs88,German - I,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Milind Brahme,IIT Madras,IIT Madras,uplc,True
+109106165,noc22-hs89,German - II,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Milind Brahme,IIT Madras,IIT Madras,uplc,True
+109106100,noc22-hs90,Economics of IPR,Humanities and Social Sciences,Rerun,2022-09-25,4,Prof. Nalin Bharti,IIT Patna,IIT Kanpur,upsc,False
+109106177,noc22-hs91,The Popular Gothic Novel,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Divya A,IIT Madras,IIT Madras,uplc,True
+109106180,noc22-hs92,Classical Sociological Theory,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. R. Santhosh,IIT Madras,IIT Madras,uplc,True
+109106176,noc22-hs93,Poetry,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. S P Dhanavel,IIT Madras,IIT Madras,uplc,True
+109106084,noc22-hs94,Literary Theory and Literary Criticism,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Aysha Iqbal Viswamohan,IIT Madras,IIT Madras,uptc,True
+109106170,noc22-hs95,Introduction to Film studies,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Aysha Iqbal,IIT Madras,IIT Madras,uplc,True
+109104126,noc22-hs96,Introduction to Advanced Cognitive Processes,Humanities and Social Sciences,Rerun,2022-10-30,8,Prof. Ark Verma,IIT Kanpur,IIT Kanpur,uptc,True
+109104123,noc22-hs97,Introduction to Basic Cognitive Processes,Humanities and Social Sciences,Rerun,2022-09-25,8,Prof. Ark Verma,IIT Kanpur,IIT Kanpur,uptc,True
+109107173,noc22-hs98,International Trade - Theory and Empirics,Humanities and Social Sciences,Rerun,2022-10-30,12,Prof. Pratap C. Mohanty,IIT Roorkee,IIT Roorkee,uplc,True
+109106138,noc22-hs99,Short Fiction in Indian Literature,Humanities and Social Sciences,Rerun,2022-10-29,12,Prof. Divya A,IIT Madras,IIT Madras,uplc,True
+129106001,noc22-lw01,Right to Information and Good Governance,Law,Rerun,2022-10-30,12,Prof. Sairam Bhat,National Law School of India University,IIT Madras,uplc,True
+129106002,noc22-lw02,Constitution of India and Environmental Governance: Administrative and Adjudicatory Process,Law,Rerun,2022-10-30,12,"Prof. Sairam Bhat, Prof. M. K. Ramesh",National Law School of India University,IIT Madras,uplc,True
+129105004,noc22-lw03,Introduction to Law on Electricity,Law,Rerun,2022-09-25,8,Prof. Uday Shankar,IIT Kharagpur,IIT Kharagpur,uptc,True
+129105005,noc22-lw04,Legal and Regulatory Issues in Biotechnology,Law,Rerun,2022-09-25,4,Prof. Niharika Sahoo Bhattacharya,IIT Kharagpur,IIT Kharagpur,upsc,True
+129105006,noc22-lw05,New Labour Codes of India,Law,New,2022-10-30,12,Prof. Raju KD,IIT Kharagpur,IIT Kharagpur,uplc,True
+129106006,noc22-lw06,"Advanced Contracts, Tendering and Public Procurement",Law,New,2022-10-30,12,Prof. Sairam Bhat,NLSIU,IIT Madras,uplc,True
+111106158,noc22-ma01,Algebraic Combinatorics,Mathematics,New,2022-04-24,12,"Prof. Amritanshu Prasad
+Prof. Sankaran Viswanath",IMSc,IIT Madras,oc,True
+111107111,noc22-ma02,Ordinary and Partial Differential Equations and Applications,Mathematics,Rerun,2022-04-23,12,"Prof. P. N. Agrawal
+Prof. D.N. Pandey",IIT Roorkee,IIT Roorkee,oc,False
+111105122,noc22-ma03,Integral and Vector Calculus,Mathematics,Rerun,2022-04-23,12,Prof. Hari Shankar Mahato,IIT Kharagpur,IIT Kharagpur,oc,False
+111101115,noc22-ma04,Basic Linear Algebra,Mathematics,Rerun,2022-04-24,8,Prof. I. K. Rana,IIT Bombay,IIT Bombay,oc,False
+111101134,noc22-ma05,Basic Real Analysis,Mathematics,Rerun,2022-04-24,12,Prof. I. K. Rana,IIT Bombay,IIT Bombay,oc,False
+111108136,noc22-ma06,Introduction to Algebraic Geometry and Commutative Algebra,Mathematics,Rerun,2022-04-24,12,Prof. Dilip P. Patil,IISc Bangalore,IISc Bangalore,oc,True
+111107108,noc22-ma07,Multivariable calculus,Mathematics,Rerun,2022-03-27,8,"Prof. S. K. Gupta 
+Prof. Sanjeev Kumar",IIT Roorkee,IIT Roorkee,oc,False
+111105134,noc22-ma08,Engineering Mathematics II,Mathematics,Rerun,2022-04-24,12,Prof. Jitendra Kumar,IIT Kharagpur,IIT Kharagpur,oc,False
+111105091,noc22-ma09,Applied Multivariate Statistical Modeling,Mathematics,Rerun,2022-04-24,12,Prof. Jhareswar Maiti,IIT Kharagpur,IIT Kharagpur,oc,True
+111106102,noc22-ma10,Graph Theory,Mathematics,Rerun,2022-03-27,8,Prof. Soumen Maity,IISER PUNE,IIT Madras,oc,True
+111106131,noc22-ma11,Introduction To Rings And Fields,Mathematics,Rerun,2022-03-27,8,Prof. Krishna Hanumanthu,CMI,IIT Madras,oc,True
+111106145,noc22-ma12,Introduction to Galois Theory,Mathematics,Rerun,2022-03-27,8,Prof. Krishna Hanumanthu,CMI,IIT Madras,oc,True
+111106146,noc22-ma13,Basic Calculus - 1,Mathematics,Rerun,2022-04-24,12,Prof. Arindama Singh,IIT Madras,IIT Madras,oc,False
+111106135,noc22-ma14,Linear Algebra,Mathematics,Rerun,2022-04-23,12,Prof. Pranav Haridas,Kerala School of Mathematics,IIT Madras,oc,False
+111106134,noc22-ma15,Probabilistic Methods in PDE,Mathematics,Rerun,2022-04-24,12,Prof. Anindya Goswami,IISER Pune,IIT Madras,oc,True
+111103158,noc22-ma16,Discrete-time Markov Chains and Poisson Processes,Mathematics,New,2022-03-27,8,"Prof. Ayon Ganguly
+Prof. Subhamay Saha",IIT Guwahati,IIT Guwahati,oc,True
+111103159,noc22-ma17,Introduction to Queueing Theory,Mathematics,New,2022-04-24,12,Prof. N. Selvaraju,IIT Guwahati,IIT Guwahati,oc,True
+111107106,noc22-ma18,Numerical Linear Algebra,Mathematics,Rerun,2022-04-24,12,"Prof. P. N. Agrawal 
+Prof. D.N. Pandey",IIT Roorkee,IIT Roorkee,oc,True
+111106151,noc22-ma19,Algebra - II,Mathematics,Rerun,2022-04-24,12,"Prof. Sankaran Viswanath
+Prof. Amritanshu Prasad",IMSc,IIT Madras,oc,True
+111107113,noc22-ma20,Mathematical Modelling: Analysis and Applications,Mathematics,Rerun,2022-04-23,4,Prof. Ameeya Kumar Nayak,IIT Roorkee,IIT Roorkee,oc,True
+111107107,noc22-ma21,Numerical Methods: Finite difference approach,Mathematics,Rerun,2022-03-27,4,Prof. Ameeya Kumar Nayak,IIT Roorkee,IIT Roorkee,oc,True
+111106147,noc22-ma22,Functional Analysis,Mathematics,Rerun,2022-04-24,12,Prof. Kesavan,IMSc,IIT Madras,oc,True
+111106144,noc22-ma23,Variational Calculus and its applications in Control Theory and Nanomechanics,Mathematics,Rerun,2022-04-24,12,Prof. Sarthok Sircar,IIITD,IIT Madras,oc,True
+111106149,noc22-ma24,Computational Mathematics with SageMath,Mathematics,Rerun,2022-04-23,12,Prof. Ajit Kumar,"Institute of Chemical Technology, Mumbai",IIT Madras,oc,True
+111101158,noc22-ma25,An introduction to Point-Set-Topology Part-I,Mathematics,New,2022-04-24,12,Prof. Anant R Shastri,IIT Bombay,IIT Bombay,oc,True
+-2147483648,noc22-ma26,Probability and Stochastics for Finance,Mathematics,Rerun,2022-03-27,8,Prof.  Joydeep Dutta,IIT Kanpur,IIT Kanpur,oc,True
+111106150,noc22-ma27,Probability - I with Examples Using R,Mathematics,Rerun,2022-04-24,12,Prof. Siva Athreya,ISI Bangalore,IIT Madras,oc,True
+111108144,noc22-ma28,First Course on Partial Differential Equations - I,Mathematics,Rerun,2022-03-27,8,"Prof. A. K. Nandakumaran
+Prof. P. S. Datti",IISc Bangalore,IISc Bangalore,oc,True
+111102112,noc22-ma29,Statistical Inference,Mathematics,Rerun,2022-03-27,8,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,oc,True
+111102134,noc22-ma30,Advanced Probability Theory,Mathematics,Rerun,2022-04-24,12,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,oc,True
+111102137,noc22-ma31,Scientific Computing using Matlab,Mathematics,Rerun,2022-04-24,12,"Prof. Mani Mehra
+Prof. Vivek Kumar Aggarwal",IIT Delhi,IIT Delhi,oc,True
+111105123,noc22-ma32,Transform Calculus and Its Applications In Differential Equations,Mathematics,Rerun,2022-04-24,12,Prof. Adrijit Goswami,IIT Kharagpur,IIT Kharagpur,oc,True
+111105124,noc22-ma33,Statistical Inference - IIT KGP,Mathematics,Rerun,2022-04-23,12,Prof. Somesh Kumar,IIT Kharagpur,IIT Kharagpur,oc,True
+111104146,noc22-ma34,Essentials Of Data Science With R Software - 1: Probability And Statistical Inference,Mathematics,Rerun,2022-04-23,12,Prof. Shalabh,IIT Kanpur,IIT Kanpur,oc,True
+111104147,noc22-ma35,Essentials Of Data Science With R Software - 2: Sampling Theory And Linear Regression Analysis,Mathematics,Rerun,2022-04-24,12,Prof. Shalabh,IIT Kanpur,IIT Kanpur,oc,True
+111106159,noc22-ma36,An invitation to Topology,Mathematics,New,2022-04-24,12,Prof. Indrava Roy,IMSc,IIT Madras,oc,False
+111106148,noc22-ma37,Mathematical Methods in Physics 1,Mathematics,Rerun,2022-04-23,8,Prof. Auditya Sharma,IISER Bhopal,IIT Madras,oc,False
+111105111,noc22-ma38,Matrix Solver,Mathematics,Rerun,2022-10-29,12,Prof. Somnath Roy,IIT Kharagpur,IIT Kharagpur,uplc,True
+111107105,noc22-ma39,Numerical methods,Mathematics,Rerun,2022-09-25,8,"Prof. Ameeya Kumar Nayak, Prof. Sanjeev Kumar",IIT Roorkee,IIT Roorkee,uptc,False
+111107137,noc22-ma40,Essential Mathematics for Machine Learning,Mathematics,Rerun,2022-10-30,12,"Prof. Sanjeev Kumar, Prof. S.K. Gupta",IIT Roorkee,IIT Roorkee,uplc,True
+111107098,noc22-ma41,Mathematical Methods and its Applications,Mathematics,Rerun,2022-10-29,12,"Prof. P. N. Agrawal , 
+Prof. S. K. Gupta",IIT Roorkee,IIT Roorkee,uplc,True
+111107119,noc22-ma42,Advanced Engineering Mathematics,Mathematics,Rerun,2022-10-30,12,Prof. P. N. Agrawal,IIT Roorkee,IIT Roorkee,uplc,False
+111101100,noc22-ma43,Measure Theory,Mathematics,Rerun,2022-10-29,12,Prof. I. K. Rana,IIT Bombay,IIT Bombay,uplc,True
+111101109,noc22-ma44,"Calculus for Economics,Commerce and Management",Mathematics,Rerun,2022-09-25,8,Prof. I. K. Rana,IIT Bombay,IIT Bombay,uptc,False
+111108098,noc22-ma45,Linear Algebra,Mathematics,Rerun,2022-10-29,12,Prof. Dilip P. Patil,IISc Bangalore,IISc Bangalore,uplc,True
+111101117,noc22-ma46,Galois Theory,Mathematics,Rerun,2022-10-30,12,Prof. Dilip P. Patil,IIT Bombay,IIT Bombay,uplc,True
+111102130,noc22-ma47,"Introduction to Fuzzy Set Theory, Arithmetic and Logic",Mathematics,Rerun,2022-10-29,12,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,uplc,True
+111107128,noc22-ma48,Operations Research,Mathematics,Rerun,2022-09-25,8,Prof. Kusumdeep,IIT Roorkee,IIT Roorkee,uptc,False
+109104124,noc22-ma49,Calculus Of One Real Variable,Mathematics,Rerun,2022-09-25,8,Prof. Joydeep Dutta,IIT Kanpur,IIT Kanpur,uptc,False
+111104125,noc22-ma50,Calculus Of Several Real Variables,Mathematics,Rerun,2022-09-25,8,Prof. Joydeep Dutta,IIT Kanpur,IIT Kanpur,uptc,False
+111102129,noc22-ma51,Integral Transforms and their Applications,Mathematics,Rerun,2022-10-30,12,Prof. Sarthok Sircar,IIIT Delhi,IIT Madras,uplc,True
+111102133,noc22-ma52,Introduction to Methods of Applied Mathematics,Mathematics,Rerun,2022-10-29,12,"Prof. Mani Mehra, Prof. Vivek aggarwal",IIT Delhi,IIT Delhi,uplc,True
+111107112,noc22-ma53,Matrix Analysis with Applications,Mathematics,Rerun,2022-09-25,8,"Prof. S. K. Gupta, Prof. Sanjeev Kumar",IIT Roorkee,IIT Roorkee,uptc,True
+111106113,noc22-ma54,Introduction to Abstract Group Theory,Mathematics,Rerun,2022-09-25,8,Prof. Krishna Hanumanthu,Chennai Mathematical Institute,IIT Madras,uptc,True
+111105042,noc22-ma55,Regression Analysis,Mathematics,Rerun,2022-10-29,12,Prof. Soumen Maity,IISER Pune,IIT Madras,uplc,True
+111102111,noc22-ma56,Introduction to Probability Theory and Stochastic Processes,Mathematics,Rerun,2022-10-29,12,Prof. S Dhramaraja,IIT Delhi,IIT Delhi,uplc,False
+111106141,noc22-ma57,Complex Analysis,Mathematics,Rerun,2022-10-30,12,Prof. Pranav Haridas,Kerala School of Mathematics,IIT Madras,uplc,True
+111106138,noc22-ma58,Computational Commutative Algebra,Mathematics,Rerun,2022-10-30,12,Prof. Manoj Kummini,CMI,IIT Madras,uplc,True
+111106137,noc22-ma59,Algebra - I,Mathematics,Rerun,2022-10-30,12,"Prof. S. Viswanath, Prof. Amritanshu Prasad",IMSc,IIT Madras,uplc,True
+111102143,noc22-ma60,Non-parametric Statistical Inference,Mathematics,Rerun,2022-09-25,4,Prof. Niladri Chatterjee,IIT Delhi,IIT Delhi,upsc,True
+111101160,noc22-ma61,An introduction to Point-Set-Topology Part-II,Mathematics,New,2022-10-30,12,Prof. Anant R Shastri,IIT Bombay,IIT Bombay,uplc,True
+111106139,noc22-ma62,Laplace Transform,Mathematics,Rerun,2022-09-25,4,Prof. Indrava Roy,IMSC,IIT Madras,upsc,True
+111106160,noc22-ma63,Operator Theory,Mathematics,New,2022-10-30,12,Prof. G. Ramesh,IIT Hyderabad,IIT Madras,uplc,True
+111106161,noc22-ma64,Measure and Integration,Mathematics,New,2022-10-30,12,Prof S. Kesavan,IMSC,IIT Madras,uplc,True
+111106152,noc22-ma65,Mathematical Methods in Physics 2,Mathematics,Rerun,2022-09-25,8,Prof. Auditya Sharma,IISER Bhopal,IIT Madras,uptc,False
+111106154,noc22-ma66,Sobolev Spaces and Partial Differential Equations,Mathematics,Rerun,2022-10-29,12,Prof. Kesavan,IMSc,IIT Madras,uplc,True
+111106155,noc22-ma67,Combinatorics,Mathematics,Rerun,2022-10-30,12,Prof. Narayanan N,IIT Madras,IIT Madras,uplc,True
+111106156,noc22-ma68,Geometry of Vision,Mathematics,Rerun,2022-10-29,4,Prof. Vijay Ravikumar,CMI,IIT Madras,upsc,True
+111104160,noc22-ma69,Foundations of R Software,Mathematics,New,2022-10-30,12,Prof. Shalabh,IIT Kanpur,IIT Kanpur,uplc,True
+111104161,noc22-ma70,Foundations of R Software (In Hindi Language),Mathematics,New,2022-10-30,12,Prof. Shalabh,IIT Kanpur,IIT Kanpur,uplc,True
+111106162,noc22-ma71,Approximate Reasoning using Fuzzy Set Theory,Mathematics,New,2022-10-30,12,Prof. Balasubramaniam Jayaram,IIT Hyderabad,IIT Madras,uplc,True
+111106100,noc22-ma72,Differential equations for engineers,Mathematics,Rerun,2022-10-29,12,Prof. Srinivasa Manam,IIT Madras,IIT Madras,uplc,False
+111101153,noc22-ma73,Partial Differential Equations,Mathematics,Rerun,2022-10-29,12,Prof. Sivaji Ganesh,IIT Bombay,IIT Bombay,uplc,True
+111108152,noc22-ma74,First Course on Partial Differential Equations - II,Mathematics,Rerun,2022-09-25,8,"Prof. A. K. Nandakumaran
+Prof. P.S. Datti",IISc Bangalore,IISc Bangalore,uptc,True
+111105160,noc22-ma75,Advanced Calculus For Engineers,Mathematics,New,2022-10-30,12,"Prof. Jitendra Kumar
+Prof. Somesh Kumar",IIT Kharagpur,IIT Kharagpur,uplc,False
+111105161,noc22-ma76,Rings and Modules,Mathematics,New,2022-10-30,12,"Prof. Mousumi Mandal 
+Prof. Ramakrishna Nanduri",IIT Kharagpur,IIT Kharagpur,uplc,True
+111105121,noc22-ma77,Engineering Mathematics - I,Mathematics,Rerun,2022-10-29,12,Prof. Jitendra Kumar,IIT Kharagpur,IIT Kharagpur,uplc,False
+111105112,noc22-ma78,Introduction to Abstract and Linear Algebra,Mathematics,Rerun,2022-09-25,8,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,uptc,True
+111105098,noc22-ma79,Introductory Course in Real Analysis,Mathematics,Rerun,2022-10-29,12,Prof. P D Srivastava,IIT Kharagpur,IIT Kharagpur,uplc,False
+111105132,noc22-ma80,Mathematical Methods for Boundary Value Problems,Mathematics,Rerun,2022-09-25,4,Prof. Somnath Bhattacharyya,IIT Kharagpur,IIT Kharagpur,upsc,False
+111102160,noc22-ma81,Introduction to Probability Theory and Statistics,Mathematics,New,2022-10-30,12,Prof. S Dharmaraja,IIT Delhi,IIT Delhi,uplc,True
+111102152,noc22-ma82,Matrix Computation and its applications,Mathematics,Rerun,2022-10-29,12,Prof. Vivek K. Aggarwal,IIT Delhi,IIT Delhi,uplc,True
+111106163,noc22-ma83,Probability â€“Ii with Examples Using R,Mathematics,New,2022-10-29,12,Prof Siva Athreya,ISI bangalore,IIT Madras,uplc,False
+112107290,noc22-me01,Acoustic Materials and Metamaterials,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Sneha Singh,IIT Roorkee,IIT Roorkee,oc,True
+112103289,noc22-me02,Computational Fluid Dynamics for Incompressible Flows,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Amaresh Dalal,IIT Guwahati,IIT Guwahati,oc,True
+112107248,noc22-me03,"Fundamentals of Surface Engineering: Mechanisms, Processes and Characterizations",Mechanical Engineering,Rerun,2022-04-24,12,Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,oc,True
+112107292,noc22-me04,Principles of Industrial Engineering,Mechanical Engineering,Rerun,2022-04-24,12,Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,oc,False
+112107289,noc22-me05,Robotics and Control : Theory and Practice,Mechanical Engineering,Rerun,2022-03-27,8,"Prof. N. Sukavanam
+Prof. M.Felix Orlando",IIT Roorkee,IIT Roorkee,oc,True
+112107216,noc22-me07,Steam and Gas Power Systems,Mechanical Engineering,Rerun,2022-04-24,8,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,oc,True
+112107242,noc22-me08,Mechanical Measurement Systems,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,oc,True
+112104272,noc22-me09,Turbulent Combustion: Theory And Modelling,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Ashoke De,IIT Kanpur,IIT Kanpur,oc,True
+112104289,noc22-me10,Computer Integrated Manufacturing,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. J. Ramkumar
+Prof. Amandeep Singh",IIT Kanpur,IIT Kanpur,oc,True
+112104301,noc22-me100,Manufacturing Processes - Casting and Joining,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,upsc,False
+112104302,noc22-me101,Computational Fluid Dynamics and Heat Transfer,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Gautam Biswas,IIT Kanpur,IIT Kanpur,uplc,True
+112105218,noc22-me102,Advanced Fluid Mechanics,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Suman Chakraborty,IIT Kharagpur,IIT Kharagpur,uplc,True
+112105266,noc22-me103,Concepts of Thermodynamics,Mechanical Engineering,Rerun,2022-10-30,12,"Prof. Suman Chakraborty, Prof. Aditya Bandopadhyay",IIT Kharagpur,IIT Kharagpur,uplc,False
+112105221,noc22-me104,Energy conservation and waste heat recovery,Mechanical Engineering,Rerun,2022-10-29,12,"Prof. P. K. Das, Prof. A Bhattacharya",IIT Kharagpur,IIT Kharagpur,uplc,True
+112105294,noc22-me105,Engineering Drawing and Computer Graphics,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Rajaram Lakkaraju,IIT Kharagpur,IIT Kharagpur,uplc,False
+112105248,noc22-me106,Heat Exchangers: Fundamentals and Design Analysis,Mechanical Engineering,Rerun,2022-10-29,12,"Prof. Prasanta Kumar Das, Prof. Indranil Ghosh",IIT Kharagpur,IIT Kharagpur,uplc,True
+112105220,noc22-me107,Laws of thermodynamics,Mechanical Engineering,Rerun,2022-09-25,4,"Prof. S.K Som
+Prof. Suman Chakraborty",IIT Kharagpur,IIT Kharagpur,upsc,False
+112105236,noc22-me108,Mechanism and Robot Kinematics,Mechanical Engineering,Rerun,2022-10-30,8,Prof. Anirvan Dasgupta,IIT Kharagpur,IIT Kharagpur,uptc,True
+112105249,noc22-me109,Robotics,Mechanical Engineering,Rerun,2022-09-25,8,Prof. D. K. Pratihar,IIT Kharagpur,IIT Kharagpur,uptc,True
+112104230,noc22-me11,Product Design and Manufacturing,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. J.Ramkumar
+Prof. Amandeep Singh",IIT Kanpur,IIT Kanpur,oc,True
+112103297,noc22-me110,Fundamentals of Convective Heat Transfer,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Amaresh Dalal,IIT Guwahati,IIT Guwahati,uplc,True
+112103276,noc22-me111,Fundamentals of Conduction and Radiation,Mechanical Engineering,Rerun,2022-10-29,12,"Prof. Amaresh Dalal, Prof. Dipankar N. Basu",IIT Guwahati,IIT Guwahati,uplc,False
+112103295,noc22-me112,Finite Element Method: Variational Methods to Computer Programming,Mechanical Engineering,Rerun,2022-10-29,12,"Prof. Atanu Banerjee, Prof. Arup Nandy",IIT Guwahati,IIT Guwahati,uplc,True
+112103275,noc22-me113,Applied Thermodynamics for Engineers,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Dipankar N. Basu,IIT Guwahati,IIT Guwahati,uplc,False
+112103249,noc22-me114,Principle of Hydraulic Machines and System Design,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Pranab K. Mondal,IIT Guwahati,IIT Guwahati,uplc,True
+112103278,noc22-me115,Dynamic Behaviour Of Materials,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Prasenjit Khanikar,IIT Guwahati,IIT Guwahati,uplc,True
+112103296,noc22-me116,Computational Continuum Mechanics,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Sachin Singh Gautam,IIT Guwahati,IIT Guwahati,uplc,True
+112103273,noc22-me117,Mathematical Modeling Of Manufacturing Processes,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,uplc,True
+112103277,noc22-me118,Steam Power Engineering,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Vinayak N. Kulkarni,IIT Guwahati,IIT Guwahati,uptc,False
+112103202,noc22-me119,Advanced Machining Processes,Mechanical Engineering,Rerun,2022-10-29,8,Prof. Manas Das,IIT Guwahati,IIT Guwahati,uptc,True
+112107240,noc22-me12,Automatic Control,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Anil Kumar,IIT Roorkee,IIT Roorkee,oc,True
+112103307,noc22-me120,Applied Thermodynamics,Mechanical Engineering,Rerun,2022-10-30,12,"Prof. Niranjan Sahoo
+Prof. Pranab K. Mondal",IIT Guwahati,IIT Guwahati,uplc,False
+112103305,noc22-me121,Welding Application Technology,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Pankaj Biswas,IIT Guwahati,IIT Guwahati,uptc,True
+112103306,noc22-me122,Fundamentals of Additive Manufacturing Technologies,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Sajan Kapil,IIT Guwahati,IIT Guwahati,uplc,True
+112103293,noc22-me123,Automation in Manufacturing,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Shrikrishna N. Joshi,IIT Guwahati,IIT Guwahati,uplc,True
+112103244,noc22-me124,Advances in welding and joining technologies,Mechanical Engineering,Rerun,2022-10-29,8,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,uptc,True
+112103281,noc22-me125,Aircraft Propulsion,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Vinayak N. Kulkarni,IIT Guwahati,IIT Guwahati,uplc,True
+112105305,noc22-me126,Biomechanics of Joints and Orthopaedic Implants,Mechanical Engineering,Rerun,2022-10-30,8,Prof. Sanjay Gupta,IIT Kharagpur,IIT Kharagpur,uptc,True
+112106312,noc22-me127,Interfacial Fluid Mechanics,Mechanical Engineering,New,2022-10-30,12,Prof. Harsh Dixit,IIT Hyderabad,IIT Madras,uplc,True
+112101304,noc22-me128,Design of Mechatronic Systems,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Prasanna Gandhi,IIT Bombay,IIT Bombay,uplc,True
+112101312,noc22-me129,Nonlinear Adaptive Control,Mechanical Engineering,New,2022-10-30,12,Prof. Srikant Sukumar,IIT Bombay,IIT Bombay,uplc,True
+112103248,noc22-me13,Mechanics of Machining,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Uday S. Dixit,IIT Guwahati,IIT Guwahati,oc,True
+112104312,noc22-me130,Metal Additive Manufacturing,Mechanical Engineering,New,2022-10-30,12,"Prof. Janakranjan Ramkumar
+Prof. Amandeep Singh Oberoi",IIT Kanpur,IIT Kanpur,uplc,True
+112107283,noc22-me131,Selection Of Nanomaterials For Energy Harvesting And Storage Application,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,upsc,True
+113107081,noc22-me132,Structural Analysis of Nanomaterials,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,upsc,True
+112107249,noc22-me133,Work System Design,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,uplc,True
+112107217,noc22-me134,Product Design and Development,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,upsc,True
+112107208,noc22-me135,Refrigeration and air-conditioning,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,uptc,False
+112107250,noc22-me136,Principles of Metal Forming Technology,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Pradeep Kumar Jha,IIT Roorkee,IIT Roorkee,uptc,True
+112107239,noc22-me137,Theory of Production Processes,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Pradeep Kumar Jha,IIT Roorkee,IIT Roorkee,uplc,False
+112102304,noc22-me138,Engineering Graphics and Design,Mechanical Engineering,Rerun,2022-10-30,12,"Prof. Naresh Varma Datla
+Prof. S.R Kale",IIT Delhi,IIT Delhi,uplc,False
+112104313,noc22-me139,Conduction and Convection: Fundamentals and Applications,Mechanical Engineering,New,2022-10-29,12,Prof. Gautam Biswas / Prof. Sameer Khandekar,IIT Kanpur,IIT Kanpur,uplc,True
+112105231,noc22-me14,Introduction To Mechanical Micro Machining,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Ajay M Sidpara,IIT Kharagpur,IIT Kharagpur,oc,True
+112103243,noc22-me15,Fundamentals of Nuclear Power Generation,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Dipankar N.Basu,IIT Guwahati,IIT Guwahati,oc,True
+112104203,noc22-me16,Nature and Properties of Materials,Mechanical Engineering,Rerun,2022-04-24,8,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,oc,True
+112104251,noc22-me17,Smart Materials and Intelligent System Design,Mechanical Engineering,Rerun,2022-04-24,4,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,oc,True
+112107214,noc22-me18,Modelling and Simulation of Dynamic Systems,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Pushparaj Mani Pathak,IIT Roorkee,IIT Roorkee,oc,True
+112103263,noc22-me19,Fundamental of Welding Science and Technology,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Pankaj Biswas,IIT Guwahati,IIT Guwahati,oc,True
+112103250,noc22-me20,Introduction to Abrasive Machining and Finishing Processes,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Mamilla Ravi Sankar,IIT Tirupati,IIT Madras,oc,True
+112103245,noc22-me21,Introduction to Machining and Machining Fluids,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Mamilla Ravi Sankar,IIT Tirupati,IIT Madras,oc,True
+112105235,noc22-me22,Traditional And Non-Traditional Optimization Tools,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Dilip Kumar Pratihar,IIT Kharagpur,IIT Kharagpur,oc,True
+112107211,noc22-me23,Convective Heat Transfer,Mechanical Engineering,Rerun,2022-04-24,4,Prof. Arup Kumar Das,IIT Roorkee,IIT Roorkee,oc,True
+112107207,noc22-me24,Two phase flow and heat transfer,Mechanical Engineering,Rerun,2022-03-27,4,Prof. Arup Kumar Das,IIT Roorkee,IIT Roorkee,oc,True
+112105268,noc22-me25,Kinematics of Mechanisms and Machines,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Anirvan Dasgupta,IIT Kharagpur,IIT Kharagpur,oc,True
+112105197,noc22-me26,Vibrations Of Structures,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Anirvan Dasgupta,IIT Kharagpur,IIT Kharagpur,oc,True
+112108289,noc22-me27,Introduction to Soft Matter,Mechanical Engineering,Rerun,2022-04-23,8,Prof. Aloke Kumar,IISc Bangalore,IISc Bangalore,oc,True
+-2147483648,noc22-me28,Manufacturing Process Technology I & II,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,oc,True
+112104228,noc22-me29,Design Practice,Mechanical Engineering,Rerun,2022-04-24,8,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,oc,True
+112103290,noc22-me30,Experimental Methods in Fluid Mechanics,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Pranab K. Mondal,IIT Guwahati,IIT Guwahati,oc,True
+112105269,noc22-me31,Introduction To Fluid Mechanics,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Suman Chakraborty,IIT Kharagpur,IIT Kharagpur,oc,False
+112104222,noc22-me32,Applied Ergonomics,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. Shantanu Bhattacharya 
+Prof. Ankur Gupta",IIT Kanpur and IIT Jodhpur,IIT Kanpur,oc,True
+112106290,noc22-me33,Fundamentals of combustion for propulsion,Mechanical Engineering,Rerun,2022-03-27,8,"Prof. S.Varunkumar
+Prof. H.S.Mukunda","IITM
+IISc Bangalore",IIT Madras,oc,True
+112108308,noc22-me34,Sound and Structural Vibration,Mechanical Engineering,New,2022-04-24,12,Prof. Venkata R. Sonti,IISc Bangalore,IISc Bangalore,oc,True
+112106299,noc22-me35,Fundamentals of Combustion,Mechanical Engineering,Rerun,2022-04-23,12,Prof. V. Raghavan,IIT Madras,IIT Madras,oc,True
+112106300,noc22-me36,Oil Hydraulics and Pneumatics,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Somashekhar S,IIT Madras,IIT Madras,oc,True
+112106177,noc22-me37,Explosions and Safety,Mechanical Engineering,Rerun,2022-04-24,12,"Prof. K. Ramamurthi
+Prof. Prasad Patnaik BSV",IIT Madras,IIT Madras,oc,True
+112106298,noc22-me38,Wheeled Mobile Robots,Mechanical Engineering,Rerun,2022-03-27,8,"Prof. Asokan Thondiyath
+Prof. Santhakumar Mohan","IITM
+IIT Palakkad",IIT Madras,oc,True
+112108298,noc22-me39,Robotics: Basics and Selected Advanced Concepts,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Ashitava Ghosal,IISc Bangalore,IISc Bangalore,oc,True
+112103308,noc22-me40,Mechanics of Fiber Reinforced Polymer Composite Structures,Mechanical Engineering,New,2022-04-24,12,Prof. Debabrata Chakraborty,IIT Guwahati,IIT Guwahati,oc,True
+112104308,noc22-me41,Robot Motion Planning,Mechanical Engineering,New,2022-04-24,8,Prof. Ashish Dutta,IIT Kanpur,IIT Kanpur,oc,True
+112108212,noc22-me42,Heat Transfer and Combustion in Multiphase Systems,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Saptarshi Basu,IISc Bangalore,IISc Bangalore,oc,True
+112105308,noc22-me43,Finite Element Method,Mechanical Engineering,New,2022-04-24,12,"Prof. Biswanath Banerjee
+Prof. Amit Shaw",IIT Kharagpur,IIT Kharagpur,oc,True
+112101298,noc22-me44,Optimization from fundamentals,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Ankur A. Kulkarni,IIT Bombay,IIT Bombay,oc,True
+112103298,noc22-me45,Theory of Composite Shells,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Poonam Kumari,IIT Guwahati,IIT Guwahati,oc,True
+112103299,noc22-me46,Finite element modeling of welding processes,Mechanical Engineering,Rerun,2022-04-23,12,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,oc,True
+112103301,noc22-me47,Evolutionary Computation for Single and Multi-Objective Optimization,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Deepak Sharma,IIT Guwahati,IIT Guwahati,oc,True
+112103300,noc22-me48,Nonlinear Vibration,Mechanical Engineering,Rerun,2022-04-23,12,Prof. S. K. Dwivedy,IIT Guwahati,IIT Guwahati,oc,True
+112103302,noc22-me49,Viscous Fluid Flow,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Amaresh Dalal,IIT Guwahati,IIT Guwahati,oc,True
+112104288,noc22-me50,Manufacturing Automation,Mechanical Engineering,Rerun,2022-03-27,4,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,oc,True
+112104249,noc22-me51,Advanced Composites,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Nachiketa Tiwari ,IIT Kanpur,IIT Kanpur,oc,True
+112104227,noc22-me52,Noise Management & Control,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Nachiketa Tiwari ,IIT Kanpur,IIT Kanpur,oc,True
+112107259,noc22-me53,Inspection and Quality Control in Manufacturing,Mechanical Engineering,Rerun,2022-04-23,4,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,oc,True
+112107298,noc22-me54,Mechatronics,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Pushparaj Mani Pathak,IIT Roorkee,IIT Roorkee,oc,True
+112107238,noc22-me55,Operations Management,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,oc,True
+112107258,noc22-me56,Manufacturing Guidelines for Product Design,Mechanical Engineering,Rerun,2022-04-24,8,Prof. Inderdeep Singh,IIT Roorkee,IIT Roorkee,oc,True
+112107215,noc22-me57,Principles of Casting Technology,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Pradeep Kumar Jha ,IIT Roorkee,IIT Roorkee,oc,True
+112105299,noc22-me58,Tools in Scientific Computing,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Aditya Bandopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+108105088,noc22-me59,Industrial Automation and Control,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. Alokkanti Deb 
+Prof. Siddhartha Mukhopadhyay",IIT Kharagpur,IIT Kharagpur,oc,True
+112105232,noc22-me60,Machinery Fault Diagnosis and Signal Processing,Mechanical Engineering,Rerun,2022-04-24,12,Prof. Amiya Ranjan Mohanty,IIT Kharagpur,IIT Kharagpur,oc,True
+112105267,noc22-me61,Electronic Packaging and Manufacturing,Mechanical Engineering,Rerun,2022-03-27,8,"Prof. Anandaroop Bhattacharya
+Prof. Goutam Chakraborty",IIT Kharagpur,IIT Kharagpur,oc,True
+112105234,noc22-me62,Gear And Gear Unit Design: Theory and Practice,Mechanical Engineering,Rerun,2022-04-23,8,Prof. Rathindra Nath Maiti,IIT Kharagpur,IIT Kharagpur,oc,True
+112105271,noc22-me63,Conduction And Convection Heat Transfer,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. Suman Chakraborty 
+Prof. Sankar Kumar Som",IIT Kharagpur,IIT Kharagpur,oc,False
+112104290,noc22-me64,Machining Science,Mechanical Engineering,Rerun,2022-03-27,4,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,oc,True
+112103262,noc22-me65,IC Engines and Gas Turbines,Mechanical Engineering,Rerun,2022-04-24,12,"Prof. Pranab K. Mondal 
+Prof. Vinayak N. Kulkarni",IIT Guwahati,IIT Guwahati,oc,True
+112106180,noc22-me66,Engineering Mechanics - Statics and Dynamics,Mechanical Engineering,Rerun,2022-03-27,8,Prof. Anubhab Roy,IIT Madras,IIT Madras,oc,False
+112106247,noc22-me67,Experimental Stress Analysis,Mechanical Engineering,Rerun,2022-04-24,12,Prof. K. Ramesh,IIT Madras,IIT Madras,oc,True
+112102304,noc22-me68,Engineering Graphics and Design,Mechanical Engineering,Rerun,2022-04-23,12,"Prof. Naresh Varma Datla
+Prof. S.R Kale",IIT Delhi,IIT Delhi,oc,False
+112102298,noc22-me69,Introduction To Uncertainty Analysis And Experimentation,Mechanical Engineering,Rerun,2022-03-27,8,Prof. S.R. Kale,IIT Delhi,IIT Delhi,oc,True
+112102284,noc22-me70,Solid Mechanics,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Ajeet Kumar,IIT Delhi,IIT Delhi,uplc,False
+112107219,noc22-me71,Fundamentals of manufacturing processes,Mechanical Engineering,Rerun,2022-10-30,12,Prof. D. K. Dwivedi,IIT Roorkee,IIT Roorkee,uplc,True
+112107213,noc22-me72,Joining Technologies for metals,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Dheerendra Kumar Dwivedi,IIT Roorkee,IIT Roorkee,uptc,True
+112107291,noc22-me73,Power Plant Engineering,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Ravi Kumar,IIT Roorkee,IIT Roorkee,uptc,False
+112104265,noc22-me74,Rapid Manufacturing,Mechanical Engineering,Rerun,2022-10-29,12,"Prof. J. Ramkumar, Prof. Amandeep Singh",IIT Kanpur,IIT Kanpur,uplc,True
+112104250,noc22-me75,Engineering Metrology,Mechanical Engineering,Rerun,2022-10-30,12,Prof. J. Ramkumar,IIT Kanpur,IIT Kanpur,uplc,True
+112107212,noc22-me76,Introduction to Mechanical Vibration,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Anil Kumar,IIT Roorkee,IIT Roorkee,uptc,True
+112104293,noc22-me77,Foundations of Cognitive Robotics,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,upsc,True
+112104211,noc22-me78,Principles of Vibration Control,Mechanical Engineering,Rerun,2022-09-25,4,Prof. Bishakh Bhattacharya,IIT Kanpur,IIT Kanpur,upsc,True
+112103264,noc22-me79,Polymer Assisted Abrasive Finishing Processes,Mechanical Engineering,Rerun,2022-09-25,4,Prof. M. Ravi Sankar,IIT Guwahati,IIT Guwahati,upsc,True
+-2147483648,noc22-me80,Manufacturing Systems Technology I & II,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,uplc,False
+112104181,noc22-me81,BioMEMS And Microfluidics,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Shantanu Bhattacharya,IIT Kanpur,IIT Kanpur,uptc,True
+112106065,noc22-me83,Engineering Fracture Mechanics,Mechanical Engineering,Rerun,2022-10-29,12,Prof. K. Ramesh,IIT Madras,IIT Madras,uplc,True
+112106286,noc22-me84,Engineering Mechanics,Mechanical Engineering,Rerun,2022-10-29,12,Prof. K. Ramesh,IIT Madras,IIT Madras,uplc,False
+112106186,noc22-me85,Foundation of Computational Fluid Dynamics,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Vengadesan,IIT Madras,IIT Madras,uptc,True
+112104193,noc22-me86,Basics Of Finite Element Analysis - I,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Nachiketa Tiwari,IIT Kanpur,IIT Kanpur,uptc,True
+112104229,noc22-me87,Introduction to Composites,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Nachiketa Tiwari,IIT Kanpur,IIT Kanpur,uplc,True
+127106135,noc22-me88,Thermodynamics,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Anand T. N. C,IIT Madras,IIT Madras,uplc,True
+112106294,noc22-me89,Computational Fluid Dynamics using Finite Volume Method,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Kameswararao Anupindi,IIT Madras,IIT Madras,uplc,True
+112106293,noc22-me90,Basics of Materials Engineering,Mechanical Engineering,Rerun,2022-10-29,12,Prof. Ratna Kumar Annabattula,IIT Madras,IIT Madras,uplc,False
+112103312,noc22-me92,Laser Based Manufacturing,Mechanical Engineering,New,2022-10-30,8,Prof. S. N. Joshi,IIT Guwahati,IIT Guwahati,uptc,True
+112106304,noc22-me93,Mechanics and Control of Robotic Manipulators,Mechanical Engineering,Rerun,2022-09-25,8,Prof. Santhakumar Mohan,IIT Palakkad,IIT Madras,uptc,True
+112108312,noc22-me95,Vibrations of Plates and Shells,Mechanical Engineering,New,2022-10-30,12,Prof. Venkata Sonti,IISc Bangalore,IISc Bangalore,uplc,True
+112108313,noc22-me96,Dynamics and Control of Mechanical Systems,Mechanical Engineering,New,2022-10-30,12,Prof.  Ashitava Ghosal,IISc Bangalore,IISc Bangalore,uplc,True
+112103313,noc22-me97,Advanced Thermodynamics and Combustion,Mechanical Engineering,New,2022-10-30,12,Prof. Niranjan Sahoo,IIT Guwahati,IIT Guwahati,uplc,True
+112104300,noc22-me98,Elements of Solar Energy Conversion,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Jishnu Bhattacharya,IIT Kanpur,IIT Kanpur,uplc,True
+112104304,noc22-me99,Production Technology: Theory and Practice,Mechanical Engineering,Rerun,2022-10-30,12,Prof. Sounak Kumar Choudhury,IIT Kanpur,IIT Kanpur,uplc,False
+110106157,noc22-mg01,Strategy and Technology: A Practical Primer,Management,New,2022-04-24,12,Prof. C Bhaktavatsala Rao,IIT Madras,IIT Madras,oc,True
+110104094,noc22-mg02,Data Analysis and Decision Making - I,Management,Rerun,2022-04-23,12,Prof. Raghu Nandan Sengupta,IIT Kanpur,IIT Kanpur,oc,True
+110104118,noc22-mg03,Data Analysis & Decision Making - II,Management,Rerun,2022-04-23,12,Prof. Raghu Nandan Sengupta,IIT Kanpur,IIT Kanpur,oc,True
+110104117,noc22-mg04,Management of Field Sales,Management,Rerun,2022-03-27,4,Prof. Jayanta Chatterjee,IIT Kanpur,IIT Kanpur,oc,True
+110104070,noc22-mg05,Marketing Management - II,Management,Rerun,2022-04-23,8,"Prof. Jayanta Chatterjee
+Prof. Shashi Shekhar Mishra",IIT Kanpur,IIT Kanpur,oc,True
+110105120,noc22-mg06,Managing change in organizations,Management,Rerun,2022-03-27,8,Prof. KBL Srivastava,IIT Kharagpur,IIT Kharagpur,oc,True
+110107073,noc22-mg07,Financial Statement Analysis and Reporting,Management,Rerun,2022-04-23,12,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,oc,True
+110107144,noc22-mg08,Financial Management For Managers,Management,Rerun,2022-04-24,12,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,oc,True
+110107092,noc22-mg09,Business analytics and data mining Modeling using R,Management,Rerun,2022-04-24,12,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,oc,True
+110107115,noc22-mg10,MCDM Techniques Using R,Management,Rerun,2022-04-23,4,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,oc,True
+110105148,noc22-mg100,Management Information System,Management,Rerun,2022-10-30,12,"Prof. Kunal Kanti Ghosh, Prof. Saini Das, Prof. Surojit Mukherjee",IIT Kharagpur,IIT Kharagpur,uplc,True
+110105140,noc22-mg101,Patent Search and Analysis,Management,Rerun,2022-10-29,8,"Prof. M. Padmavati, Prof. Shreya Matilal",IIT Kharagpur,IIT Kharagpur,uptc,True
+110105137,noc22-mg102,Performance and Reward management,Management,Rerun,2022-10-30,12,Prof. Sushmita Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,uplc,True
+110105069,noc22-mg103,Principles of Human Resource Management,Management,Rerun,2022-10-29,8,Prof. Aradhna Malik,IIT Kharagpur,IIT Kharagpur,uptc,True
+110105146,noc22-mg104,Principles of Management,Management,Rerun,2022-10-30,12,"Prof. Susmita Muhopadhyay, Prof. S. Srinivasan",IIT Kharagpur,IIT Kharagpur,uplc,True
+110105090,noc22-mg105,Soft Skills for Business Negotiations and Marketing Strategies,Management,Rerun,2022-10-30,12,Prof. Uttam Kumar Banerjee,IIT Kharagpur,IIT Kharagpur,uplc,True
+110105082,noc22-mg106,Decision modeling,Management,Rerun,2022-09-25,8,Prof. Biswajit Mahanty,IIT Kharagpur,IIT Kharagpur,uptc,True
+110107163,noc22-mg107,Strategic Sales Management,Management,New,2022-10-30,8,"Prof. Sourabh Arora
+Prof. Kalpak Kulkarni",IIT Roorkee,IIT Roorkee,uptc,True
+110105162,noc22-mg108,Human Factors Engineering,Management,New,2022-10-30,12,"Prof. Pradip Kumar Ray
+Prof. Virendra Kumar Tewari",IIT Kharagpur,IIT Kharagpur,uplc,True
+110107147,noc22-mg109,Introduction to Marketing Essentials,Management,Rerun,2022-09-25,8,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,uptc,True
+110105089,noc22-mg11,Business Analytics For Management Decision,Management,Rerun,2022-04-24,12,Prof. Rudra P Pradhan,IIT Kharagpur,IIT Kharagpur,oc,True
+121105009,noc22-mg111,Stress Management,Management,Rerun,2022-10-29,4,Prof. Rajlakshmi Guha,IIT Kharagpur,IIT Kharagpur,upsc,True
+110107153,noc22-mg112,Econometric Modelling,Management,Rerun,2022-09-25,8,Prof. Sujata Kar,IIT Roorkee,IIT Roorkee,uptc,True
+110107154,noc22-mg113,Security Analysis & Portfolio Management,Management,Rerun,2022-10-29,12,Prof. J. P. Singh,IIT Roorkee,IIT Roorkee,uplc,True
+110105093,noc22-mg12,Engineering Econometrics,Management,Rerun,2022-04-23,12,Prof. Rudra P Pradhan,IIT Kharagpur,IIT Kharagpur,oc,True
+110104093,noc22-mg13,Microeconomics: Theory & Applications,Management,Rerun,2022-04-23,12,Prof. Deep Mukherjee,IIT Kanpur,IIT Kanpur,oc,True
+110107074,noc22-mg14,Supply Chain Analytics,Management,Rerun,2022-03-27,8,Prof. Rajat Agrawal,IIT Roorkee,IIT Roorkee,oc,True
+110107141,noc22-mg15,Production and Operation Management,Management,Rerun,2022-04-23,12,Prof. Rajat Agrawal,IIT Roorkee,IIT Roorkee,oc,True
+110105088,noc22-mg16,Quality Design And Control,Management,Rerun,2022-04-24,12,Prof. Pradip Kumar Ray,IIT Kharagpur,IIT Kharagpur,oc,True
+110105095,noc22-mg17,Management of Inventory Systems,Management,Rerun,2022-04-24,12,Prof. Pradip Kumar Ray,IIT Kharagpur,IIT Kharagpur,oc,True
+110104096,noc22-mg18,Simulation of Business Systems: An Applied Approach,Management,Rerun,2022-03-27,8,Prof. Deepu Philip,IIT Kanpur,IIT Kanpur,oc,True
+110104074,noc22-mg19,Systems Engineering: Theory & Practice,Management,Rerun,2022-03-27,8,Prof. Deepu Philip,IIT Kanpur,IIT Kanpur,oc,True
+110105144,noc22-mg20,Behavioral and Personal Finance,Management,Rerun,2022-03-27,8,Prof. Abhijeet Chandra,IIT Kharagpur,IIT Kharagpur,oc,True
+110101141,noc22-mg21,Introduction to Stochastic Processes,Management,Rerun,2022-04-23,12,Prof. Manjesh hanawal,IIT Bombay,IIT Bombay,oc,True
+110107113,noc22-mg22,Marketing Research and Analysis-II,Management,Rerun,2022-04-24,12,Prof. J. K. Nayak,IIT Roorkee,IIT Roorkee,oc,True
+110105121,noc22-mg23,Financial Institutions and Markets,Management,Rerun,2022-04-24,12,Prof. Jitendra Mahakud,IIT Kharagpur,IIT Kharagpur,oc,True
+110105143,noc22-mg24,Management of Commercial Banking,Management,Rerun,2022-04-24,12,Prof. Jitendra Mahakud,IIT Kharagpur,IIT Kharagpur,oc,True
+110107114,noc22-mg25,Business Statistics,Management,Rerun,2022-04-23,12,Prof. Mukesh Kumar Barua,IIT Roorkee,IIT Roorkee,oc,True
+110105142,noc22-mg26,Marketing Analytics,Management,Rerun,2022-04-24,12,Prof. Swagato Chatterjee,IIT Kharagpur,IIT Kharagpur,oc,True
+110105141,noc22-mg27,Modelling and Analytics for Supply Chain Management,Management,Rerun,2022-04-24,12,"Prof. Kunal Kanti Ghosh
+Prof. Anupam Ghosh",IIT Kharagpur,IIT Kharagpur,oc,True
+110107112,noc22-mg28,Global Marketing Management,Management,Rerun,2022-04-24,8,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,oc,True
+110108141,noc22-mg29,Integrated Marketing Management,Management,Rerun,2022-03-27,8,Prof. R. Srinivasan,IISc Bangalore,IISc Bangalore,oc,True
+110106062,noc22-mg30,Introduction to Operations Research,Management,Rerun,2022-04-24,8,Prof. G. Srinivasan,IIT Madras,IIT Madras,oc,True
+111106112,noc22-mg31,Introduction to probability and Statistics,Management,Rerun,2022-03-27,4,Prof. G. Srinivasan,IIT Madras,IIT Madras,oc,True
+110106124,noc22-mg32,Design Thinking - A Primer,Management,Rerun,2022-04-23,4,"Prof. Ashwin Mahalingam
+Prof. Bala Ramadurai",IIT Madras,IIT Madras,oc,True
+110106147,noc22-mg34,Financial accounting - IITMandi,Management,Rerun,2022-04-24,12,Prof. Puran Singh,IIT Mandi,IIT Madras,oc,True
+110107157,noc22-mg35,Decision making with spreadsheet,Management,New,2022-04-24,12,Prof. Ramesh Anbanandam,IIT Roorkee,IIT Roorkee,oc,True
+110106150,noc22-mg36,Technology Forecasting for strategic decision making - An Introduction,Management,Rerun,2022-03-27,4,"Prof. Dmitry Kucharavy
+Prof. Bala Ramadurai","EM Strasbourg Business School (University of Strasbourg)
+and IITM",IIT Madras,oc,True
+110106151,noc22-mg37,Leadership for India Inc: Practical Concepts and Constructs,Management,Rerun,2022-04-23,12,Prof. C Bhaktavatsala Rao,IIT Madras,IIT Madras,oc,True
+110107158,noc22-mg38,Integrated Marketing Communication,Management,New,2022-04-24,12,Prof. Vinay Sharma,IIT Roorkee,IIT Roorkee,oc,True
+110107159,noc22-mg39,Leadership and Team Effectiveness,Management,New,2022-04-24,12,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,oc,True
+110101150,noc22-mg40,Quality Control and Improvement with MINITAB,Management,Rerun,2022-04-24,8,Prof. Indrajit Mukherjee,IIT Bombay,IIT Bombay,oc,True
+110107151,noc22-mg41,Organization Theory/Structure and Design,Management,Rerun,2022-03-27,8,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,oc,True
+110107150,noc22-mg42,Principles of Management,Management,Rerun,2022-04-23,12,Prof. Usha Lenka,IIT Roorkee,IIT Roorkee,oc,True
+110105075,noc22-mg43,Foundation Course in Managerial Economics,Management,Rerun,2022-03-27,8,Prof. Barnali Nag,IIT Kharagpur,IIT Kharagpur,oc,True
+110105078,noc22-mg44,Services Marketing: A Practical Approach,Management,Rerun,2022-03-27,4,Prof. Biplab Datta,IIT Kharagpur,IIT Kharagpur,oc,True
+110105083,noc22-mg45,E-Business,Management,Rerun,2022-04-23,12,Prof. Mamata Jenamani,IIT Kharagpur,IIT Kharagpur,oc,True
+110105122,noc22-mg46,Sales And Distribution Management,Management,Rerun,2022-04-23,8,Prof. Sangeeta Sahney,IIT Kharagpur,IIT Kharagpur,oc,True
+110105074,noc22-mg47,Consumer Behaviour,Management,Rerun,2022-03-27,8,Prof. Srabanti Mukherjee,IIT Kharagpur,IIT Kharagpur,oc,True
+110105123,noc22-mg48,Six Sigma,Management,Rerun,2022-04-24,12,Prof. Jitesh J Thakkar,IIT Kharagpur,IIT Kharagpur,oc,True
+110107152,noc22-mg49,Talent Acquisition and Management,Management,Rerun,2022-04-23,12,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,oc,True
+110105157,noc22-mg50,International Marketing,Management,New,2022-04-24,8,Prof. Biswarup Ghosh,IIT Kharagpur,IIT Kharagpur,oc,True
+110105158,noc22-mg51,Retail Management,Management,New,2022-03-27,8,Prof. Swagato Chatterjee,IIT Kharagpur,IIT Kharagpur,oc,True
+110105159,noc22-mg52,Business Law for Managers,Management,New,2022-03-27,8,"Prof. S. Srinivasan 
+Prof. Kaushik Mukherjee",IIT Kharagpur,IIT Kharagpur,oc,True
+109105127,noc22-mg53,Strategic Performance Management,Management,Rerun,2022-04-23,8,Prof. Kbl Srivastava,IIT Kharagpur,IIT Kharagpur,oc,True
+110105097,noc22-mg54,Ethics In Engineering Practice,Management,Rerun,2022-04-23,8,Prof. Susmita Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,oc,True
+110105160,noc22-mg55,Safety and Risk Analytics,Management,New,2022-04-24,12,Prof. Jhareswar Maiti,IIT Kharagpur,IIT Kharagpur,oc,True
+122105021,noc22-mg56,Leadership,Management,Rerun,2022-03-27,4,"Prof. Tuheena Mukherjee
+Prof. Kalyan Chakravarti",IIT Kharagpur,IIT Kharagpur,oc,True
+110104068,noc22-mg57,Marketing Management - I,Management,Rerun,2022-10-29,8,"Prof. Jayanta Chatterjee, Prof. Shashi Shekhar Mishra",IIT Kanpur,IIT Kanpur,uptc,True
+110104065,noc22-mg58,Managing Services,Management,Rerun,2022-09-25,8,Prof. Jayanta Chatterjee,IIT Kanpur,IIT Kanpur,uptc,True
+110104125,noc22-mg59,Data Analysis & Decision Making - III,Management,Rerun,2022-10-30,12,Prof. Raghunandan Sengupta,IIT Kanpur,IIT Kanpur,uplc,True
+110104073,noc22-mg60,Project Management,Management,Rerun,2022-09-25,8,Prof. Raghunandan Sengupta,IIT Kanpur,IIT Kanpur,uptc,True
+110107126,noc22-mg61,Training of Trainers,Management,Rerun,2022-10-29,12,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,uplc,True
+110106134,noc22-mg62,Decision-Making Under Uncertainty,Management,Rerun,2022-10-30,4,Prof. N. Gautam,Texas A&M Univ.,IIT Madras,upsc,True
+110101131,noc22-mg63,Financial Accounting,Management,Rerun,2022-09-25,8,Prof. Varadraj Bapat,IIT Bombay,IIT Bombay,uptc,True
+110101132,noc22-mg64,Cost Accounting,Management,Rerun,2022-09-25,4,Prof. Varadraj Bapat,IIT Bombay,IIT Bombay,upsc,True
+110107127,noc22-mg65,Management Accounting,Management,Rerun,2022-10-29,12,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,uplc,True
+110107093,noc22-mg66,Working Capital Management,Management,Rerun,2022-10-30,12,Prof. Anil K. Sharma,IIT Roorkee,IIT Roorkee,uplc,True
+110107095,noc22-mg67,Business Analytics & Data Mining Modeling Using R Part II,Management,Rerun,2022-09-25,4,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,upsc,True
+110107129,noc22-mg68,Business Analytics & Text Mining Modeling Using Python,Management,Rerun,2022-09-25,8,Prof. Gaurav Dixit,IIT Roorkee,IIT Roorkee,uptc,True
+110107130,noc22-mg69,Toyota Production System,Management,Rerun,2022-10-29,8,Prof. Rajat Agrawal,IIT Roorkee,IIT Roorkee,uptc,True
+110107080,noc22-mg70,Marketing research and analysis,Management,Rerun,2022-10-30,8,Prof. J. K. Nayak,IIT Roorkee,IIT Roorkee,uptc,True
+110107081,noc22-mg71,Project management for managers,Management,Rerun,2022-10-30,12,Prof. Mukesh Kumar Barua,IIT Roorkee,IIT Roorkee,uplc,True
+110107142,noc22-mg72,"Services Marketing : Integrating People, Technology, Strategy",Management,Rerun,2022-10-29,8,Prof. Zillur Rahman,IIT Roorkee,IIT Roorkee,uptc,True
+110107094,noc22-mg73,"Innovation, Business Models and Entrepreneurship",Management,Rerun,2022-10-30,8,"Prof. Rajat Agarwal, Prof. Vinay Sharma",IIT Roorkee,IIT Roorkee,uptc,True
+110106045,noc22-mg74,Operations and supply chain management,Management,Rerun,2022-10-29,12,Prof. G. srinivasan,IIT Madras,IIT Madras,uplc,True
+110106124,noc22-mg75,Design Thinking - A Primer,Management,Rerun,2022-10-29,4,"Prof. Ashwin Mahalingam
+Prof. Bala Ramadurai",IIT Madras,IIT Madras,upsc,True
+110101133,noc22-mg76,Game theory,Management,Rerun,2022-09-25,8,Prof. K. S. Mallikarjuna Rao,IIT Bombay,IIT Bombay,uptc,True
+110104063,noc22-mg77,Strategy: An Introduction to Game Theory,Management,Rerun,2022-09-25,8,Prof. Aditya K. Jagannatham & Prof. Vimal Kumar,IIT Kanpur,IIT Kanpur,uptc,True
+110106145,noc22-mg78,Organizational Behaviour,Management,Rerun,2022-10-29,12,Prof. M. P. Ganesh,IIT Hyderabad,IIT Madras,uplc,True
+110106146,noc22-mg79,The Future of Manufacturing Business: Role of Digital Technologies,Management,Rerun,2022-09-25,8,"Prof. R. K. Amit, Prof. U. Chandrasekhar",IITM & Wipro 3D,IIT Madras,uptc,True
+110107143,noc22-mg80,Managerial Skills for Interpersonal Dynamics,Management,Rerun,2022-10-29,12,Prof. Santosh Rangnekar,IIT Roorkee,IIT Roorkee,uplc,True
+110106141,noc22-mg81,Entrepreneurship,Management,Rerun,2022-10-30,12,Prof. C Bhaktavatsala Rao,IIT Madras,IIT Madras,uplc,True
+110107161,noc22-mg82,Product and Brand Management,Management,New,2022-10-30,12,Prof. Vinay Sharma,IIT Roorkee,IIT Roorkee,uplc,True
+110107162,noc22-mg83,Quantitative Investment Management,Management,New,2022-10-30,12,Prof. J P Singh,IIT Roorkee,IIT Roorkee,uplc,True
+110101146,noc22-mg84,Organization Development and Change in 21st Century,Management,Rerun,2022-09-25,8,Prof. Ashish Pandey,IIT Bombay,IIT Bombay,uptc,True
+110101153,noc22-mg85,Business and Sustainable Development,Management,Rerun,2022-10-29,4,Prof. Trupti Mishra,IIT Bombay,IIT Bombay,upsc,True
+110104095,noc22-mg86,Economics of Health and Health Care,Management,Rerun,2022-10-30,8,Prof. Angan Sengupta,IIT Kanpur,IIT Kanpur,uptc,True
+111104120,noc22-mg87,Descriptive Statistics with R Software,Management,Rerun,2022-10-30,8,"Prof. Prashant Jha
+Prof. Shalabh",IIT Kanpur,IIT Kanpur,uptc,True
+110105161,noc22-mg88,Strategic Management for Competitive Advantage,Management,New,2022-10-30,12,Prof. Sanjib Chowdhury,IIT Kharagpur,IIT Kharagpur,uplc,True
+110108161,noc22-mg89,Strategic Management â€“ The Competitive Edge,Management,New,2022-10-30,8,Prof. R Srinivasan,IISc Bangalore,IISc Bangalore,uptc,True
+110105155,noc22-mg90,Automation in Production Systems and Management,Management,Rerun,2022-10-30,12,Prof. Pradip Kumar Ray,IIT Kharagpur,IIT Kharagpur,uplc,True
+110105071,noc22-mg91,Commodity Derivatives and Risk Management,Management,Rerun,2022-09-25,8,Prof. Prabina Rajib,IIT Kharagpur,IIT Kharagpur,uptc,True
+110105156,noc22-mg92,Corporate Finance,Management,Rerun,2022-09-25,8,Prof. Abhijeet Chandra,IIT Kharagpur,IIT Kharagpur,uptc,True
+110105145,noc22-mg93,Customer Relationship Management,Management,Rerun,2022-10-30,8,Prof. Swagato Chatterjee,IIT Kharagpur,IIT Kharagpur,uptc,True
+110105147,noc22-mg94,Decision Support System for Managers,Management,Rerun,2022-10-30,12,"Prof. Kunal Kanti Ghosh, Prof. Anupam Ghosh, Prof Sujoy Bhattacharya",IIT Kharagpur,IIT Kharagpur,uplc,True
+110105097,noc22-mg95,Ethics In Engineering Practice,Management,Rerun,2022-10-29,8,Prof. Susmita Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,uptc,True
+110105080,noc22-mg96,Gender justice and workplace security,Management,Rerun,2022-10-29,4,Prof. Dipa Dube,IIT Kharagpur,IIT Kharagpur,upsc,True
+110105094,noc22-mg97,Industrial Safety Engineering,Management,Rerun,2022-10-29,12,Prof. Jhareswar Maiti,IIT Kharagpur,IIT Kharagpur,uplc,True
+110105139,noc22-mg98,Intellectual Property Rights and Competition Law,Management,Rerun,2022-10-30,8,"Prof. K. D. Raju, Prof. Niharika Sahoo Bhattacharya",IIT Kharagpur,IIT Kharagpur,uptc,True
+110105076,noc22-mg99,Knowledge Management,Management,Rerun,2022-09-25,8,Prof. KBL Srivastava,IIT Kharagpur,IIT Kharagpur,uptc,True
+113106099,noc22-mm01,Carbon Materials and Manufacturing,Metallurgical and Materials Engineering,Rerun,2022-04-23,12,Prof. Swati Sharma,IIT Mandi,IIT Madras,oc,True
+123105003,noc22-mm02,Drilling And Blasting Technology,Metallurgical and Materials Engineering,Rerun,2022-04-24,8,Prof. Kaushik Dey,IIT Kharagpur,IIT Kharagpur,oc,True
+113106087,noc22-mm03,Welding Processes,Metallurgical and Materials Engineering,Rerun,2022-04-23,12,Prof. Murugaiyan Amirthalingam,IIT Madras,IIT Madras,oc,True
+113104104,noc22-mm04,Mechanical Behaviour of Materials (Part – I),Metallurgical and Materials Engineering,New,2022-04-23,12,"Prof. Shashank Shekhar
+Prof. Sudhanshu Shekhar Singh",IIT Kanpur,IIT Kanpur,oc,False
+113107078,noc22-mm05,Materials Science and Engineering,Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Vivek Pancholi,IIT Roorkee,IIT Roorkee,oc,True
+113104096,noc22-mm06,Properties of Materials (Nature and Properties of Materials : III),Metallurgical and Materials Engineering,Rerun,2022-04-23,8,Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,oc,True
+113101096,noc22-mm07,"Dealing with materials data : collection, analysis and interpretation",Metallurgical and Materials Engineering,Rerun,2022-04-24,12,"Prof. M P Gururajan
+Prof. Hina Gokhale",IIT Bombay,IIT Bombay,oc,True
+113104084,noc22-mm08,"Solar Photovoltaics: Principles, Technologies & Materials",Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,oc,True
+113104097,noc22-mm09,Diffusion in Multicomponent Solids,Metallurgical and Materials Engineering,Rerun,2022-04-24,12,Prof. Kaustubh Kulkarni,IIT Kanpur,IIT Kanpur,oc,True
+113104075,noc22-mm10,Fundamentals of Material Processing - Part 2,Metallurgical and Materials Engineering,Rerun,2022-04-24,8,"Prof. Shashank Shekhar 
+Prof. Anshu Gaur",IIT Kanpur,IIT Kanpur,oc,True
+113106065,noc22-mm11,Fundamentals Of Electronic Materials And Devices,Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Parasuraman Swaminathan,IIT Madras,IIT Madras,oc,True
+112106253,noc22-mm12,Steel Quality: Role of Secondary Refining & Continuous Casting,Metallurgical and Materials Engineering,Rerun,2022-04-23,12,Prof. Santanu Kr. Ray,IIT Madras,IIT Madras,oc,True
+113106070,noc22-mm13,Theory and Practice of Non Destructive Testing,Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Ranjit Bauri,IIT Madras,IIT Madras,oc,True
+113106034,noc22-mm14,Material Characterization,Metallurgical and Materials Engineering,Rerun,2022-04-23,12,Prof.S. Sankaran,IIT Madras,IIT Madras,oc,True
+113103072,noc22-mm15,Introduction To Crystal Elasticity And Crystal Plasticity,Metallurgical and Materials Engineering,Rerun,2022-04-24,8,Prof. Swarup Bag,IIT Guwahati,IIT Guwahati,oc,True
+113101099,noc22-mm16,Cathodic Protection Engineering,Metallurgical and Materials Engineering,Rerun,2022-03-27,4,Prof. V.S. Raja,IIT Bombay,IIT Bombay,oc,True
+113104082,noc22-mm17,Corrosion - Part I,Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Kallol Mondal ,IIT Kanpur,IIT Kanpur,oc,False
+113105100,noc22-mm18,Scanning Electron / Ion / Probe Microscopy in Materials Characterization,Metallurgical and Materials Engineering,Rerun,2022-04-23,8,Prof. Debabrata Pradhan,IIT Kharagpur,IIT Kharagpur,oc,True
+113105099,noc22-mm19,Non - Metallic Materials,Metallurgical and Materials Engineering,Rerun,2022-04-23,12,Prof. Subhasish Basu Majumder,IIT Kharagpur,IIT Kharagpur,oc,True
+113105104,noc22-mm20,Bulk Material Transport and Handling Systems,Metallurgical and Materials Engineering,New,2022-04-24,12,Prof. Khanindra Pathak,IIT Kharagpur,IIT Kharagpur,oc,True
+113107075,noc22-mm21,Surface Engineering of Nanomaterials,Metallurgical and Materials Engineering,Rerun,2022-03-27,8,Prof. Kaushik Pal,IIT Roorkee,IIT Roorkee,oc,True
+113107092,noc22-mm22,Welding Metallurgy,Metallurgical and Materials Engineering,Rerun,2022-04-24,12,Prof. Pradeep Kumar Jha ,IIT Roorkee,IIT Roorkee,oc,True
+123105004,noc22-mm23,Network Analysis for Mines and Mineral Engineering,Metallurgical and Materials Engineering,Rerun,2022-04-24,4,Prof. Kaushik Dey,IIT Kharagpur,IIT Kharagpur,oc,True
+123105005,noc22-mm24,Mining Machinery,Metallurgical and Materials Engineering,Rerun,2022-04-24,12,Prof. Khanindra Pathak,IIT Kharagpur,IIT Kharagpur,oc,False
+113104105,noc22-mm25,Mechanical Behaviour of Materials (Part â€“ II),Metallurgical and Materials Engineering,New,2022-10-30,8,"Prof. Shashank Shekhar
+Prof. Sudhanshu Shekhar Singh",IIT Kanpur,IIT Kanpur,uptc,False
+113107091,noc22-mm26,Thermo-Mechanical And Thermo-Chemical Processes,Metallurgical and Materials Engineering,Rerun,2022-09-25,8,"Prof. Vivek Pancholi, Prof. S. R. Meka",IIT Roorkee,IIT Roorkee,uptc,True
+113104076,noc22-mm27,Nature And Properties Of Materials-An Introductory Course,Metallurgical and Materials Engineering,Rerun,2022-09-25,8,Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,uptc,True
+113106081,noc22-mm28,Elementary Stereology for Quantitative Metallography,Metallurgical and Materials Engineering,Rerun,2022-09-25,4,"Prof. Sandeep Sangal, Prof. Sankaran",IIT Madras,IIT Madras,upsc,True
+113106062,noc22-mm29,Fundamentals of electronic device fabrication,Metallurgical and Materials Engineering,Rerun,2022-09-25,4,Prof. Parasuraman Swaminathan,IIT Madras,IIT Madras,upsc,True
+113106082,noc22-mm30,Welding of Advanced High Strength Steels for Automotive Applications,Metallurgical and Materials Engineering,Rerun,2022-10-30,4,Prof. Murugaiyan Amirthalingam,IIT Madras,IIT Madras,upsc,True
+113106098,noc22-mm31,Powder Metallurgy,Metallurgical and Materials Engineering,Rerun,2022-10-29,12,Prof. Ranjit Bauri,IIT Madras,IIT Madras,uplc,True
+113106039,noc22-mm32,Physics Of Materials,Metallurgical and Materials Engineering,Rerun,2022-10-29,12,Prof. Prathap Haridoss,IIT Madras,IIT Madras,uplc,True
+113106093,noc22-mm33,"Nanotechnology, Science and Applications",Metallurgical and Materials Engineering,Rerun,2022-09-25,8,Prof. Prathap Haridoss,IIT Madras,IIT Madras,uptc,True
+113106101,noc22-mm34,Mechanical Behavior of Materials,Metallurgical and Materials Engineering,Rerun,2022-10-30,12,Prof. S. Sankaran,IIT Madras,IIT Madras,uplc,True
+113105105,noc22-mm36,Environmental Degradation and Surface Engineering,Metallurgical and Materials Engineering,New,2022-10-30,12,"Prof. Jyotsna Dutta Majumdar
+Prof.Indranil Manna",IIT Kharagpur,IIT Kharagpur,uplc,True
+113105101,noc22-mm37,Techniques of Material Characterization,Metallurgical and Materials Engineering,Rerun,2022-10-30,12,Prof. Shibayan Roy,IIT Kharagpur,IIT Kharagpur,uplc,True
+113105098,noc22-mm38,Ironmaking and Steelmaking,Metallurgical and Materials Engineering,Rerun,2022-10-30,12,Prof. Gour Gopal Roy,IIT Kharagpur,IIT Kharagpur,uplc,False
+112106227,noc22-mm39,X-ray Crystallography & Diffraction,Metallurgical and Materials Engineering,Rerun,2022-10-29,12,"Prof. Ranjit Kumar Ray, Prof. S. Sankaran",IIEST Shibpur,IIT Madras,uplc,False
+113105081,noc22-mm40,Advanced Materials and Processes,Metallurgical and Materials Engineering,Rerun,2022-10-29,12,Prof. Jayanta Das,IIT Kharagpur,IIT Kharagpur,uplc,True
+113106105,noc22-mm41,Aluminium based Alloys and Metal Matrix Composites,Metallurgical and Materials Engineering,New,2022-10-30,12,Prof. Ranjit Bauri,IIT Madras,IIT Madras,uplc,True
+113105106,noc22-mm42,"Fracture, Fatigue and Failure of Materials",Metallurgical and Materials Engineering,New,2022-10-30,12,Prof. Indrani Sen,IIT Kharagpur,IIT Kharagpur,uplc,True
+113106106,noc22-mm43,Welding science and technology(In Tamil),Metallurgical and Materials Engineering,New,2022-10-30,4,Prof. Murugaiyan Amirthalingam,IIT Madras,IIT Madras,upsc,True
+113104106,noc22-mm44,Electronic Properties of the Materials: Computational Approach,Metallurgical and Materials Engineering,New,2022-10-30,8,Prof. Somnath Bhowmick,IIT Kanpur,IIT Kanpur,uptc,True
+113105077,noc22-mm45,Principles of Polymer Synthesis,Metallurgical and Materials Engineering,Rerun,2022-09-25,8,Prof. Rajat K Das,IIT Kharagpur,IIT Kharagpur,uptc,True
+123105007,noc22-mm46,Surface Mining Technology,Metallurgical and Materials Engineering,Rerun,2022-10-30,12,Prof. Kaushik Dey,IIT Kharagpur,IIT Kharagpur,uplc,True
+123105006,noc22-mm47,Underground Mining of Metalliferous deposits,Metallurgical and Materials Engineering,Rerun,2022-10-30,12,"Prof. Bibhuti Bhusan Mandal
+Prof. Kaushik Dey",IIT Kharagpur,IIT Kharagpur,uplc,True
+113105107,noc22-mm48,Mine Closure and Sustainability Planning,Metallurgical and Materials Engineering,New,2022-10-30,12,Prof. Khanindra Pathak,IIT Kharagpur,IIT Kharagpur,uplc,True
+113104090,noc22-mm49,Fundamentals and Applications of Dielectric Ceramics,Metallurgical and Materials Engineering,Rerun,2022-10-29,8,Prof. Ashish Garg,IIT Kanpur,IIT Kanpur,uptc,True
+114106043,noc22-oe01,Offshore Structures Under Special Environmental Loads Including Fire Resistance,Ocean Engineering,Rerun,2022-04-23,12,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,oc,True
+114106047,noc22-oe02,Advanced design of steel structures,Ocean Engineering,New,2022-10-29,12,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,uplc,True
+114106038,noc22-oe03,Dynamics of Ocean Structures,Ocean Engineering,Rerun,2022-10-30,12,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,uplc,True
+114106045,noc22-oe04,Computer Methods Of Structural Analysis Of Offshore Structures,Ocean Engineering,Rerun,2022-10-29,12,Prof. Srinivasan Chandrasekaran,IIT Madras,IIT Madras,uplc,True
+114105047,noc22-oe05,Marine Propulsion,Ocean Engineering,New,2022-09-25,8,Prof.  Anirban Bhattacharyya,IIT Kharagpur,IIT Kharagpur,uptc,True
+114105044,noc22-oe06,Water Economics and Governance,Ocean Engineering,Rerun,2022-10-29,12,Prof. Manoj Kumar Tiwari,IIT Kharagpur,IIT Kharagpur,uplc,True
+114105048,noc22-oe07,Numerical Ship and Offshore Hydrodynamics,Ocean Engineering,New,2022-10-30,12,Ranadev dutta,IIT Kharagpur,IIT Kharagpur,uplc,True
+115107122,noc22-ph01,Optical Sensors,Physics,Rerun,2022-03-27,4,Prof. Sachin Kumar Srivastava,IIT Roorkee,IIT Roorkee,oc,True
+115101121,noc22-ph02,Physics of Biological Systems,Physics,Rerun,2022-04-23,12,Prof. Mithun Mitra,IIT Bombay,IIT Bombay,oc,True
+115105122,noc22-ph03,Electronic Theory of Solids,Physics,Rerun,2022-04-23,12,Prof. Arghya Taraphder,IIT Kharagpur,IIT Kharagpur,oc,True
+115105121,noc22-ph04,Experimental Physics III,Physics,Rerun,2022-04-24,12,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,oc,False
+115105120,noc22-ph05,Experimental Physics - II,Physics,Rerun,2022-04-24,12,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,oc,False
+115101107,noc22-ph06,Quantum Mechanics I,Physics,Rerun,2022-04-24,12,Prof. P. Ramadevi,IIT Bombay,IIT Bombay,oc,False
+115101122,noc22-ph07,Group Theory methods in Physics,Physics,Rerun,2022-04-24,12,Prof. P. Ramadevi,IIT Bombay,IIT Bombay,oc,True
+115103108,noc22-ph08,A brief course on Superconductivity,Physics,Rerun,2022-03-27,4,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,oc,True
+115103102,noc22-ph09,Advanced Condensed Matter Physics,Physics,Rerun,2022-03-27,8,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,oc,True
+115107121,noc22-ph10,Introduction to Atmospheric and Space Sciences,Physics,Rerun,2022-04-23,12,Prof. M V Sunil Krishna,IIT Roorkee,IIT Roorkee,oc,True
+115106121,noc22-ph12,Physics through Computational Thinking,Physics,Rerun,2022-04-23,8,Prof. Auditya Sharma,IISER Bhopal,IIT Madras,oc,False
+115107129,noc22-ph13,Advanced Atmospheric Physics,Physics,New,2022-04-24,12,Prof. M V Sunil Krishna,IIT Roorkee,IIT Roorkee,oc,True
+115108129,noc22-ph14,Advanced NMR Techniques in Solution and Solid-State,Physics,New,2022-04-24,12,Prof. N. Suryaprakash,IISc Bangalore,IISc Bangalore,oc,True
+115103129,noc22-ph15,Quantum Technology and Quantum Phenomena in Macroscopic Systems,Physics,New,2022-04-24,12,Prof. Amarendra Kumar Sarma,IIT Guwahati,IIT Guwahati,oc,True
+115106124,noc22-ph16,Fluid Dynamics for Astrophysics,Physics,Rerun,2022-04-24,12,Prof. Prasad Subramanian,IISER Pune,IIT Madras,oc,True
+115106125,noc22-ph17,Quantum Transport,Physics,Rerun,2022-04-23,12,Prof. Madhu Thalakulam,IISER Thiruvananthapuram,IIT Madras,oc,True
+115107130,noc22-ph18,Nuclear Astrophysics,Physics,New,2022-04-23,8,Prof. Anil Kumar Gourishetty,IIT Roorkee,IIT Roorkee,oc,True
+115102124,noc22-ph19,Introduction to Laser,Physics,Rerun,2022-04-23,12,Prof. M R Shenoy,IIT Delhi,IIT Delhi,oc,True
+115105124,noc22-ph20,Physics of linear and nonlinear optical waveguides,Physics,Rerun,2022-04-23,12,Prof. Samudra Roy,IIT Kharagpur,IIT Kharagpur,oc,True
+115105129,noc22-ph21,Thermal physics,Physics,New,2022-04-24,12,Prof. Debamalya Banerjee,IIT Kharagpur,IIT Kharagpur,oc,False
+115106126,noc22-ph22,Statistical Mechanics,Physics,Rerun,2022-04-24,12,Prof. Dipanjan Chakraborty,IISER Mohali,IIT Madras,oc,True
+115107116,noc22-ph25,"Solar Photovoltaics Fundamentals, Technology And Applications",Physics,Rerun,2022-09-25,8,Prof. Soumitra Satapathi,IIT Roorkee,IIT Roorkee,uptc,True
+115106118,noc22-ph26,Computational Physics,Physics,Rerun,2022-10-30,12,"Prof. Apratim Chatterji, Prof. Prasenjit Ghosh",IISER Pune,IIT Madras,uplc,True
+115106119,noc22-ph27,Waves and Oscillations,Physics,Rerun,2022-10-29,12,Prof. M. S. Santhanam,IISER Pune,IIT Madras,uplc,False
+115106123,noc22-ph28,Introduction to Classical Mechanics,Physics,Rerun,2022-10-30,12,Prof. Anurag Tripathi,IIT Hyderabad,IIT Madras,uplc,True
+115103131,noc22-ph29,Dynamics of Classical and Quantum Fields,Physics,New,2022-10-30,12,Prof. Girish S. Setlur,IIT Guwahati,IIT Guwahati,uplc,True
+115106128,noc22-ph30,Introduction to Quantum Field Theory(Theory of Scalar Fields),Physics,Rerun,2022-10-30,12,Prof. Anurag Tripathi,IIT Hyderabad,IIT Madras,uplc,True
+115105131,noc22-ph31,Concepts in Magnetism and Superconductivity,Physics,New,2022-09-25,8,Prof. A Taraphder,IIT Kharagpur,IIT Kharagpur,uptc,True
+115107131,noc22-ph32,Applied Optics,Physics,New,2022-10-30,12,Prof.  Akhilesh Kumar Mishra,IIT Roorkee,IIT Roorkee,uplc,False
+115101131,noc22-ph33,Neutron Scattering for Condensed Matter Studies,Physics,New,2022-10-30,12,Prof. Saibal Basu,Homi Bhabha National Institute (HBNI),IIT Bombay,uplc,True
+115101132,noc22-ph34,Accelerator Physics,Physics,New,2022-10-30,12,"Prof Pitamber Singh
+Prof Rajni Pande
+Prof Amalendu Sharma",Homi Bhabha National Institute (HBNI),IIT Bombay,uplc,True
+115105110,noc22-ph35,Experimental Physics - I,Physics,Rerun,2022-10-29,12,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,uplc,False
+115105097,noc22-ph36,Mathematical methods in Physics -I,Physics,Rerun,2022-10-29,12,Prof. Samudra Roy,IIT Kharagpur,IIT Kharagpur,uplc,False
+115105099,noc22-ph37,Solid State Physics,Physics,Rerun,2022-10-30,12,Prof. Amal Kumar Das,IIT Kharagpur,IIT Kharagpur,uplc,False
+115105106,noc22-ph38,Upstream LNG Technology,Physics,Rerun,2022-10-30,12,Prof. Pavitra Sandilya,IIT Kharagpur,IIT Kharagpur,uplc,True
+115103115,noc22-ph39,Theoretical Mechanics,Physics,Rerun,2022-10-30,12,Prof. Charudatt Kadolkar,IIT Guwahati,IIT Guwahati,uplc,True
+115103104,noc22-ph40,Advanced Quantum Mechanics with Applications,Physics,Rerun,2022-09-25,8,Prof Saurabh Basu,IIT Guwahati,IIT Guwahati,uptc,True
+115103101,noc22-ph41,Nuclear and Particle Physics,Physics,Rerun,2022-10-30,12,Prof. Poulose Poulose,IIT Guwahati,IIT Guwahati,uplc,True
+115103114,noc22-ph42,Numerical Methods And Simulation Techniques For Scientists And Engineers,Physics,Rerun,2022-09-25,8,Prof. Saurabh Basu,IIT Guwahati,IIT Guwahati,uptc,True
+115104124,noc22-ph43,Introduction to Astrophysical Fluids,Physics,Rerun,2022-10-29,12,Prof. Supratik Banerjee,IIT Kanpur,IIT Kanpur,uplc,True
+115105127,noc22-ph44,Physics of Renewable Energy Systems,Physics,Rerun,2022-10-30,12,Prof. Amreesh Chandra,IIT Kharagpur,IIT Kharagpur,uplc,True
+115108127,noc22-ph45,Bonds and Bands in Solids,Physics,Rerun,2022-10-29,12,S. Ramasesha,IISc Bangalore,IISc Bangalore,uplc,True
+115105132,noc22-ph46,Foundations of Classical Electrodynamics,Physics,New,2022-10-30,12,Prof. Samudra Roy,IIT Kharagpur,IIT Kharagpur,uplc,False
+116102049,noc22-te01,Evaluation of Textiles Materials,Textile Engineering,Rerun,2022-04-23,12,Prof. Apurba Das,IIT Delhi,IIT Delhi,oc,False
+116102050,noc22-te02,Testing of Functional and Technical Textiles,Textile Engineering,Rerun,2022-04-23,8,Prof. Apurba Das,IIT Delhi,IIT Delhi,oc,True
+116102051,noc22-te03,Theory of Yarn Structure,Textile Engineering,Rerun,2022-04-24,12,Prof. Dipayan das,IIT Delhi,IIT Delhi,oc,True
+116102052,noc22-te04,Advanced Textile Printing Technology,Textile Engineering,Rerun,2022-03-27,8,Prof. Kushal Sen,IIT Delhi,IIT Delhi,oc,True
+116102053,noc22-te05,Textured Yarn Technology,Textile Engineering,Rerun,2022-04-24,12,Prof. Kushal Sen,IIT Delhi,IIT Delhi,oc,True
+116102058,noc22-te06,Textile Product Design and Development,Textile Engineering,New,2022-04-23,12,Prof. R Chattopadhyay,IIT Delhi,IIT Delhi,oc,True
+116102055,noc22-te07,"Principles of Combing,Roving preparation & Ring spinning",Textile Engineering,Rerun,2022-10-30,12,Prof. R. Chattopadhyay,IIT Delhi,IIT Delhi,uplc,False
+116102048,noc22-te08,Yarn manufacture I : Principle of Carding and Drawing,Textile Engineering,Rerun,2022-10-29,12,Prof. R. Chattopadhyay,IIT Delhi,IIT Delhi,uplc,False
+116102057,noc22-te09,Technical Textiles,Textile Engineering,Rerun,2022-10-30,12,Prof. Apurba Das,IIT Delhi,IIT Delhi,uplc,True
+116102047,noc22-te10,Science of Clothing Comfort,Textile Engineering,Rerun,2022-10-29,12,Prof. Apurba Das,IIT Delhi,IIT Delhi,uplc,True
+116102054,noc22-te11,Textile Finishing,Textile Engineering,Rerun,2022-10-29,12,Prof. Kushal Sen,IIT Delhi,IIT Delhi,uplc,True
+116102056,noc22-te12,Science and Technology of Weft and Warp Knitting,Textile Engineering,Rerun,2022-10-30,12,Prof. Bipin kumar,IIT Delhi,IIT Delhi,uplc,True
