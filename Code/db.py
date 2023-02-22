@@ -102,7 +102,7 @@ class Course(Base):
     # Need the enum values for 'institute' column
     __table_args__ = (CheckConstraint(category.in_(['New', 'Rerun'])), 
                       CheckConstraint(duration.in_([4, 8, 12])), 
-                      CheckConstraint(course_status.in_(["op", "uplc", "uptc", "upsc"])), #Rename this if possible
+                      CheckConstraint(course_status.in_(["oc", "uplc", "uptc", "upsc"])),
                       CheckConstraint(coordinating_institute.in_(['IIT Kanpur', 'IIT Madras', 'IISc Bangalore', 'IIT Bombay', 
                                                                   'IIT Kharagpur', 'IIT Guwahati', 'IIT Roorkee', 'IIT Delhi'])))
 
