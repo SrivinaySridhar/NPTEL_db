@@ -100,6 +100,16 @@ def prepare_course_data(file_name):
     # Converting the 'unique_course_id' and '_duration' to int() dtype
     df['unique_course_id'] = df['unique_course_id'].astype(int)
     df['_duration'] = df['_duration'].astype(int)
+    
+    # Converting 0s and 1s to Boolean values
+    df['is_fdp'] = df['is_fdp'].astype(bool)
 
-    # Returning the dataframe
-    return df
+    # Converting date string to python date object
+    df['exam_date'] = pd.to_datetime(df['exam_date'], format="%Y-%m-%d")
+
+    # Returning the dataframe as a csv file
+    df.to_csv('..\Data\Courses.csv', index = False, header = True)
+
+    return
+
+prepare_course_data(COURSES_URL)
