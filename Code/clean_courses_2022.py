@@ -30,7 +30,7 @@ def duration_map(file_name):
     # Load the duration data
     df_duration = Load_Data(file_name)
 
-    # Three formats for the "Duration" column:
+    # Three formats for the "Duration" column: (Only for 2022 data)
     # 1. "12 Weeks" - 
     # 2. "8 Weeks + 4 Weeks(New)"
     # 3. "4 Week(rerun) + 4 Week (New)"
@@ -94,7 +94,7 @@ def prepare_course_data(file_name):
     df = df.loc[:, ['unique_course_id', 'course_run_id', 'name', '_discipline', 'category', 'exam_date', '_duration', 'faculty', 
                     'institute', 'coordinating_institute', 'course_status', 'is_fdp']]
     
-    # Drop those courses that do not have a duration value associated with it
+    # Drop those courses that do not have a duration value associated with it - Needed to convert to int
     df = df.dropna(axis=0, subset=['_duration'])
 
     # Converting the 'unique_course_id' and '_duration' to int() dtype
