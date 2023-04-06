@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import datetime as dt
 
 # Creating an engine connecting to sqlite database
-engine = create_engine("sqlite:///D:\\NPTEL Internship\\SQLAlchemy\\NPTEL_db\\Databases\\database2.db", echo = True)
+engine = create_engine("sqlite:///D:\\NPTEL Internship\\NPTEL_db\\Databases\\database2.db", echo = True)
 
 # Declarative style schema definition
 Base = declarative_base()
