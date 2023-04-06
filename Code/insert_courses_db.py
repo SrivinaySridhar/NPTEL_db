@@ -11,7 +11,7 @@ session = Session()
 
 # Working code to insert all the cleaned course entries from the ../Data/Courses.csv file 
 
-# Number of entries inserted: 1211, Time taken to execute: 84.25s 
+# Number of entries inserted: 1211, Time taken to execute: 39.55s 
 
 try:
     with open("../Data/Courses.csv", 'r', encoding="utf8") as file:
