@@ -1,25 +1,22 @@
-from sqlalchemy import create_engine, Column, String, Integer, Float, Boolean, Enum, Date, DateTime
+from sqlalchemy import Column, String, Integer, Float, Boolean, Enum, Date, DateTime
 from sqlalchemy import ForeignKey, CheckConstraint, UniqueConstraint
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import datetime as dt
-
-# Creating an engine connecting to sqlite database
-engine = create_engine("sqlite:///D:\\NPTEL Internship\\NPTEL_db\\Databases\\database2.db", echo = True)
 
 # Declarative style schema definition
 Base = declarative_base()
 
 # Foreign key support
-from sqlalchemy.engine import Engine
-from sqlalchemy import event
+# from sqlalchemy.engine import Engine
+# from sqlalchemy import event
 
 # Everytime a connection to the engine is made, the "foreign keys" pragma is switched ON
 # Add to Readme file - documentation.
-@event.listens_for(Engine, "connect")
-def set_sqlite_pragma(dbapi_connection, connection_record):
-    cursor = dbapi_connection.cursor()
-    cursor.execute("PRAGMA foreign_keys=ON")
-    cursor.close()
+# @event.listens_for(Engine, "connect")
+# def set_sqlite_pragma(dbapi_connection, connection_record):
+#     cursor = dbapi_connection.cursor()
+#     cursor.execute("PRAGMA foreign_keys=ON")
+#     cursor.close()
 
 #Users table
 class User(Base):
@@ -147,6 +144,3 @@ class Score(Base):
     # Might not require the following constraint because they are primary key pair
     # UniqueConstraint to enforce that each enrolment and assignment pair is unique
     # __table_args__ = (UniqueConstraint('enrolment_id', 'assignment_id', name='_enrolment_assignment_uc'), )
-
-# Creating the tables by calling the below function
-Base.metadata.create_all(engine)
