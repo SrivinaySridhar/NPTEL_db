@@ -1,5 +1,10 @@
-from db import Enrolment, session, engine
+from db import Enrolment
+from run import engine
 import datetime as dt
+from sqlalchemy.orm import sessionmaker
+
+Session = sessionmaker(engine)
+session = Session()
 
 #Valid course
 enrolment1 = Enrolment(

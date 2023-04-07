@@ -1,5 +1,10 @@
-from db import Course, session, engine
+from db import Course
+from run import engine
 import datetime as dt
+from sqlalchemy.orm import sessionmaker
+
+Session = sessionmaker(engine)
+session = Session()
 
 #Valid course
 course1 = Course(
@@ -13,7 +18,7 @@ course1 = Course(
     faculty = "Prof. Sudarshan Iyengar",
     institute = "IIT Ropar",
     coordinating_institute = "IIT Madras",
-    course_status = "op",
+    course_status = "oc",
     is_fdp = True
 )
 

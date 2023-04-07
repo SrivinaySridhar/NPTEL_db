@@ -1,5 +1,11 @@
-from db import User, session
+from db import User
+from run import engine
 import datetime as dt
+
+from sqlalchemy.orm import sessionmaker
+
+Session = sessionmaker(engine)
+session = Session()
 
 #Valid user
 user1 = User(

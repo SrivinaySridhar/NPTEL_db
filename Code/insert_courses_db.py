@@ -1,4 +1,5 @@
-from db import Course, engine
+from db import Course
+from run import engine
 import datetime as dt
 import pandas as pd
 from sqlalchemy.orm import sessionmaker

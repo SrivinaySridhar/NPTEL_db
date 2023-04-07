@@ -1,5 +1,10 @@
-from db import Assignment, session
+from db import Assignment
+from run import engine
 import datetime as dt
+from sqlalchemy.orm import sessionmaker
+
+Session = sessionmaker(engine)
+session = Session()
 
 #Valid course
 assignment1 = Assignment(

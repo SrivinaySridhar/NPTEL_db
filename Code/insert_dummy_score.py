@@ -1,5 +1,10 @@
-from db import Score, session
+from db import Score
+from run import engine
 import datetime as dt
+from sqlalchemy.orm import sessionmaker
+
+Session = sessionmaker(engine)
+session = Session()
 
 #Valid course
 score1 = Score(
