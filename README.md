@@ -1,4 +1,12 @@
-# Tables
+## How to create the Database
+Run the run.py script with the path to where you want to store the Database 
+
+```
+python run.py "\path\to\db"
+```
+
+# Database Schema
+## Tables
 ### 1. Users
 ### 2. Courses
 ### 3. Enrolments
