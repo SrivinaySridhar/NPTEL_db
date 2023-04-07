@@ -18,6 +18,7 @@ try:
     with open("../Data/Courses.csv", 'r', encoding="utf8") as file:
         csv_reader = csv.reader(file)
         next(csv_reader)
+        not_inserted = []
         for row in csv_reader:
             print(row)
             new_course = Course(unique_course_id = row[0],
@@ -35,7 +36,11 @@ try:
             session.add(new_course)
             session.commit()
 except:
+    not_inserted.append(new_course)
     print("Error while trying to read the csv file or writing to database")
+finally:
+    print(not_inserted)
+    session.close()
 
 #-----------------------------------------x----------------------------------------------x-----------------------------------------
 

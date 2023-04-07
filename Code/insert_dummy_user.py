@@ -42,4 +42,6 @@ except:
     raise
 else:
     session.commit()
+finally:
+    session.close()
   
