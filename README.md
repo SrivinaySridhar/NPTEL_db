@@ -1,17 +1,32 @@
 ## How to create the database
 Run the run.py script with the path to where you want to store the database 
 
-```
+```shell
 python run.py "\path\to\db"
 ```
 ## [Link to DB data](https://drive.google.com/drive/folders/1E4eoLFFoUsh7HhKjhsQEJhHU9y7K_gf7?usp=share_link)
 
-## How to insert to the database
+## How to clean the data 
+In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add the duration and discipline independent of the db insertion - That will be the sole input.
+
+Run the clean_courses_2022.py with the following arguments:
+1. Path to the Course_details_2022.csv
+3. Path to the duration.csv
+4. Path to where you want to store the output (Courses.csv)
+
+```shell
+python clean_courses_2022.py         "\path\to\Course_details_2022.csv" 
+"\path\to\discipline.csv"
+"\path\to\duration.csv" 
+"\path\to\Courses.csv"
+```
+
+## How to insert courses to the database
 Run the insert_courses_db.py with the following arguments:
 1. Path to the database
 2. Path to Courses.csv (Cleaned courses file to be inserted)
 
-```
+```shell
 python insert_courses_db.py "\path\to\db"             
                             "\path\to\Courses.csv"
 ```
