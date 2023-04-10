@@ -7,9 +7,9 @@ python run.py "\path\to\db"
 ## [Link to DB data](https://drive.google.com/drive/folders/1E4eoLFFoUsh7HhKjhsQEJhHU9y7K_gf7?usp=share_link)
 
 ## How to clean the data 
-In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add the duration and discipline independent of the db insertion - That will be the sole input.
+In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add the duration and discipline to the Course_details.csv beforehand - That will be the sole input.
 
-### Important: Running this code drops the following courses:
+### Important - Running this code drops the following courses:
 1. noc22-ce88 
 2. noc22-ch46
 
@@ -17,6 +17,7 @@ In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add 
 
 Run the clean_courses_2022.py with the following arguments:
 1. Path to the Course_details_2022.csv
+2. Path to the discipline.csv
 3. Path to the duration.csv
 4. Path to where you want to store the output (Courses.csv)
 
