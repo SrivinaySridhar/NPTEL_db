@@ -13,6 +13,8 @@ In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add 
 1. noc22-ce88 
 2. noc22-ch46
 
+> Reason: The duration column could not be found for these two courses in the Assignment mapper file. The duration column of the database takes only `int` dtype and it cannot take null values, so these courses are dropped to avoid the error while inserting the courses. They can be manually inserted after ascertaining the right duration values. 
+
 Run the clean_courses_2022.py with the following arguments:
 1. Path to the Course_details_2022.csv
 3. Path to the duration.csv
