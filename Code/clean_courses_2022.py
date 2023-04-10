@@ -1,8 +1,15 @@
 import pandas as pd
+import sys
 
-COURSES_URL = '..\Data\Course_details_2022 - Courses_2022.csv'
-DISCIPLINE_URL = '..\Data\Course_details_2022 - discipline.csv'
-DURATION_URL = '..\Data\Course_details_2022 - duration.csv'
+# Inputs:
+
+COURSES_PATH = sys.argv[1]
+DISCIPLINE_PATH = sys.argv[2]
+DURATION_PATH = sys.argv[3]
+
+# Output:
+
+CLEANED_PATH = sys.argv[4]
 
 def Load_Data(file_name):
     data = pd.read_csv(file_name)
@@ -77,7 +84,7 @@ def prepare_course_data(file_name):
     df["_discipline_short"]= df["course_run_id"].str.slice(start, stop, step)
     
     # Load the discipline map dictionary
-    discipline_mapping = discipline_map(DISCIPLINE_URL)
+    discipline_mapping = discipline_map(DISCIPLINE_PATH)
 
     # Use the dictionary to derive the "_discipline" column
     df["_discipline"] = df['_discipline_short'].map(discipline_mapping)
@@ -86,7 +93,7 @@ def prepare_course_data(file_name):
     # Use the 'duration_map(file_name)' function to get the mapping of the 'NOCCourseId' to '_duration
 
     # Load the duration map dictionary
-    duration_mapping = duration_map(DURATION_URL)
+    duration_mapping = duration_map(DURATION_PATH)
 
     df['_duration'] = df['course_run_id'].map(duration_mapping)
     
@@ -108,8 +115,8 @@ def prepare_course_data(file_name):
     df['exam_date'] = pd.to_datetime(df['exam_date'], format="%Y-%m-%d")
 
     # Returning the dataframe as a csv file
-    df.to_csv('..\Data\Courses.csv', index = False, header = True)
+    df.to_csv(CLEANED_PATH, index = False, header = True)
 
     return
 
-prepare_course_data(COURSES_URL)
+prepare_course_data(COURSES_PATH)
