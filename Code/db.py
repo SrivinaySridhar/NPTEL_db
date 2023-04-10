@@ -6,18 +6,6 @@ import datetime as dt
 # Declarative style schema definition
 Base = declarative_base()
 
-# Foreign key support
-# from sqlalchemy.engine import Engine
-# from sqlalchemy import event
-
-# Everytime a connection to the engine is made, the "foreign keys" pragma is switched ON
-# Add to Readme file - documentation.
-# @event.listens_for(Engine, "connect")
-# def set_sqlite_pragma(dbapi_connection, connection_record):
-#     cursor = dbapi_connection.cursor()
-#     cursor.execute("PRAGMA foreign_keys=ON")
-#     cursor.close()
-
 #Users table
 class User(Base):
     __tablename__ = "users"
@@ -140,7 +128,3 @@ class Score(Base):
     enrolment_id = Column(String(), ForeignKey("enrolments.enrolment_id"), primary_key = True) # Alnum dtype
     assignment_id = Column(Integer(), ForeignKey("assignments.assignment_id"), primary_key = True)
     score = Column(Integer())
-
-    # Might not require the following constraint because they are primary key pair
-    # UniqueConstraint to enforce that each enrolment and assignment pair is unique
-    # __table_args__ = (UniqueConstraint('enrolment_id', 'assignment_id', name='_enrolment_assignment_uc'), )
