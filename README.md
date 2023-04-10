@@ -9,6 +9,10 @@ python run.py "\path\to\db"
 ## How to clean the data 
 In progress: Will modify to make it simpler - 1 input, 1 output. Can try to add the duration and discipline independent of the db insertion - That will be the sole input.
 
+### Important: Running this code drops the following courses:
+1. noc22-ce88 
+2. noc22-ch46
+
 Run the clean_courses_2022.py with the following arguments:
 1. Path to the Course_details_2022.csv
 3. Path to the duration.csv
