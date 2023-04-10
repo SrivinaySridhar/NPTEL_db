@@ -1,8 +1,19 @@
-## How to create the Database
-Run the run.py script with the path to where you want to store the Database 
+## How to create the database
+Run the run.py script with the path to where you want to store the database 
 
 ```
 python run.py "\path\to\db"
+```
+## [Link to DB data](https://drive.google.com/drive/folders/1E4eoLFFoUsh7HhKjhsQEJhHU9y7K_gf7?usp=share_link)
+
+## How to insert to the database
+Run the insert_courses_db.py with the following arguments:
+1. Path to the database
+2. Path to Courses.csv (Cleaned courses file to be inserted)
+
+```
+python insert_courses_db.py "\path\to\db"             
+                            "\path\to\Courses.csv"
 ```
 
 # Database Schema
@@ -126,3 +137,5 @@ course_run_id references the course_runs table.
 
 enrolment_id references the enrolments table.
 assignment_id references the assignments table.
+
+[DB Data drive link]: https://drive.google.com/drive/folders/1E4eoLFFoUsh7HhKjhsQEJhHU9y7K_gf7?usp=share_link
