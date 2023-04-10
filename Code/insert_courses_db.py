@@ -16,10 +16,10 @@ session = Session()
 
 PATH_TO_COURSES_CSV = sys.argv[2]
 
+report = {"inserted": 0, "failed": 0}
 with open(PATH_TO_COURSES_CSV, 'r', encoding="utf8") as file:
     csv_reader = csv.reader(file)
     next(csv_reader)
-    not_inserted = []
     for row in csv_reader:
         print(row)
         new_course = Course(unique_course_id = row[0],
@@ -36,3 +36,6 @@ with open(PATH_TO_COURSES_CSV, 'r', encoding="utf8") as file:
                             is_fdp = bool(row[11]))
         session.add(new_course)
         session.commit()
+        report["inserted"]+= 1
+
+print(report)
