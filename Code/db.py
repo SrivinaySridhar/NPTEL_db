@@ -45,7 +45,7 @@ class User(Base):
     last_updated = Column(DateTime()) # Nullable? Can we somehow get this data?
 
     # Relationships
-    courses_enroled = relationship("Enrolment")
+    courses_enroled = relationship("Enrolment", uselist = False, back_populates = "users")
 
     # Constraints for the table
     __table_args__ = (CheckConstraint(gender.in_(['M', 'F', 'O', None])), 
@@ -101,6 +101,8 @@ class Enrolment(Base):
     date = Column(DateTime(), nullable = False) # default = dt.datetime.now()?
     first_seen = Column(DateTime(), nullable = False)
 
+    users = relationship("User", back_populates = "courses_enroled")
+
     # UniqueConstraint to enforce that each user can enrol to a particular course offered in a term only once
     __table_args__ = (UniqueConstraint('user_id', 'course_run_id', name='_user_course_run_uc'),)
 
@@ -144,9 +146,8 @@ class Registration(Base):
     # Where is the information on the following column? Could not find it in the Registration data
     # alloted_slot = Column(Enum(), nullable = False)
 
-    motivation = Column(Enum(), nullable = False)
     share_course_with_orgs = Column(Boolean(), nullable = True) # Null values for None in db
-    share_course_with_college = Column(Boolean(), nullbale = True) # Null values for None in db
+    share_course_with_college = Column(Boolean(), nullable = True) # Null values for None in db
     
     # The following column has all values as None. Should we add?
     # is_fdp_enabled = Column(Boolean(), nullable = False)
@@ -173,7 +174,7 @@ class Registration(Base):
                                                     'Other'])),
                     CheckConstraint(information_source.in_(['College', 'NPTEL Localchapter', 'Internet', 
                                                             'Friends', 'Others'])),
-                    CheckConstraint(student_credit_transfer.in_('yes_and_share', 'no_and_share', 'no_and_no_share')),
+                    CheckConstraint(student_credit_transfer.in_(['yes_and_share', 'no_and_share', 'no_and_no_share'])),
                     CheckConstraint(pwd_category.in_(['Learning Disability', 'Hearing Impaired',
                                                       'Orthopaedically Handicapped does not require elevator',
                                                       'Orthopaedically Handicapped requires elevator',
