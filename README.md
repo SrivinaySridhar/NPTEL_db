@@ -1,4 +1,6 @@
 ## How to create the database
+> Note: All paths used should be complete paths.
+
 Run the run.py script with the path to where you want to store the database 
 
 ```shell
@@ -47,7 +49,7 @@ python insert_courses_db.py "\path\to\db"
 ### 5. Assignment Scores
 ### 6. Exam Registrations
 
-# Metadata of Tables
+## Metadata of Tables
 
 ### 1. `users`
 
@@ -55,7 +57,7 @@ This table stores information about users of NPTEL.
 
 Column|Type|Description
 ------|----|-----------
-user_id| Integer| Primary key. Unique identifier for the user.
+user_id| Integer| Primary key, Unique identifier for the user.
 age_group| Enum| Age group of the user, restricted to specific ranges.
 dob| Date| Date of birth of the user.
 gender|	Enum|	Gender of the user, restricted to 'M', 'F', 'O' or NULL.
@@ -84,7 +86,7 @@ This table stores information about courses offered by NPTEL (past and current).
 Column|	Type|	Description
 ------|-----|--------------
 unique_course_id|	Integer|	Unique identifier for the course.
-course_run_id|	String|	Primary key. Unique identifier for a specific offering of a course in a term.
+course_run_id|	String|	Primary key, Unique identifier for a specific offering of a course in a term.
 name|	String|	Name of the course.
 discipline|	Enum|	Discipline of the course.
 category|	Enum|	New or Rerun category of the course.
@@ -115,8 +117,8 @@ The assignments table stores information about assignments.
 Column|	Type|	Description
 ------|-----|--------------
 assignment_id|	Integer|	Primary key. Unique identifier for the assignment
-course_run_id|	String|	Foreign key. Unique identifier of the course run associated with the assignment
-assignment_run_id|	Integer| Unique identifier of the assignment run
+course_run_id|	String|	Foreign key. Identifier of the course run associated with the assignment
+assignment_run_id|	Integer| Identifier of the assignment run
 week|	Integer|	Week in which the assignment is due
 graded|	Boolean|	Indicates whether the assignment is graded or not
 
@@ -130,17 +132,40 @@ enrolment_id|	String|	Primary key, Foreign key.	Unique identifier of the enrolme
 assignment_id|	Integer| Primary key, Foreign key.	Unique identifier of the assignment associated with the enrolment
 score|	Integer| The score achieved on the assignment
 
-### 6. Exam Registrations
+### 6. Registrations
 
-*Insert image of schema*
+The registrations table stores information about the registrations for exams.
 
-# Relationships
+Column| Type|	Description
+------|-----|--------------
+id|	Integer| Primary Key, Unique identifier for each registration
+enrolment_id| String|	Foreign Key, Identifier for enrolment, references enrolments table
+user_id| Integer| Foreign Key, Identifier for user, references users table
+payment_status|	Enum| Status of payment, can be 'payment_pending', 'payment_complete', 'payment_failed', or 'payment_refund'
+alloted_date_final|	DateTime| Date and time of the final allotment
+motivation|	Enum| Reason for taking the exam, can be 'To update myself with knowledge in this field', 'Preparing for competitive exams', 'To learn about how MOOCs work', 'For getting a job/internship', 'For research purposes', or 'Other'
+information_source|	Enum| Source of information, can be 'College', 'NPTEL Localchapter', 'Internet', 'Friends', or 'Others'
+share_course_with_orgs|	Boolean| Indicates whether to share the course with organizations
+share_course_with_college| Boolean|	Indicates whether to share the course with the college
+is_physically_challenged| Boolean| Indicates whether the candidate is physically challenged
+is_sc_st| Boolean| Indicates whether the candidate belongs to a Scheduled Caste or Scheduled Tribe
+pwd_category| Enum| Category of Physically Handicapped, can be 'Learning Disability', 'Hearing Impaired', 'Orthopaedically Handicapped does not require elevator', 'Orthopaedically Handicapped requires elevator', 'Visually Impaired without scribe', or 'Visually Impaired with scribe'
+student_credit_transfer| Enum|	Indicates whether the student can transfer credits, can be 'yes_and_share', 'no_and_share', or 'no_and_no_share'
+first_state| String| First preferred state where the candidate would prefer to take the exam
+first_city| String| First preferred city where the candidate would prefer to take the exam
+second_state| String| Second preferred state where the candidate would prefer to take the exam
+second_city| String| Second preferred city where the candidate would prefer to take the exam
+third_state| String| Third preferred state where the candidate would prefer to take the exam
+third_city| String| Third preferred city where the candidate would prefer to take the exam
+transaction_date| DateTime| Date and time of the transaction
+
+## Relationships
 
 ### 1. ...
 ### 2. ...
 ### 3. ...
 
-# Derived columns
+## Derived columns
 
 ### 1. ...
 ### 2. ...
