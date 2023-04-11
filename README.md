@@ -47,7 +47,7 @@ python insert_courses_db.py "\path\to\db"
 ### 3. Enrolments
 ### 4. Assignments
 ### 5. Assignment Scores
-### 6. Exam Registrations
+### 6. Registrations
 
 ## Metadata of Tables
 
@@ -110,7 +110,7 @@ course_run_id|	String|	Foreign key. Identifier for the specific offering of the 
 date|	DateTime|	Date and time of enrolment.
 first_seen|	DateTime|	Date and time the enrolment record was first created.
 
-### 4. Assignments
+### 4. `assignments`
 
 The assignments table stores information about assignments.
 
@@ -122,7 +122,7 @@ assignment_run_id|	Integer| Identifier of the assignment run
 week|	Integer|	Week in which the assignment is due
 graded|	Boolean|	Indicates whether the assignment is graded or not
 
-### 5. Assignement Scores
+### 5. `assignement_scores`
 
 The assignment_scores table stores information about assignment scores.
 
@@ -132,7 +132,7 @@ enrolment_id|	String|	Primary key, Foreign key.	Unique identifier of the enrolme
 assignment_id|	Integer| Primary key, Foreign key.	Unique identifier of the assignment associated with the enrolment
 score|	Integer| The score achieved on the assignment
 
-### 6. Registrations
+### 6. `registrations`
 
 The registrations table stores information about the registrations for exams.
 
@@ -184,5 +184,3 @@ course_run_id references the course_runs table.
 
 enrolment_id references the enrolments table.
 assignment_id references the assignments table.
-
-[DB Data drive link]: https://drive.google.com/drive/folders/1E4eoLFFoUsh7HhKjhsQEJhHU9y7K_gf7?usp=share_link
