@@ -1,7 +1,7 @@
-from sqlalchemy import Column, String, Integer, Float, Boolean, Enum, Date, DateTime
+from sqlalchemy import Column, String, Integer, Boolean, Enum, Date, DateTime
 from sqlalchemy import ForeignKey, CheckConstraint, UniqueConstraint
-from sqlalchemy.orm import declarative_base, relationship, sessionmaker
-import datetime as dt
+from sqlalchemy.orm import declarative_base, relationship
+# import datetime as dt
 
 # Declarative style schema definition
 Base = declarative_base()
@@ -128,3 +128,54 @@ class Score(Base):
     enrolment_id = Column(String(), ForeignKey("enrolments.enrolment_id"), primary_key = True) # Alnum dtype
     assignment_id = Column(Integer(), ForeignKey("assignments.assignment_id"), primary_key = True)
     score = Column(Integer())
+
+# Exam registrations table
+class Registration(Base):
+    __tablename__ = "registrations"
+
+    id = Column(Integer(), primary_key = True)
+    enrolment_id = Column(String(), ForeignKey("enrolments.enrolment_id"), nullable = False)
+    user_id = Column(Integer(), ForeignKey("users.user_id"), nullable = False)
+    payment_status = Column(Enum(), nullable = False)
+    alloted_date_final = Column(DateTime(), nullable = False)
+    motivation = Column(Enum(), nullable = False)
+    information_source = Column(Enum(), nullable = False)
+
+    # Where is the information on the following column? Could not find it in the Registration data
+    # alloted_slot = Column(Enum(), nullable = False)
+
+    motivation = Column(Enum(), nullable = False)
+    share_course_with_orgs = Column(Boolean(), nullable = True) # Null values for None in db
+    share_course_with_college = Column(Boolean(), nullbale = True) # Null values for None in db
+    
+    # The following column has all values as None. Should we add?
+    # is_fdp_enabled = Column(Boolean(), nullable = False)
+
+    is_physically_challenged = Column(Boolean(), nullable = False)
+    is_sc_st = Column(Boolean(), nullable = False)
+    pwd_category = Column(Enum(), nullable = True) # Null values for No in db
+    student_credit_transfer = Column(Enum(), nullable = True) # Null values for None in db
+    first_state = Column(String(), nullable = False)
+    first_city = Column(String(), nullable = False)
+    second_state = Column(String(), nullable = False)
+    second_city = Column(String(), nullable = False)
+    third_state = Column(String(), nullable = False)
+    third_city = Column(String(), nullable = False)
+    transaction_date = Column(DateTime(), nullable = False)
+
+    __tableargs__ = (CheckConstraint(payment_status.in_(['payment_pending', 'payment_complete', 'payment_failed',
+                                                         'payment_refund'])),
+                    CheckConstraint(motivation.in_(['To update myself with knowledge in this field',
+                                                    'Preparing for competitive exams',
+                                                    'To learn about how MOOCs work',
+                                                    'For getting a job/internship',
+                                                    'For research purposes',
+                                                    'Other'])),
+                    CheckConstraint(information_source.in_(['College', 'NPTEL Localchapter', 'Internet', 
+                                                            'Friends', 'Others'])),
+                    CheckConstraint(student_credit_transfer.in_('yes_and_share', 'no_and_share', 'no_and_no_share')),
+                    CheckConstraint(pwd_category.in_(['Learning Disability', 'Hearing Impaired',
+                                                      'Orthopaedically Handicapped does not require elevator',
+                                                      'Orthopaedically Handicapped requires elevator',
+                                                      'Visually Impaired without scribe', 
+                                                      'Visually Impaired with scribe'])))
