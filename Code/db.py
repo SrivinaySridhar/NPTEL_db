@@ -6,6 +6,18 @@ from sqlalchemy.orm import declarative_base, relationship
 # Declarative style schema definition
 Base = declarative_base()
 
+# Foreign key support
+from sqlalchemy.engine import Engine
+from sqlalchemy import event
+
+# Everytime a connection to the engine is made, the "foreign keys" pragma is switched ON
+# Add to Readme file - documentation.
+@event.listens_for(Engine, "connect")
+def set_sqlite_pragma(dbapi_connection, connection_record):
+    cursor = dbapi_connection.cursor()
+    cursor.execute("PRAGMA foreign_keys=ON")
+    cursor.close()
+
 #Users table
 class User(Base):
     __tablename__ = "users"
@@ -81,7 +93,7 @@ class Course(Base):
     is_fdp = Column(Boolean(), nullable = False) 
 
     # Relationships
-    students_enroled = relationship("Enrolment") # The list of students enrolled in the course
+    students_enroled = relationship("Enrolment", uselist = False, back_populates = "course") # The list of students enrolled in the course
     course_assignments = relationship("Assignment") # The list of assignments of the course
 
     # Need the enum values for 'institute' column
@@ -102,6 +114,7 @@ class Enrolment(Base):
     first_seen = Column(DateTime(), nullable = False)
 
     users = relationship("User", back_populates = "courses_enroled")
+    course = relationship("Course", back_populates = "students_enroled")
 
     # UniqueConstraint to enforce that each user can enrol to a particular course offered in a term only once
     __table_args__ = (UniqueConstraint('user_id', 'course_run_id', name='_user_course_run_uc'),)
