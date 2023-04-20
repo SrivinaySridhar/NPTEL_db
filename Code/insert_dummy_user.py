@@ -30,7 +30,6 @@ user1 = User(
     employer = "NPTEL",
     designation = "Data Analyst Intern",
 
-    pwd_category = False,
     first_seen = dt.datetime.now(),
     last_updated = dt.datetime.now()
 )
