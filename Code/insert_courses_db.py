@@ -16,12 +16,12 @@ session = Session()
 
 PATH_TO_COURSES_CSV = sys.argv[2]
 
+errors = []
 report = {"inserted": 0, "failed": 0}
 with open(PATH_TO_COURSES_CSV, 'r', encoding="utf8") as file:
     csv_reader = csv.reader(file)
-    next(csv_reader)
+    next(csv_reader) # Skip 1st line as header
     for row in csv_reader:
-        print(row)
         new_course = Course(unique_course_id = row[0],
                             course_run_id = row[1],
                             name =  row[2],
@@ -34,8 +34,15 @@ with open(PATH_TO_COURSES_CSV, 'r', encoding="utf8") as file:
                             coordinating_institute = row[9], 
                             course_status = row[10], 
                             is_fdp = bool(row[11]))
-        session.add(new_course)
-        session.commit()
-        report["inserted"]+= 1
+        try:    
+            session.add(new_course)
+            session.commit()
+            report["inserted"] += 1
+        except Exception as e:
+            session.rollback()
+            errors.append((row[1], e))
+            report["failed"] += 1
+            pass
 
-print(report)
+print("Errors in inserting the following courses (course_run_id, error):", errors)
+print("Report of the insertion:", report)
