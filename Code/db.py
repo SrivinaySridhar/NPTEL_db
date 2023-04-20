@@ -18,7 +18,7 @@ def set_sqlite_pragma(dbapi_connection, connection_record):
     cursor.execute("PRAGMA foreign_keys=ON")
     cursor.close()
 
-#Users table
+# Users table
 class User(Base):
     __tablename__ = "users"
 
@@ -43,7 +43,7 @@ class User(Base):
     department = Column(String()) # Possible to make it Enum()? from NPTEL team
 
     # Following fields for profession = Students
-    degree = Column(Enum(), nullable = False)
+    degree = Column(Enum()) # Changed to nullable
     study_year = Column(Integer())
     scholarship = Column(Boolean())
 
@@ -52,7 +52,6 @@ class User(Base):
     designation = Column(String())
 
     # All
-    pwd_category = Column(Boolean(), nullable = False)
     first_seen = Column(DateTime()) # Nullable? Is this data available? Yes. Useful?
     last_updated = Column(DateTime()) # Nullable? Can we somehow get this data?
 
