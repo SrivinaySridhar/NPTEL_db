@@ -164,3 +164,6 @@ Databases/
 
 # Ignore files under Data folder
 Data/
+
+# Ignore Docker file
+Docker
