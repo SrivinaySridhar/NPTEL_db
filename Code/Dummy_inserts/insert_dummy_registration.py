@@ -1,7 +1,12 @@
-from db import Registration
-from run import engine
 import datetime as dt
 from sqlalchemy.orm import sessionmaker
+
+import sys
+
+sys.path.append('..')
+
+from db import Registration
+from run import engine
 
 Session = sessionmaker(engine)
 session = Session()

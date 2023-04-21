@@ -1,7 +1,11 @@
+from sqlalchemy.orm import sessionmaker
+
+import sys
+
+sys.path.append('..')
+
 from db import Assignment
 from run import engine
-import datetime as dt
-from sqlalchemy.orm import sessionmaker
 
 Session = sessionmaker(engine)
 session = Session()
